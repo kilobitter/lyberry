@@ -1,0 +1,164 @@
+$ /Users/ghijs/development/flutter/bin/cache/dart-sdk/bin/dart --suppress-analytics run tool/photo_cover_pixel_check.dart
+Running build hooks...Running build hooks...photo-cover pixel checks (CoverRenderer)
+crop validation
+  PASS  a half-frame crop with a quarter turn is valid
+  PASS  an empty crop is rejected
+  PASS  a crop past the right edge is rejected
+  PASS  a crop above the top edge is rejected
+  PASS  non-finite crop values are rejected
+  PASS  an out-of-range quarter turn is rejected
+  PASS  rendering an empty crop throws instead of encoding
+  PASS  pixel mapping starts at the half width (expected 120, got 120)
+  PASS  pixel mapping spans the half width (expected 120, got 120)
+full-frame round trip
+  PASS  full-frame cover keeps the width (expected 240, got 240)
+  PASS  full-frame cover keeps the height (expected 120, got 120)
+  PASS  top-left quadrant survives (rgb(220,30,30))
+  PASS  top-right quadrant survives (rgb(30,200,30))
+  PASS  bottom-left quadrant survives (rgb(30,30,220))
+  PASS  bottom-right quadrant survives (rgb(230,210,40))
+crop changes saved pixels
+  PASS  right half is half as wide (expected 120, got 120)
+  PASS  right half keeps the height (expected 120, got 120)
+  PASS  right half starts on the green quadrant (rgb(30,200,30))
+  PASS  right half ends on the yellow quadrant (rgb(230,210,40))
+  PASS  a corner drag changes the saved slice (rgb(30,30,220))
+quarter turns
+  PASS  one clockwise turn swaps the width (expected 120, got 120)
+  PASS  one clockwise turn swaps the height (expected 240, got 240)
+  PASS  clockwise puts the old bottom-left top-left (rgb(30,30,220))
+  PASS  clockwise puts the old top-right bottom-right (rgb(30,200,30))
+  PASS  three clockwise turns swap the width (expected 120, got 120)
+  PASS  anticlockwise puts the old top-right top-left (rgb(30,200,30))
+  PASS  a half turn keeps the width (expected 240, got 240)
+  PASS  a half turn puts the old bottom-right top-left (rgb(230,210,40))
+EXIF orientation
+  PASS  the encoded header stays landscape wide (expected 240, got 240)
+  PASS  the encoded header stays landscape high (expected 120, got 120)
+  PASS  the fixture declares EXIF orientation 6 (expected 6, got 6)
+  PASS  the preview bakes orientation into a portrait width (expected 120, got 120)
+  PASS  the preview bakes orientation into a portrait height (expected 240, got 240)
+  PASS  orientation 6 turns the old bottom-left top-left (rgb(30,30,220))
+  PASS  the saved cover is portrait too (expected 120, got 120)
+  PASS  the saved cover keeps the oriented height (expected 240, got 240)
+  PASS  the saved cover matches the preview corner (rgb(30,30,220))
+  PASS  the saved cover matches the far preview corner (rgb(30,200,30))
+  PASS  preview and output agree pixel for pixel (mismatches: 0)
+crop maps in oriented space
+  PASS  the oriented crop keeps the oriented width (expected 120, got 120)
+  PASS  the oriented crop takes half the oriented height (expected 120, got 120)
+  PASS  oriented top-left is the old bottom-left (rgb(30,30,220))
+  PASS  oriented top-right is the old top-left (rgb(220,30,30))
+  PASS  EXIF plus a quarter turn is landscape again (expected 240, got 240)
+  PASS  EXIF plus a quarter turn keeps the height (expected 120, got 120)
+  PASS  the rotated oriented image starts on the old bottom-right (rgb(230,210,40))
+output bounds
+  PASS  a 3200px source is bounded to 2560 wide (expected 2560, got 2560)
+  PASS  the aspect ratio is preserved at the bound (expected 1920, got 1920)
+  PASS  the bounded cover stays under the 5 MiB asset cap (137409 bytes)
+  PASS  a small source is not upscaled (expected 200, got 200)
+  PASS  a small source keeps its height (expected 400, got 400)
+metadata stripped
+  PASS  the fixture really carries an APP1 EXIF block
+  PASS  the derived cover carries no EXIF APP1 block
+  PASS  the derived cover has no orientation tag left
+  PASS  the derived cover EXIF block is empty
+  PASS  the interactive preview is metadata-free too
+derived asset validation
+  PASS  the derived cover is a JPEG (expected image/jpeg, got image/jpeg)
+  PASS  the asset width matches its bytes (expected 120, got 120)
+  PASS  the asset height matches its bytes (expected 60, got 60)
+  PASS  the asset keeps the encoded bytes
+deterministic identity
+  PASS  the same crop of the same original derives the same cover id (expected b1f197161c7bb2c318365a95931e3e350d59a2bf6bba447493814e59565b0686, got b1f197161c7bb2c318365a95931e3e350d59a2bf6bba447493814e59565b0686)
+  PASS  a different crop derives a different cover id
+preview matches output space
+  PASS  a preview under the cap keeps its width (expected 400, got 400)
+  PASS  a preview under the cap keeps its height (expected 200, got 200)
+  PASS  a rotated preview swaps the width (expected 200, got 200)
+  PASS  a rotated preview swaps the height (expected 400, got 400)
+  PASS  the rotated preview shows the old bottom-left top-left (rgb(30,30,220))
+  PASS  rotated preview and output agree (mismatches: 0)
+canonical EXIF ingest, orientations 1-8
+  PASS  orientation 1 ingests as a verified asset
+  PASS  orientation 1 keeps its content address (expected 8406b950ca849bf6c202e9cb14bf227c9d8c17780a5b36071bd1942da693662a, got 8406b950ca849bf6c202e9cb14bf227c9d8c17780a5b36071bd1942da693662a)
+  PASS  orientation 1 keeps the raw stored width (expected 240, got 240)
+  PASS  orientation 1 keeps the raw stored height (expected 120, got 120)
+  PASS  orientation 1 decodes at the baked width (expected 240, got 240)
+  PASS  orientation 1 decodes at the baked height (expected 120, got 120)
+  PASS  orientation 1 cover follows the oriented width (expected 240, got 240)
+  PASS  orientation 1 cover follows the oriented height (expected 120, got 120)
+  PASS  orientation 2 ingests as a verified asset
+  PASS  orientation 2 keeps its content address (expected c58c3d511ff8e21e1167c4c2a7891a432fd5f45939a6f6355915656edafbf773, got c58c3d511ff8e21e1167c4c2a7891a432fd5f45939a6f6355915656edafbf773)
+  PASS  orientation 2 keeps the raw stored width (expected 240, got 240)
+  PASS  orientation 2 keeps the raw stored height (expected 120, got 120)
+  PASS  orientation 2 decodes at the baked width (expected 240, got 240)
+  PASS  orientation 2 decodes at the baked height (expected 120, got 120)
+  PASS  orientation 2 cover follows the oriented width (expected 240, got 240)
+  PASS  orientation 2 cover follows the oriented height (expected 120, got 120)
+  PASS  orientation 3 ingests as a verified asset
+  PASS  orientation 3 keeps its content address (expected 51d89b7aee274e67c9599a612c3d622f375aed09a7178476fa2c5448f557e4c1, got 51d89b7aee274e67c9599a612c3d622f375aed09a7178476fa2c5448f557e4c1)
+  PASS  orientation 3 keeps the raw stored width (expected 240, got 240)
+  PASS  orientation 3 keeps the raw stored height (expected 120, got 120)
+  PASS  orientation 3 decodes at the baked width (expected 240, got 240)
+  PASS  orientation 3 decodes at the baked height (expected 120, got 120)
+  PASS  orientation 3 cover follows the oriented width (expected 240, got 240)
+  PASS  orientation 3 cover follows the oriented height (expected 120, got 120)
+  PASS  orientation 4 ingests as a verified asset
+  PASS  orientation 4 keeps its content address (expected 55c68dbbae66dd887c1526aaa11cb2aab32e32ecaff08c76ecb451a26caa1e1a, got 55c68dbbae66dd887c1526aaa11cb2aab32e32ecaff08c76ecb451a26caa1e1a)
+  PASS  orientation 4 keeps the raw stored width (expected 240, got 240)
+  PASS  orientation 4 keeps the raw stored height (expected 120, got 120)
+  PASS  orientation 4 decodes at the baked width (expected 240, got 240)
+  PASS  orientation 4 decodes at the baked height (expected 120, got 120)
+  PASS  orientation 4 cover follows the oriented width (expected 240, got 240)
+  PASS  orientation 4 cover follows the oriented height (expected 120, got 120)
+  PASS  orientation 5 ingests as a verified asset
+  PASS  orientation 5 keeps its content address (expected fe0032c64b296c51dab121ed94fbe981d8bb2ab363a47d5cad20015a95810cd2, got fe0032c64b296c51dab121ed94fbe981d8bb2ab363a47d5cad20015a95810cd2)
+  PASS  orientation 5 keeps the raw stored width (expected 240, got 240)
+  PASS  orientation 5 keeps the raw stored height (expected 120, got 120)
+  PASS  orientation 5 decodes at the baked width (expected 120, got 120)
+  PASS  orientation 5 decodes at the baked height (expected 240, got 240)
+  PASS  orientation 5 cover follows the oriented width (expected 120, got 120)
+  PASS  orientation 5 cover follows the oriented height (expected 240, got 240)
+  PASS  orientation 6 ingests as a verified asset
+  PASS  orientation 6 keeps its content address (expected 86b1e19c152c5ab89a04c68ee3f8ce76275216de950861e5603501d65a8a7c18, got 86b1e19c152c5ab89a04c68ee3f8ce76275216de950861e5603501d65a8a7c18)
+  PASS  orientation 6 keeps the raw stored width (expected 240, got 240)
+  PASS  orientation 6 keeps the raw stored height (expected 120, got 120)
+  PASS  orientation 6 decodes at the baked width (expected 120, got 120)
+  PASS  orientation 6 decodes at the baked height (expected 240, got 240)
+  PASS  orientation 6 cover follows the oriented width (expected 120, got 120)
+  PASS  orientation 6 cover follows the oriented height (expected 240, got 240)
+  PASS  orientation 7 ingests as a verified asset
+  PASS  orientation 7 keeps its content address (expected 9d35dfab6078f6601736446e310dd5bab1771ab0dcf804be19d26e9c1835db49, got 9d35dfab6078f6601736446e310dd5bab1771ab0dcf804be19d26e9c1835db49)
+  PASS  orientation 7 keeps the raw stored width (expected 240, got 240)
+  PASS  orientation 7 keeps the raw stored height (expected 120, got 120)
+  PASS  orientation 7 decodes at the baked width (expected 120, got 120)
+  PASS  orientation 7 decodes at the baked height (expected 240, got 240)
+  PASS  orientation 7 cover follows the oriented width (expected 120, got 120)
+  PASS  orientation 7 cover follows the oriented height (expected 240, got 240)
+  PASS  orientation 8 ingests as a verified asset
+  PASS  orientation 8 keeps its content address (expected a97aeb2d6fffa8cfaa69ce54c0bb5f80999fb2285d8f6d55b385ba4852167f29, got a97aeb2d6fffa8cfaa69ce54c0bb5f80999fb2285d8f6d55b385ba4852167f29)
+  PASS  orientation 8 keeps the raw stored width (expected 240, got 240)
+  PASS  orientation 8 keeps the raw stored height (expected 120, got 120)
+  PASS  orientation 8 decodes at the baked width (expected 120, got 120)
+  PASS  orientation 8 decodes at the baked height (expected 240, got 240)
+  PASS  orientation 8 cover follows the oriented width (expected 120, got 120)
+  PASS  orientation 8 cover follows the oriented height (expected 240, got 240)
+canonical safety guards still fail closed
+  PASS  a JPEG pixel bomb is refused from its frame header
+  PASS  a conflicting duplicate PNG header is refused
+  PASS  an animated PNG is refused
+  PASS  a PNG chunk pile is refused instead of assumed static
+  PASS  an animated WebP is refused
+  PASS  a WebP canvas below its bitstream is refused
+  PASS  a WebP canvas bomb is refused
+  PASS  a plain orientation-free JPEG still inspects as JPEG
+rejects oversized and animated sources
+  PASS  a source over the pixel bound is refused before raster work
+  PASS  a source over the byte bound is refused
+  PASS  non-image bytes are refused with a validation error
+  PASS  the inspector bounds are still the shared 5 MiB / 20 MP limits
+
+checks: 144, failures: 0
+all photo-cover pixel checks passed
+exit=0

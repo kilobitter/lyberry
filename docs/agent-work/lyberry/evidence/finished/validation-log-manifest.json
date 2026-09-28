@@ -1,0 +1,22 @@
+{
+  "finished-focused.log": {
+    "bytes": 12389,
+    "sha256": "e280b3801ee5c8b943e3aa2574f3f86d7a0b54ea458c1ff3dcbd9068501bbd17"
+  },
+  "finished-full-suite.log": {
+    "bytes": 88415,
+    "sha256": "04b74018827c2dad2e7bf3b93dcf5de38f9daa20b5a7c8e177f64d938cb7f5d4"
+  },
+  "finished-analyze.log": {
+    "bytes": 96,
+    "sha256": "a1dd0a090a1dc2bdcd46aee8b6352fecfde40f5519a0c69c61f2a5bf2fb943a3"
+  },
+  "finished-format-check.log": {
+    "bytes": 49,
+    "sha256": "13ccf73b070a8b73007fceb26d8056693c0f79a31741b9fde92a0b9f01677c76"
+  },
+  "finished-android-build.log": {
+    "bytes": 24648,
+    "sha256": "e6c5cf1c7f7e161b0dff0eb29b0951523b97df534ebdfe0ecd3235227a2f091e"
+  }
+}

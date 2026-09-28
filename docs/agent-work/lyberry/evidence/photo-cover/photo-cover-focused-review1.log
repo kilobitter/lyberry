@@ -1,0 +1,770 @@
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +7: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +8: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +9: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +10: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +11: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:00 +12: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover the isolate worker derives the same cover as the inline worker
+00:00 +13: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover an EXIF original ingests raw and crops to the oriented frame
+00:00 +14: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover never mutates the source bytes
+00:00 +15: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover a different crop derives a different content-addressed cover
+00:00 +16: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: (setUpAll)
+00:00 +16: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: real pixels a dragged crop changes the saved pixels, not just the overlay
+00:00 +17: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +18: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +19: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +20: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +21: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +22: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +23: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +24: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +25: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +26: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +27: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +28: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +29: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +30: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +31: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +32: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +33: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +34: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +35: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +36: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +37: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +38: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +39: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +40: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:00 +41: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +42: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +43: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +44: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +45: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +46: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +47: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +48: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +49: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +50: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +51: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +52: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +53: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +54: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#39b31]], state: ScrollableState#4a6e2(position: ScrollPositionWithSingleContext#93d7b(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#8e1eb, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#11926 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#8cea0@Offset(77.5, 10.0), RenderPointerListener#3bb76@Offset(77.5, 10.0), RenderSemanticsAnnotations#f2cdb@Offset(77.5, 10.0), RenderIgnorePointer#b1f81@Offset(77.5, 10.0), RenderTapRegion#92cf3@Offset(77.5, 10.0), RenderMouseRegion#8df78@Offset(77.5, 10.0), RenderPadding#bda50@Offset(77.5, 10.0), RenderRepaintBoundary#e9b71@Offset(77.5, 10.0), RenderIndexedSemantics#1dd07@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#44fc8@Offset(97.5, 360.0), RenderIgnorePointer#c4bfa@Offset(97.5, 360.0), RenderSemanticsAnnotations#5f37c@Offset(97.5, 360.0), RenderPointerListener#90731@Offset(97.5, 360.0), RenderSemanticsGestureHandler#0456a@Offset(97.5, 360.0), RenderPointerListener#588ba@Offset(97.5, 360.0), _RenderScrollSemantics#d5337@Offset(97.5, 360.0), RenderClipRect#687e8@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#7d173@Offset(97.5, 416.0), _RenderInkFeatures#c8bb5@Offset(97.5, 416.0), RenderPhysicalModel#bdb2f@Offset(97.5, 416.0), RenderSemanticsAnnotations#19302@Offset(97.5, 416.0), RenderRepaintBoundary#22f97@Offset(97.5, 416.0), RenderIgnorePointer#51760@Offset(97.5, 416.0), RenderAnimatedOpacity#af3ce@Offset(97.5, 416.0), RenderAnimatedOpacity#51b06@Offset(97.5, 416.0), _RenderColoredBox#7b1a4@Offset(97.5, 416.0), RenderAnimatedOpacity#86c01@Offset(97.5, 416.0), RenderIgnorePointer#0f122@Offset(97.5, 416.0), RenderAnimatedOpacity#135a7@Offset(97.8, 416.0), RenderRepaintBoundary#8015d@Offset(97.8, 416.0), RenderSemanticsAnnotations#5a3f6@Offset(97.8, 416.0), RenderOffstage#487c1@Offset(97.8, 416.0), RenderSemanticsAnnotations#ca2a0@Offset(97.8, 416.0), _RenderTheater#eb3f5@Offset(97.8, 416.0), RenderAbsorbPointer#9f93d@Offset(97.8, 416.0), RenderPointerListener#701ec@Offset(97.8, 416.0), RenderSemanticsAnnotations#8aaac@Offset(97.8, 416.0), RenderSemanticsAnnotations#a1314@Offset(97.8, 416.0), RenderSemanticsAnnotations#4eaf3@Offset(97.8, 416.0), RenderSemanticsAnnotations#6f905@Offset(97.8, 416.0), RenderTapRegionSurface#27e53@Offset(97.8, 416.0), RenderSemanticsAnnotations#86a9e@Offset(97.8, 416.0), RenderSemanticsAnnotations#f58ed@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#65a09(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#f3033(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+#4      _rootRun (dart:async/zone_root.dart:35:13)
+#5      _CustomZone.run (dart:async/zone.dart:726:19)
+#6      TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#7      WidgetController.dragUntilVisible (package:flutter_test/src/controller.dart:2462:27)
+#8      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:13)
+#9      _rootRun (dart:async/zone_root.dart:35:13)
+#10     _CustomZone.run (dart:async/zone.dart:726:19)
+#11     TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#12     WidgetController.scrollUntilVisible (package:flutter_test/src/controller.dart:2420:27)
+#13     main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:18)
+#14     main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:198:13)
+<asynchronous suspension>
+#15     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#16     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#17     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#39b31]], state: ScrollableState#4a6e2(position: ScrollPositionWithSingleContext#93d7b(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#8e1eb, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.5, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#11926 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#4c8f5(TextSpan(debugLabel: (((englishLike bodySmall 2021).merge(((whiteMountainView bodySmall).apply).apply)).copyWith).merge(unknown), inherit: false, color: Color(alpha: 1.0000, red: 0.6353, green: 0.6549, blue: 0.6706, colorSpace: ColorSpace.sRGB), family: Roboto, size: 13.0, weight: 400, letterSpacing: 0.4, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 0.9529, green: 0.9569, blue: 0.9333, colorSpace: ColorSpace.sRGB) TextDecoration.none, "Optional. ISBN-10/13, EAN-8/13 or UPC-A.")), RenderParagraph#9424b@Offset(59.5, 8.0), RenderAnimatedOpacity#6b272@Offset(59.5, 8.0), RenderSemanticsAnnotations#5eefd@Offset(59.5, 8.0), _RenderDecoration#ab8ca@Offset(77.5, 64.0), RenderPointerListener#7e821@Offset(77.5, 64.0), RenderSemanticsAnnotations#4ab48@Offset(77.5, 64.0), RenderIgnorePointer#0056f@Offset(77.5, 64.0), RenderTapRegion#560f9@Offset(77.5, 64.0), RenderMouseRegion#83340@Offset(77.5, 64.0), RenderPadding#fe38c@Offset(77.5, 64.0), RenderRepaintBoundary#67f32@Offset(77.5, 64.0), RenderIndexedSemantics#49814@Offset(77.5, 64.0), RenderSliverList@(mainAxis: 360.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#44fc8@Offset(97.5, 360.0), RenderIgnorePointer#c4bfa@Offset(97.5, 360.0), RenderSemanticsAnnotations#5f37c@Offset(97.5, 360.0), RenderPointerListener#90731@Offset(97.5, 360.0), RenderSemanticsGestureHandler#0456a@Offset(97.5, 360.0), RenderPointerListener#588ba@Offset(97.5, 360.0), _RenderScrollSemantics#d5337@Offset(97.5, 360.0), RenderClipRect#687e8@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#7d173@Offset(97.5, 416.0), _RenderInkFeatures#c8bb5@Offset(97.5, 416.0), RenderPhysicalModel#bdb2f@Offset(97.5, 416.0), RenderSemanticsAnnotations#19302@Offset(97.5, 416.0), RenderRepaintBoundary#22f97@Offset(97.5, 416.0), RenderIgnorePointer#51760@Offset(97.5, 416.0), RenderAnimatedOpacity#af3ce@Offset(97.5, 416.0), RenderAnimatedOpacity#51b06@Offset(97.5, 416.0), _RenderColoredBox#7b1a4@Offset(97.5, 416.0), RenderAnimatedOpacity#86c01@Offset(97.5, 416.0), RenderIgnorePointer#0f122@Offset(97.5, 416.0), RenderAnimatedOpacity#135a7@Offset(97.5, 416.0), RenderRepaintBoundary#8015d@Offset(97.5, 416.0), RenderSemanticsAnnotations#5a3f6@Offset(97.5, 416.0), RenderOffstage#487c1@Offset(97.5, 416.0), RenderSemanticsAnnotations#ca2a0@Offset(97.5, 416.0), _RenderTheater#eb3f5@Offset(97.5, 416.0), RenderAbsorbPointer#9f93d@Offset(97.5, 416.0), RenderPointerListener#701ec@Offset(97.5, 416.0), RenderSemanticsAnnotations#8aaac@Offset(97.5, 416.0), RenderSemanticsAnnotations#a1314@Offset(97.5, 416.0), RenderSemanticsAnnotations#4eaf3@Offset(97.5, 416.0), RenderSemanticsAnnotations#6f905@Offset(97.5, 416.0), RenderTapRegionSurface#27e53@Offset(97.5, 416.0), RenderSemanticsAnnotations#86a9e@Offset(97.5, 416.0), RenderSemanticsAnnotations#f58ed@Offset(97.5, 416.0), HitTestEntry<HitTestTarget>#105ce(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#b1f90(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+<asynchronous suspension>
+#4      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#5      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:7)
+<asynchronous suspension>
+#6      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#7      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:5)
+<asynchronous suspension>
+#8      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:198:7)
+<asynchronous suspension>
+#9      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#10     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#11     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:02 +55: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:02 +55: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#4a611]], state: ScrollableState#4590d(position: ScrollPositionWithSingleContext#cfb84(offset: 0.0, range: 0.0..114.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#51671, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#286a6 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#aa673@Offset(77.5, 10.0), RenderPointerListener#0ea9e@Offset(77.5, 10.0), RenderSemanticsAnnotations#01238@Offset(77.5, 10.0), RenderIgnorePointer#35e24@Offset(77.5, 10.0), RenderTapRegion#40b58@Offset(77.5, 10.0), RenderMouseRegion#d479b@Offset(77.5, 10.0), RenderPadding#a63b4@Offset(77.5, 10.0), RenderRepaintBoundary#047a3@Offset(77.5, 10.0), RenderIndexedSemantics#33b79@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#5c008@Offset(97.5, 360.0), RenderIgnorePointer#fad6b@Offset(97.5, 360.0), RenderSemanticsAnnotations#87641@Offset(97.5, 360.0), RenderPointerListener#6be7d@Offset(97.5, 360.0), RenderSemanticsGestureHandler#ffb77@Offset(97.5, 360.0), RenderPointerListener#155d5@Offset(97.5, 360.0), _RenderScrollSemantics#3c3b4@Offset(97.5, 360.0), RenderClipRect#1ec05@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#1afc6@Offset(97.5, 416.0), _RenderInkFeatures#fed01@Offset(97.5, 416.0), RenderPhysicalModel#c46bf@Offset(97.5, 416.0), RenderSemanticsAnnotations#64975@Offset(97.5, 416.0), RenderRepaintBoundary#6a6fb@Offset(97.5, 416.0), RenderIgnorePointer#23557@Offset(97.5, 416.0), RenderAnimatedOpacity#e38fe@Offset(97.5, 416.0), RenderAnimatedOpacity#14d37@Offset(97.5, 416.0), _RenderColoredBox#1ddfb@Offset(97.5, 416.0), RenderAnimatedOpacity#11267@Offset(97.5, 416.0), RenderIgnorePointer#3ec6a@Offset(97.5, 416.0), RenderAnimatedOpacity#de5e0@Offset(97.8, 416.0), RenderRepaintBoundary#6aab1@Offset(97.8, 416.0), RenderSemanticsAnnotations#43e4e@Offset(97.8, 416.0), RenderOffstage#28eeb@Offset(97.8, 416.0), RenderSemanticsAnnotations#0e1b0@Offset(97.8, 416.0), _RenderTheater#b04fe@Offset(97.8, 416.0), RenderAbsorbPointer#624ed@Offset(97.8, 416.0), RenderPointerListener#3cb0a@Offset(97.8, 416.0), RenderSemanticsAnnotations#27d7d@Offset(97.8, 416.0), RenderSemanticsAnnotations#4bc86@Offset(97.8, 416.0), RenderSemanticsAnnotations#1f204@Offset(97.8, 416.0), RenderSemanticsAnnotations#4d4e8@Offset(97.8, 416.0), RenderTapRegionSurface#c2a52@Offset(97.8, 416.0), RenderSemanticsAnnotations#8aef1@Offset(97.8, 416.0), RenderSemanticsAnnotations#e9caf@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#573d3(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#209c4(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+#4      _rootRun (dart:async/zone_root.dart:35:13)
+#5      _CustomZone.run (dart:async/zone.dart:726:19)
+#6      TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#7      WidgetController.dragUntilVisible (package:flutter_test/src/controller.dart:2462:27)
+#8      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:13)
+#9      _rootRun (dart:async/zone_root.dart:35:13)
+#10     _CustomZone.run (dart:async/zone.dart:726:19)
+#11     TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#12     WidgetController.scrollUntilVisible (package:flutter_test/src/controller.dart:2420:27)
+#13     main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:18)
+#14     main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:241:11)
+<asynchronous suspension>
+#15     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#16     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#17     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:02 +56: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#4a611]], state: ScrollableState#4590d(position: ScrollPositionWithSingleContext#cfb84(offset: 0.0, range: 0.0..114.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#51671, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.5, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#286a6 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#9d9b0(TextSpan(debugLabel: (((englishLike bodySmall 2021).merge(((whiteMountainView bodySmall).apply).apply)).copyWith).merge(unknown), inherit: false, color: Color(alpha: 1.0000, red: 0.6353, green: 0.6549, blue: 0.6706, colorSpace: ColorSpace.sRGB), family: Roboto, size: 13.0, weight: 400, letterSpacing: 0.4, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 0.9529, green: 0.9569, blue: 0.9333, colorSpace: ColorSpace.sRGB) TextDecoration.none, "Optional. ISBN-10/13, EAN-8/13 or UPC-A.")), RenderParagraph#719ff@Offset(59.5, 8.0), RenderAnimatedOpacity#0dbef@Offset(59.5, 8.0), RenderSemanticsAnnotations#231ba@Offset(59.5, 8.0), _RenderDecoration#d0769@Offset(77.5, 64.0), RenderPointerListener#85b0b@Offset(77.5, 64.0), RenderSemanticsAnnotations#3d4aa@Offset(77.5, 64.0), RenderIgnorePointer#ab2f7@Offset(77.5, 64.0), RenderTapRegion#813f9@Offset(77.5, 64.0), RenderMouseRegion#0e49c@Offset(77.5, 64.0), RenderPadding#20e15@Offset(77.5, 64.0), RenderRepaintBoundary#10868@Offset(77.5, 64.0), RenderIndexedSemantics#6bbd8@Offset(77.5, 64.0), RenderSliverList@(mainAxis: 360.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#5c008@Offset(97.5, 360.0), RenderIgnorePointer#fad6b@Offset(97.5, 360.0), RenderSemanticsAnnotations#87641@Offset(97.5, 360.0), RenderPointerListener#6be7d@Offset(97.5, 360.0), RenderSemanticsGestureHandler#ffb77@Offset(97.5, 360.0), RenderPointerListener#155d5@Offset(97.5, 360.0), _RenderScrollSemantics#3c3b4@Offset(97.5, 360.0), RenderClipRect#1ec05@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#1afc6@Offset(97.5, 416.0), _RenderInkFeatures#fed01@Offset(97.5, 416.0), RenderPhysicalModel#c46bf@Offset(97.5, 416.0), RenderSemanticsAnnotations#64975@Offset(97.5, 416.0), RenderRepaintBoundary#6a6fb@Offset(97.5, 416.0), RenderIgnorePointer#23557@Offset(97.5, 416.0), RenderAnimatedOpacity#e38fe@Offset(97.5, 416.0), RenderAnimatedOpacity#14d37@Offset(97.5, 416.0), _RenderColoredBox#1ddfb@Offset(97.5, 416.0), RenderAnimatedOpacity#11267@Offset(97.5, 416.0), RenderIgnorePointer#3ec6a@Offset(97.5, 416.0), RenderAnimatedOpacity#de5e0@Offset(97.5, 416.0), RenderRepaintBoundary#6aab1@Offset(97.5, 416.0), RenderSemanticsAnnotations#43e4e@Offset(97.5, 416.0), RenderOffstage#28eeb@Offset(97.5, 416.0), RenderSemanticsAnnotations#0e1b0@Offset(97.5, 416.0), _RenderTheater#b04fe@Offset(97.5, 416.0), RenderAbsorbPointer#624ed@Offset(97.5, 416.0), RenderPointerListener#3cb0a@Offset(97.5, 416.0), RenderSemanticsAnnotations#27d7d@Offset(97.5, 416.0), RenderSemanticsAnnotations#4bc86@Offset(97.5, 416.0), RenderSemanticsAnnotations#1f204@Offset(97.5, 416.0), RenderSemanticsAnnotations#4d4e8@Offset(97.5, 416.0), RenderTapRegionSurface#c2a52@Offset(97.5, 416.0), RenderSemanticsAnnotations#8aef1@Offset(97.5, 416.0), RenderSemanticsAnnotations#e9caf@Offset(97.5, 416.0), HitTestEntry<HitTestTarget>#c1808(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#a89e7(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+<asynchronous suspension>
+#4      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#5      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:7)
+<asynchronous suspension>
+#6      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#7      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:5)
+<asynchronous suspension>
+#8      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:241:5)
+<asynchronous suspension>
+#9      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#10     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#11     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:02 +57: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:02 +58: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:02 +58 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:03 +58 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection empty, non-finite and out-of-bounds crops are rejected [E]
+  ValidationException: Choose at least a sliver of the photo.
+  package:lyberry/domain/cover_crop.dart 98:28          CoverCrop.assertValid
+  package:lyberry/services/image_transform.dart 180:10  ImageTransformService.deriveCover
+  test/services/image_transform_test.dart 271:18        main.<fn>.<fn>
+  
+00:03 +59 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:03 +60 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:03 +61 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:03 +62 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: cancelling the crop keeps the previous cover
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#92189]], state: ScrollableState#c9db5(position: ScrollPositionWithSingleContext#5fdc6(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#775be, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#b97e0 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#12f58@Offset(77.5, 10.0), RenderPointerListener#1c20e@Offset(77.5, 10.0), RenderSemanticsAnnotations#d9e2d@Offset(77.5, 10.0), RenderIgnorePointer#ff10e@Offset(77.5, 10.0), RenderTapRegion#abc59@Offset(77.5, 10.0), RenderMouseRegion#fcceb@Offset(77.5, 10.0), RenderPadding#1a078@Offset(77.5, 10.0), RenderRepaintBoundary#badc0@Offset(77.5, 10.0), RenderIndexedSemantics#3f0f0@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#64558@Offset(97.5, 360.0), RenderIgnorePointer#90576@Offset(97.5, 360.0), RenderSemanticsAnnotations#1c4bc@Offset(97.5, 360.0), RenderPointerListener#09e75@Offset(97.5, 360.0), RenderSemanticsGestureHandler#8573f@Offset(97.5, 360.0), RenderPointerListener#64229@Offset(97.5, 360.0), _RenderScrollSemantics#52ddd@Offset(97.5, 360.0), RenderClipRect#a7254@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#dca4a@Offset(97.5, 416.0), _RenderInkFeatures#7cd08@Offset(97.5, 416.0), RenderPhysicalModel#32809@Offset(97.5, 416.0), RenderSemanticsAnnotations#89d18@Offset(97.5, 416.0), RenderRepaintBoundary#512ee@Offset(97.5, 416.0), RenderIgnorePointer#5656d@Offset(97.5, 416.0), RenderAnimatedOpacity#765dd@Offset(97.5, 416.0), RenderAnimatedOpacity#670cd@Offset(97.5, 416.0), _RenderColoredBox#252f1@Offset(97.5, 416.0), RenderAnimatedOpacity#f4bff@Offset(97.5, 416.0), RenderIgnorePointer#6ef38@Offset(97.5, 416.0), RenderAnimatedOpacity#d18ea@Offset(97.8, 416.0), RenderRepaintBoundary#0a440@Offset(97.8, 416.0), RenderSemanticsAnnotations#3a8a2@Offset(97.8, 416.0), RenderOffstage#b5d91@Offset(97.8, 416.0), RenderSemanticsAnnotations#31690@Offset(97.8, 416.0), _RenderTheater#5b690@Offset(97.8, 416.0), RenderAbsorbPointer#356c4@Offset(97.8, 416.0), RenderPointerListener#85a3c@Offset(97.8, 416.0), RenderSemanticsAnnotations#89d1d@Offset(97.8, 416.0), RenderSemanticsAnnotations#98efb@Offset(97.8, 416.0), RenderSemanticsAnnotations#e7239@Offset(97.8, 416.0), RenderSemanticsAnnotations#e41d5@Offset(97.8, 416.0), RenderTapRegionSurface#fb9fe@Offset(97.8, 416.0), RenderSemanticsAnnotations#7fa98@Offset(97.8, 416.0), RenderSemanticsAnnotations#318a0@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#e82b0(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#4a787(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+#4      _rootRun (dart:async/zone_root.dart:35:13)
+#5      _CustomZone.run (dart:async/zone.dart:726:19)
+#6      TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#7      WidgetController.dragUntilVisible (package:flutter_test/src/controller.dart:2462:27)
+#8      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:13)
+#9      _rootRun (dart:async/zone_root.dart:35:13)
+#10     _CustomZone.run (dart:async/zone.dart:726:19)
+#11     TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#12     WidgetController.scrollUntilVisible (package:flutter_test/src/controller.dart:2420:27)
+#13     main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:18)
+#14     main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:269:11)
+<asynchronous suspension>
+#15     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#16     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#17     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#92189]], state: ScrollableState#c9db5(position: ScrollPositionWithSingleContext#5fdc6(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#775be, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.5, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#b97e0 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#ad08e(TextSpan(debugLabel: (((englishLike bodySmall 2021).merge(((whiteMountainView bodySmall).apply).apply)).copyWith).merge(unknown), inherit: false, color: Color(alpha: 1.0000, red: 0.6353, green: 0.6549, blue: 0.6706, colorSpace: ColorSpace.sRGB), family: Roboto, size: 13.0, weight: 400, letterSpacing: 0.4, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 0.9529, green: 0.9569, blue: 0.9333, colorSpace: ColorSpace.sRGB) TextDecoration.none, "Optional. ISBN-10/13, EAN-8/13 or UPC-A.")), RenderParagraph#f3d1f@Offset(59.5, 8.0), RenderAnimatedOpacity#56c12@Offset(59.5, 8.0), RenderSemanticsAnnotations#85a8f@Offset(59.5, 8.0), _RenderDecoration#3c514@Offset(77.5, 64.0), RenderPointerListener#50471@Offset(77.5, 64.0), RenderSemanticsAnnotations#19256@Offset(77.5, 64.0), RenderIgnorePointer#495dd@Offset(77.5, 64.0), RenderTapRegion#5434d@Offset(77.5, 64.0), RenderMouseRegion#f7808@Offset(77.5, 64.0), RenderPadding#fc78b@Offset(77.5, 64.0), RenderRepaintBoundary#b686a@Offset(77.5, 64.0), RenderIndexedSemantics#2864c@Offset(77.5, 64.0), RenderSliverList@(mainAxis: 360.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#64558@Offset(97.5, 360.0), RenderIgnorePointer#90576@Offset(97.5, 360.0), RenderSemanticsAnnotations#1c4bc@Offset(97.5, 360.0), RenderPointerListener#09e75@Offset(97.5, 360.0), RenderSemanticsGestureHandler#8573f@Offset(97.5, 360.0), RenderPointerListener#64229@Offset(97.5, 360.0), _RenderScrollSemantics#52ddd@Offset(97.5, 360.0), RenderClipRect#a7254@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#dca4a@Offset(97.5, 416.0), _RenderInkFeatures#7cd08@Offset(97.5, 416.0), RenderPhysicalModel#32809@Offset(97.5, 416.0), RenderSemanticsAnnotations#89d18@Offset(97.5, 416.0), RenderRepaintBoundary#512ee@Offset(97.5, 416.0), RenderIgnorePointer#5656d@Offset(97.5, 416.0), RenderAnimatedOpacity#765dd@Offset(97.5, 416.0), RenderAnimatedOpacity#670cd@Offset(97.5, 416.0), _RenderColoredBox#252f1@Offset(97.5, 416.0), RenderAnimatedOpacity#f4bff@Offset(97.5, 416.0), RenderIgnorePointer#6ef38@Offset(97.5, 416.0), RenderAnimatedOpacity#d18ea@Offset(97.5, 416.0), RenderRepaintBoundary#0a440@Offset(97.5, 416.0), RenderSemanticsAnnotations#3a8a2@Offset(97.5, 416.0), RenderOffstage#b5d91@Offset(97.5, 416.0), RenderSemanticsAnnotations#31690@Offset(97.5, 416.0), _RenderTheater#5b690@Offset(97.5, 416.0), RenderAbsorbPointer#356c4@Offset(97.5, 416.0), RenderPointerListener#85a3c@Offset(97.5, 416.0), RenderSemanticsAnnotations#89d1d@Offset(97.5, 416.0), RenderSemanticsAnnotations#98efb@Offset(97.5, 416.0), RenderSemanticsAnnotations#e7239@Offset(97.5, 416.0), RenderSemanticsAnnotations#e41d5@Offset(97.5, 416.0), RenderTapRegionSurface#fb9fe@Offset(97.5, 416.0), RenderSemanticsAnnotations#7fa98@Offset(97.5, 416.0), RenderSemanticsAnnotations#318a0@Offset(97.5, 416.0), HitTestEntry<HitTestTarget>#0f5d0(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#2b0e3(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+<asynchronous suspension>
+#4      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#5      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:7)
+<asynchronous suspension>
+#6      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#7      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:5)
+<asynchronous suspension>
+#8      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:269:5)
+<asynchronous suspension>
+#9      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#10     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#11     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: no matching candidates
+  Actual: _TypeWidgetFinder:<Found 1 widget with type "CoverCropScreen": [
+            CoverCropScreen(state: _CoverCropScreenState#7c7f2),
+          ]>
+   Which: means one was found but none were expected
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:274:5)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart line 274
+The test description was:
+  cancelling the crop keeps the previous cover
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:04 +62 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: cancelling the crop keeps the previous cover [E]
+  Test failed. See exception logs above.
+  The test description was: cancelling the crop keeps the previous cover
+  
+00:04 +62 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: removing the photo keeps the derived cover
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#8e538]], state: ScrollableState#f9c25(position: ScrollPositionWithSingleContext#f9490(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#a10da, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#848af relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#3dcaf@Offset(77.5, 10.0), RenderPointerListener#41d1e@Offset(77.5, 10.0), RenderSemanticsAnnotations#069bd@Offset(77.5, 10.0), RenderIgnorePointer#a0c23@Offset(77.5, 10.0), RenderTapRegion#a8461@Offset(77.5, 10.0), RenderMouseRegion#1c86e@Offset(77.5, 10.0), RenderPadding#6903b@Offset(77.5, 10.0), RenderRepaintBoundary#5a063@Offset(77.5, 10.0), RenderIndexedSemantics#99e8a@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#22327@Offset(97.5, 360.0), RenderIgnorePointer#109ba@Offset(97.5, 360.0), RenderSemanticsAnnotations#51870@Offset(97.5, 360.0), RenderPointerListener#e933f@Offset(97.5, 360.0), RenderSemanticsGestureHandler#f75a0@Offset(97.5, 360.0), RenderPointerListener#4636e@Offset(97.5, 360.0), _RenderScrollSemantics#6b8a5@Offset(97.5, 360.0), RenderClipRect#525e9@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#7c146@Offset(97.5, 416.0), _RenderInkFeatures#675c0@Offset(97.5, 416.0), RenderPhysicalModel#fd29f@Offset(97.5, 416.0), RenderSemanticsAnnotations#19f5b@Offset(97.5, 416.0), RenderRepaintBoundary#59d45@Offset(97.5, 416.0), RenderIgnorePointer#9e4fb@Offset(97.5, 416.0), RenderAnimatedOpacity#b9d25@Offset(97.5, 416.0), RenderAnimatedOpacity#f8b35@Offset(97.5, 416.0), _RenderColoredBox#801a4@Offset(97.5, 416.0), RenderAnimatedOpacity#e31af@Offset(97.5, 416.0), RenderIgnorePointer#40f28@Offset(97.5, 416.0), RenderAnimatedOpacity#179a9@Offset(97.8, 416.0), RenderRepaintBoundary#1b91e@Offset(97.8, 416.0), RenderSemanticsAnnotations#0b871@Offset(97.8, 416.0), RenderOffstage#6d0ab@Offset(97.8, 416.0), RenderSemanticsAnnotations#d82b0@Offset(97.8, 416.0), _RenderTheater#dfd34@Offset(97.8, 416.0), RenderAbsorbPointer#d6018@Offset(97.8, 416.0), RenderPointerListener#bb2f9@Offset(97.8, 416.0), RenderSemanticsAnnotations#b2e7c@Offset(97.8, 416.0), RenderSemanticsAnnotations#1c5cb@Offset(97.8, 416.0), RenderSemanticsAnnotations#afcb0@Offset(97.8, 416.0), RenderSemanticsAnnotations#941e1@Offset(97.8, 416.0), RenderTapRegionSurface#57f11@Offset(97.8, 416.0), RenderSemanticsAnnotations#1c2af@Offset(97.8, 416.0), RenderSemanticsAnnotations#a3bc5@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#c4f8b(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#22d51(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+#4      _rootRun (dart:async/zone_root.dart:35:13)
+#5      _CustomZone.run (dart:async/zone.dart:726:19)
+#6      TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#7      WidgetController.dragUntilVisible (package:flutter_test/src/controller.dart:2462:27)
+#8      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:13)
+#9      _rootRun (dart:async/zone_root.dart:35:13)
+#10     _CustomZone.run (dart:async/zone.dart:726:19)
+#11     TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#12     WidgetController.scrollUntilVisible (package:flutter_test/src/controller.dart:2420:27)
+#13     main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:18)
+#14     main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:298:11)
+<asynchronous suspension>
+#15     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#16     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#17     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#8e538]], state: ScrollableState#f9c25(position: ScrollPositionWithSingleContext#f9490(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#a10da, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.5, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#848af relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#0903b(TextSpan(debugLabel: (((englishLike bodySmall 2021).merge(((whiteMountainView bodySmall).apply).apply)).copyWith).merge(unknown), inherit: false, color: Color(alpha: 1.0000, red: 0.6353, green: 0.6549, blue: 0.6706, colorSpace: ColorSpace.sRGB), family: Roboto, size: 13.0, weight: 400, letterSpacing: 0.4, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 0.9529, green: 0.9569, blue: 0.9333, colorSpace: ColorSpace.sRGB) TextDecoration.none, "Optional. ISBN-10/13, EAN-8/13 or UPC-A.")), RenderParagraph#ad258@Offset(59.5, 8.0), RenderAnimatedOpacity#898c2@Offset(59.5, 8.0), RenderSemanticsAnnotations#8e8a4@Offset(59.5, 8.0), _RenderDecoration#8403c@Offset(77.5, 64.0), RenderPointerListener#04b07@Offset(77.5, 64.0), RenderSemanticsAnnotations#197d9@Offset(77.5, 64.0), RenderIgnorePointer#07cd1@Offset(77.5, 64.0), RenderTapRegion#f73aa@Offset(77.5, 64.0), RenderMouseRegion#9cb0e@Offset(77.5, 64.0), RenderPadding#23c08@Offset(77.5, 64.0), RenderRepaintBoundary#93cb3@Offset(77.5, 64.0), RenderIndexedSemantics#f984e@Offset(77.5, 64.0), RenderSliverList@(mainAxis: 360.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#22327@Offset(97.5, 360.0), RenderIgnorePointer#109ba@Offset(97.5, 360.0), RenderSemanticsAnnotations#51870@Offset(97.5, 360.0), RenderPointerListener#e933f@Offset(97.5, 360.0), RenderSemanticsGestureHandler#f75a0@Offset(97.5, 360.0), RenderPointerListener#4636e@Offset(97.5, 360.0), _RenderScrollSemantics#6b8a5@Offset(97.5, 360.0), RenderClipRect#525e9@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#7c146@Offset(97.5, 416.0), _RenderInkFeatures#675c0@Offset(97.5, 416.0), RenderPhysicalModel#fd29f@Offset(97.5, 416.0), RenderSemanticsAnnotations#19f5b@Offset(97.5, 416.0), RenderRepaintBoundary#59d45@Offset(97.5, 416.0), RenderIgnorePointer#9e4fb@Offset(97.5, 416.0), RenderAnimatedOpacity#b9d25@Offset(97.5, 416.0), RenderAnimatedOpacity#f8b35@Offset(97.5, 416.0), _RenderColoredBox#801a4@Offset(97.5, 416.0), RenderAnimatedOpacity#e31af@Offset(97.5, 416.0), RenderIgnorePointer#40f28@Offset(97.5, 416.0), RenderAnimatedOpacity#179a9@Offset(97.5, 416.0), RenderRepaintBoundary#1b91e@Offset(97.5, 416.0), RenderSemanticsAnnotations#0b871@Offset(97.5, 416.0), RenderOffstage#6d0ab@Offset(97.5, 416.0), RenderSemanticsAnnotations#d82b0@Offset(97.5, 416.0), _RenderTheater#dfd34@Offset(97.5, 416.0), RenderAbsorbPointer#d6018@Offset(97.5, 416.0), RenderPointerListener#bb2f9@Offset(97.5, 416.0), RenderSemanticsAnnotations#b2e7c@Offset(97.5, 416.0), RenderSemanticsAnnotations#1c5cb@Offset(97.5, 416.0), RenderSemanticsAnnotations#afcb0@Offset(97.5, 416.0), RenderSemanticsAnnotations#941e1@Offset(97.5, 416.0), RenderTapRegionSurface#57f11@Offset(97.5, 416.0), RenderSemanticsAnnotations#1c2af@Offset(97.5, 416.0), RenderSemanticsAnnotations#a3bc5@Offset(97.5, 416.0), HitTestEntry<HitTestTarget>#65b1e(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#19f06(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+<asynchronous suspension>
+#4      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#5      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:7)
+<asynchronous suspension>
+#6      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#7      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:5)
+<asynchronous suspension>
+#8      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:298:5)
+<asynchronous suspension>
+#9      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#10     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#11     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:04 +63 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: removing the cover keeps the photos
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#ff625]], state: ScrollableState#8d8df(position: ScrollPositionWithSingleContext#8823d(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#190a2, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#20d79 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#5cd0f@Offset(77.5, 10.0), RenderPointerListener#ae275@Offset(77.5, 10.0), RenderSemanticsAnnotations#8279a@Offset(77.5, 10.0), RenderIgnorePointer#0f61a@Offset(77.5, 10.0), RenderTapRegion#f75bd@Offset(77.5, 10.0), RenderMouseRegion#d663e@Offset(77.5, 10.0), RenderPadding#77c87@Offset(77.5, 10.0), RenderRepaintBoundary#7784d@Offset(77.5, 10.0), RenderIndexedSemantics#0a0f6@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#fd6a2@Offset(97.5, 360.0), RenderIgnorePointer#4e7af@Offset(97.5, 360.0), RenderSemanticsAnnotations#799a2@Offset(97.5, 360.0), RenderPointerListener#807bb@Offset(97.5, 360.0), RenderSemanticsGestureHandler#cb773@Offset(97.5, 360.0), RenderPointerListener#e6b63@Offset(97.5, 360.0), _RenderScrollSemantics#2acf4@Offset(97.5, 360.0), RenderClipRect#8bacf@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#5b4f8@Offset(97.5, 416.0), _RenderInkFeatures#f5521@Offset(97.5, 416.0), RenderPhysicalModel#205a9@Offset(97.5, 416.0), RenderSemanticsAnnotations#c572d@Offset(97.5, 416.0), RenderRepaintBoundary#e4855@Offset(97.5, 416.0), RenderIgnorePointer#8fdea@Offset(97.5, 416.0), RenderAnimatedOpacity#6fdde@Offset(97.5, 416.0), RenderAnimatedOpacity#2bd21@Offset(97.5, 416.0), _RenderColoredBox#5b42b@Offset(97.5, 416.0), RenderAnimatedOpacity#8a7bf@Offset(97.5, 416.0), RenderIgnorePointer#3dc14@Offset(97.5, 416.0), RenderAnimatedOpacity#3d47f@Offset(97.8, 416.0), RenderRepaintBoundary#1144c@Offset(97.8, 416.0), RenderSemanticsAnnotations#930fa@Offset(97.8, 416.0), RenderOffstage#7699f@Offset(97.8, 416.0), RenderSemanticsAnnotations#8fc02@Offset(97.8, 416.0), _RenderTheater#9c729@Offset(97.8, 416.0), RenderAbsorbPointer#572d3@Offset(97.8, 416.0), RenderPointerListener#ef384@Offset(97.8, 416.0), RenderSemanticsAnnotations#a189e@Offset(97.8, 416.0), RenderSemanticsAnnotations#acd69@Offset(97.8, 416.0), RenderSemanticsAnnotations#43230@Offset(97.8, 416.0), RenderSemanticsAnnotations#e9f61@Offset(97.8, 416.0), RenderTapRegionSurface#61433@Offset(97.8, 416.0), RenderSemanticsAnnotations#c935d@Offset(97.8, 416.0), RenderSemanticsAnnotations#a03d4@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#a7e1f(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#89354(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+#4      _rootRun (dart:async/zone_root.dart:35:13)
+#5      _CustomZone.run (dart:async/zone.dart:726:19)
+#6      TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#7      WidgetController.dragUntilVisible (package:flutter_test/src/controller.dart:2462:27)
+#8      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:13)
+#9      _rootRun (dart:async/zone_root.dart:35:13)
+#10     _CustomZone.run (dart:async/zone.dart:726:19)
+#11     TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#12     WidgetController.scrollUntilVisible (package:flutter_test/src/controller.dart:2420:27)
+#13     main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:18)
+#14     main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:326:11)
+<asynchronous suspension>
+#15     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#16     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#17     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#ff625]], state: ScrollableState#8d8df(position: ScrollPositionWithSingleContext#8823d(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#190a2, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.5, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#20d79 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#4a275(TextSpan(debugLabel: (((englishLike bodySmall 2021).merge(((whiteMountainView bodySmall).apply).apply)).copyWith).merge(unknown), inherit: false, color: Color(alpha: 1.0000, red: 0.6353, green: 0.6549, blue: 0.6706, colorSpace: ColorSpace.sRGB), family: Roboto, size: 13.0, weight: 400, letterSpacing: 0.4, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 0.9529, green: 0.9569, blue: 0.9333, colorSpace: ColorSpace.sRGB) TextDecoration.none, "Optional. ISBN-10/13, EAN-8/13 or UPC-A.")), RenderParagraph#6f314@Offset(59.5, 8.0), RenderAnimatedOpacity#22963@Offset(59.5, 8.0), RenderSemanticsAnnotations#f46e7@Offset(59.5, 8.0), _RenderDecoration#81974@Offset(77.5, 64.0), RenderPointerListener#99786@Offset(77.5, 64.0), RenderSemanticsAnnotations#c9d71@Offset(77.5, 64.0), RenderIgnorePointer#26a05@Offset(77.5, 64.0), RenderTapRegion#f6477@Offset(77.5, 64.0), RenderMouseRegion#9e615@Offset(77.5, 64.0), RenderPadding#b55f7@Offset(77.5, 64.0), RenderRepaintBoundary#2ca4e@Offset(77.5, 64.0), RenderIndexedSemantics#251f4@Offset(77.5, 64.0), RenderSliverList@(mainAxis: 360.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#fd6a2@Offset(97.5, 360.0), RenderIgnorePointer#4e7af@Offset(97.5, 360.0), RenderSemanticsAnnotations#799a2@Offset(97.5, 360.0), RenderPointerListener#807bb@Offset(97.5, 360.0), RenderSemanticsGestureHandler#cb773@Offset(97.5, 360.0), RenderPointerListener#e6b63@Offset(97.5, 360.0), _RenderScrollSemantics#2acf4@Offset(97.5, 360.0), RenderClipRect#8bacf@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#5b4f8@Offset(97.5, 416.0), _RenderInkFeatures#f5521@Offset(97.5, 416.0), RenderPhysicalModel#205a9@Offset(97.5, 416.0), RenderSemanticsAnnotations#c572d@Offset(97.5, 416.0), RenderRepaintBoundary#e4855@Offset(97.5, 416.0), RenderIgnorePointer#8fdea@Offset(97.5, 416.0), RenderAnimatedOpacity#6fdde@Offset(97.5, 416.0), RenderAnimatedOpacity#2bd21@Offset(97.5, 416.0), _RenderColoredBox#5b42b@Offset(97.5, 416.0), RenderAnimatedOpacity#8a7bf@Offset(97.5, 416.0), RenderIgnorePointer#3dc14@Offset(97.5, 416.0), RenderAnimatedOpacity#3d47f@Offset(97.5, 416.0), RenderRepaintBoundary#1144c@Offset(97.5, 416.0), RenderSemanticsAnnotations#930fa@Offset(97.5, 416.0), RenderOffstage#7699f@Offset(97.5, 416.0), RenderSemanticsAnnotations#8fc02@Offset(97.5, 416.0), _RenderTheater#9c729@Offset(97.5, 416.0), RenderAbsorbPointer#572d3@Offset(97.5, 416.0), RenderPointerListener#ef384@Offset(97.5, 416.0), RenderSemanticsAnnotations#a189e@Offset(97.5, 416.0), RenderSemanticsAnnotations#acd69@Offset(97.5, 416.0), RenderSemanticsAnnotations#43230@Offset(97.5, 416.0), RenderSemanticsAnnotations#e9f61@Offset(97.5, 416.0), RenderTapRegionSurface#61433@Offset(97.5, 416.0), RenderSemanticsAnnotations#c935d@Offset(97.5, 416.0), RenderSemanticsAnnotations#a03d4@Offset(97.5, 416.0), HitTestEntry<HitTestTarget>#993c5(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#3f589(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+<asynchronous suspension>
+#4      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#5      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:7)
+<asynchronous suspension>
+#6      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#7      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:5)
+<asynchronous suspension>
+#8      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:326:5)
+<asynchronous suspension>
+#9      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#10     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#11     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:05 +64 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: the cover action keeps a real 48dp touch target
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#f0733]], state: ScrollableState#b20e6(position: ScrollPositionWithSingleContext#153c2(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#82b6d, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#48211 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#9fd7b@Offset(77.5, 10.0), RenderPointerListener#a0330@Offset(77.5, 10.0), RenderSemanticsAnnotations#c053c@Offset(77.5, 10.0), RenderIgnorePointer#10057@Offset(77.5, 10.0), RenderTapRegion#1b75c@Offset(77.5, 10.0), RenderMouseRegion#02f37@Offset(77.5, 10.0), RenderPadding#0aa58@Offset(77.5, 10.0), RenderRepaintBoundary#796cd@Offset(77.5, 10.0), RenderIndexedSemantics#e4562@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#33e35@Offset(97.5, 360.0), RenderIgnorePointer#ce93f@Offset(97.5, 360.0), RenderSemanticsAnnotations#834e7@Offset(97.5, 360.0), RenderPointerListener#ea021@Offset(97.5, 360.0), RenderSemanticsGestureHandler#de0d9@Offset(97.5, 360.0), RenderPointerListener#08cb8@Offset(97.5, 360.0), _RenderScrollSemantics#fbe4c@Offset(97.5, 360.0), RenderClipRect#b8994@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#8518e@Offset(97.5, 416.0), _RenderInkFeatures#b7004@Offset(97.5, 416.0), RenderPhysicalModel#d06f4@Offset(97.5, 416.0), RenderSemanticsAnnotations#2d032@Offset(97.5, 416.0), RenderRepaintBoundary#66ae3@Offset(97.5, 416.0), RenderIgnorePointer#38c1c@Offset(97.5, 416.0), RenderAnimatedOpacity#15264@Offset(97.5, 416.0), RenderAnimatedOpacity#77d7d@Offset(97.5, 416.0), _RenderColoredBox#23413@Offset(97.5, 416.0), RenderAnimatedOpacity#710c7@Offset(97.5, 416.0), RenderIgnorePointer#e6b45@Offset(97.5, 416.0), RenderAnimatedOpacity#3476a@Offset(97.8, 416.0), RenderRepaintBoundary#c8911@Offset(97.8, 416.0), RenderSemanticsAnnotations#5b8f2@Offset(97.8, 416.0), RenderOffstage#39734@Offset(97.8, 416.0), RenderSemanticsAnnotations#3047d@Offset(97.8, 416.0), _RenderTheater#587d8@Offset(97.8, 416.0), RenderAbsorbPointer#e4bbc@Offset(97.8, 416.0), RenderPointerListener#2419d@Offset(97.8, 416.0), RenderSemanticsAnnotations#bbef6@Offset(97.8, 416.0), RenderSemanticsAnnotations#cf424@Offset(97.8, 416.0), RenderSemanticsAnnotations#6e00c@Offset(97.8, 416.0), RenderSemanticsAnnotations#60a3b@Offset(97.8, 416.0), RenderTapRegionSurface#be421@Offset(97.8, 416.0), RenderSemanticsAnnotations#a8609@Offset(97.8, 416.0), RenderSemanticsAnnotations#33d27@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#037c7(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#10c5c(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+#4      _rootRun (dart:async/zone_root.dart:35:13)
+#5      _CustomZone.run (dart:async/zone.dart:726:19)
+#6      TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#7      WidgetController.dragUntilVisible (package:flutter_test/src/controller.dart:2462:27)
+#8      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:13)
+#9      _rootRun (dart:async/zone_root.dart:35:13)
+#10     _CustomZone.run (dart:async/zone.dart:726:19)
+#11     TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#12     WidgetController.scrollUntilVisible (package:flutter_test/src/controller.dart:2420:27)
+#13     main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:18)
+#14     main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:349:11)
+<asynchronous suspension>
+#15     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#16     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#17     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#f0733]], state: ScrollableState#b20e6(position: ScrollPositionWithSingleContext#153c2(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#82b6d, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.5, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#48211 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#d14f6(TextSpan(debugLabel: (((englishLike bodySmall 2021).merge(((whiteMountainView bodySmall).apply).apply)).copyWith).merge(unknown), inherit: false, color: Color(alpha: 1.0000, red: 0.6353, green: 0.6549, blue: 0.6706, colorSpace: ColorSpace.sRGB), family: Roboto, size: 13.0, weight: 400, letterSpacing: 0.4, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 0.9529, green: 0.9569, blue: 0.9333, colorSpace: ColorSpace.sRGB) TextDecoration.none, "Optional. ISBN-10/13, EAN-8/13 or UPC-A.")), RenderParagraph#37ede@Offset(59.5, 8.0), RenderAnimatedOpacity#726cd@Offset(59.5, 8.0), RenderSemanticsAnnotations#c1857@Offset(59.5, 8.0), _RenderDecoration#545e7@Offset(77.5, 64.0), RenderPointerListener#b4787@Offset(77.5, 64.0), RenderSemanticsAnnotations#d438b@Offset(77.5, 64.0), RenderIgnorePointer#b2dde@Offset(77.5, 64.0), RenderTapRegion#b583d@Offset(77.5, 64.0), RenderMouseRegion#a913b@Offset(77.5, 64.0), RenderPadding#d5cb9@Offset(77.5, 64.0), RenderRepaintBoundary#71eb6@Offset(77.5, 64.0), RenderIndexedSemantics#0f7e2@Offset(77.5, 64.0), RenderSliverList@(mainAxis: 360.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#33e35@Offset(97.5, 360.0), RenderIgnorePointer#ce93f@Offset(97.5, 360.0), RenderSemanticsAnnotations#834e7@Offset(97.5, 360.0), RenderPointerListener#ea021@Offset(97.5, 360.0), RenderSemanticsGestureHandler#de0d9@Offset(97.5, 360.0), RenderPointerListener#08cb8@Offset(97.5, 360.0), _RenderScrollSemantics#fbe4c@Offset(97.5, 360.0), RenderClipRect#b8994@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#8518e@Offset(97.5, 416.0), _RenderInkFeatures#b7004@Offset(97.5, 416.0), RenderPhysicalModel#d06f4@Offset(97.5, 416.0), RenderSemanticsAnnotations#2d032@Offset(97.5, 416.0), RenderRepaintBoundary#66ae3@Offset(97.5, 416.0), RenderIgnorePointer#38c1c@Offset(97.5, 416.0), RenderAnimatedOpacity#15264@Offset(97.5, 416.0), RenderAnimatedOpacity#77d7d@Offset(97.5, 416.0), _RenderColoredBox#23413@Offset(97.5, 416.0), RenderAnimatedOpacity#710c7@Offset(97.5, 416.0), RenderIgnorePointer#e6b45@Offset(97.5, 416.0), RenderAnimatedOpacity#3476a@Offset(97.5, 416.0), RenderRepaintBoundary#c8911@Offset(97.5, 416.0), RenderSemanticsAnnotations#5b8f2@Offset(97.5, 416.0), RenderOffstage#39734@Offset(97.5, 416.0), RenderSemanticsAnnotations#3047d@Offset(97.5, 416.0), _RenderTheater#587d8@Offset(97.5, 416.0), RenderAbsorbPointer#e4bbc@Offset(97.5, 416.0), RenderPointerListener#2419d@Offset(97.5, 416.0), RenderSemanticsAnnotations#bbef6@Offset(97.5, 416.0), RenderSemanticsAnnotations#cf424@Offset(97.5, 416.0), RenderSemanticsAnnotations#6e00c@Offset(97.5, 416.0), RenderSemanticsAnnotations#60a3b@Offset(97.5, 416.0), RenderTapRegionSurface#be421@Offset(97.5, 416.0), RenderSemanticsAnnotations#a8609@Offset(97.5, 416.0), RenderSemanticsAnnotations#33d27@Offset(97.5, 416.0), HitTestEntry<HitTestTarget>#962e9(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#0c0eb(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+<asynchronous suspension>
+#4      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#5      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:7)
+<asynchronous suspension>
+#6      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#7      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:5)
+<asynchronous suspension>
+#8      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:349:5)
+<asynchronous suspension>
+#9      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#10     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#11     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: a value greater than or equal to <48>
+  Actual: <40.0>
+   Which: is not a value greater than or equal to <48>
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:350:5)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart line 350
+The test description was:
+  the cover action keeps a real 48dp touch target
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:05 +64 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: the cover action keeps a real 48dp touch target [E]
+  Test failed. See exception logs above.
+  The test description was: the cover action keeps a real 48dp touch target
+  
+00:05 +64 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a full photo list explains before capture and offers the photos
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#de5fe]], state: ScrollableState#34c6d(position: ScrollPositionWithSingleContext#a381c(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#0c299, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#d305b relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#bbaec@Offset(77.5, 10.0), RenderPointerListener#cff2f@Offset(77.5, 10.0), RenderSemanticsAnnotations#768da@Offset(77.5, 10.0), RenderIgnorePointer#b5d19@Offset(77.5, 10.0), RenderTapRegion#7ebef@Offset(77.5, 10.0), RenderMouseRegion#3ecf7@Offset(77.5, 10.0), RenderPadding#b6d68@Offset(77.5, 10.0), RenderRepaintBoundary#ae1b8@Offset(77.5, 10.0), RenderIndexedSemantics#99d3f@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#7f8d3@Offset(97.5, 360.0), RenderIgnorePointer#f714a@Offset(97.5, 360.0), RenderSemanticsAnnotations#0caf4@Offset(97.5, 360.0), RenderPointerListener#c0b4c@Offset(97.5, 360.0), RenderSemanticsGestureHandler#3aa10@Offset(97.5, 360.0), RenderPointerListener#1182b@Offset(97.5, 360.0), _RenderScrollSemantics#76927@Offset(97.5, 360.0), RenderClipRect#8bc6c@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#421b3@Offset(97.5, 416.0), _RenderInkFeatures#780d4@Offset(97.5, 416.0), RenderPhysicalModel#c58ff@Offset(97.5, 416.0), RenderSemanticsAnnotations#f4259@Offset(97.5, 416.0), RenderRepaintBoundary#b28ab@Offset(97.5, 416.0), RenderIgnorePointer#02b2c@Offset(97.5, 416.0), RenderAnimatedOpacity#0b7f3@Offset(97.5, 416.0), RenderAnimatedOpacity#38588@Offset(97.5, 416.0), _RenderColoredBox#2e76e@Offset(97.5, 416.0), RenderAnimatedOpacity#f3f4f@Offset(97.5, 416.0), RenderIgnorePointer#f72ee@Offset(97.5, 416.0), RenderAnimatedOpacity#b9081@Offset(97.8, 416.0), RenderRepaintBoundary#e170a@Offset(97.8, 416.0), RenderSemanticsAnnotations#aa493@Offset(97.8, 416.0), RenderOffstage#88b36@Offset(97.8, 416.0), RenderSemanticsAnnotations#19ec8@Offset(97.8, 416.0), _RenderTheater#1a1cd@Offset(97.8, 416.0), RenderAbsorbPointer#96ec3@Offset(97.8, 416.0), RenderPointerListener#3a3c8@Offset(97.8, 416.0), RenderSemanticsAnnotations#aab2d@Offset(97.8, 416.0), RenderSemanticsAnnotations#5c172@Offset(97.8, 416.0), RenderSemanticsAnnotations#1f3cc@Offset(97.8, 416.0), RenderSemanticsAnnotations#2cb44@Offset(97.8, 416.0), RenderTapRegionSurface#4dcaf@Offset(97.8, 416.0), RenderSemanticsAnnotations#84fe9@Offset(97.8, 416.0), RenderSemanticsAnnotations#e73b5@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#d5ac7(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#e6494(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+#4      _rootRun (dart:async/zone_root.dart:35:13)
+#5      _CustomZone.run (dart:async/zone.dart:726:19)
+#6      TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#7      WidgetController.dragUntilVisible (package:flutter_test/src/controller.dart:2462:27)
+#8      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:13)
+#9      _rootRun (dart:async/zone_root.dart:35:13)
+#10     _CustomZone.run (dart:async/zone.dart:726:19)
+#11     TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#12     WidgetController.scrollUntilVisible (package:flutter_test/src/controller.dart:2420:27)
+#13     main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:18)
+#14     main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:371:13)
+<asynchronous suspension>
+#15     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#16     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#17     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#de5fe]], state: ScrollableState#34c6d(position: ScrollPositionWithSingleContext#a381c(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#0c299, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.5, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#d305b relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#40a19(TextSpan(debugLabel: (((englishLike bodySmall 2021).merge(((whiteMountainView bodySmall).apply).apply)).copyWith).merge(unknown), inherit: false, color: Color(alpha: 1.0000, red: 0.6353, green: 0.6549, blue: 0.6706, colorSpace: ColorSpace.sRGB), family: Roboto, size: 13.0, weight: 400, letterSpacing: 0.4, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 0.9529, green: 0.9569, blue: 0.9333, colorSpace: ColorSpace.sRGB) TextDecoration.none, "Optional. ISBN-10/13, EAN-8/13 or UPC-A.")), RenderParagraph#ee665@Offset(59.5, 8.0), RenderAnimatedOpacity#af881@Offset(59.5, 8.0), RenderSemanticsAnnotations#ebca4@Offset(59.5, 8.0), _RenderDecoration#90d8f@Offset(77.5, 64.0), RenderPointerListener#98266@Offset(77.5, 64.0), RenderSemanticsAnnotations#82ddc@Offset(77.5, 64.0), RenderIgnorePointer#42a0a@Offset(77.5, 64.0), RenderTapRegion#2d1e9@Offset(77.5, 64.0), RenderMouseRegion#e9947@Offset(77.5, 64.0), RenderPadding#b96a3@Offset(77.5, 64.0), RenderRepaintBoundary#65aff@Offset(77.5, 64.0), RenderIndexedSemantics#22e6b@Offset(77.5, 64.0), RenderSliverList@(mainAxis: 360.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#7f8d3@Offset(97.5, 360.0), RenderIgnorePointer#f714a@Offset(97.5, 360.0), RenderSemanticsAnnotations#0caf4@Offset(97.5, 360.0), RenderPointerListener#c0b4c@Offset(97.5, 360.0), RenderSemanticsGestureHandler#3aa10@Offset(97.5, 360.0), RenderPointerListener#1182b@Offset(97.5, 360.0), _RenderScrollSemantics#76927@Offset(97.5, 360.0), RenderClipRect#8bc6c@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#421b3@Offset(97.5, 416.0), _RenderInkFeatures#780d4@Offset(97.5, 416.0), RenderPhysicalModel#c58ff@Offset(97.5, 416.0), RenderSemanticsAnnotations#f4259@Offset(97.5, 416.0), RenderRepaintBoundary#b28ab@Offset(97.5, 416.0), RenderIgnorePointer#02b2c@Offset(97.5, 416.0), RenderAnimatedOpacity#0b7f3@Offset(97.5, 416.0), RenderAnimatedOpacity#38588@Offset(97.5, 416.0), _RenderColoredBox#2e76e@Offset(97.5, 416.0), RenderAnimatedOpacity#f3f4f@Offset(97.5, 416.0), RenderIgnorePointer#f72ee@Offset(97.5, 416.0), RenderAnimatedOpacity#b9081@Offset(97.5, 416.0), RenderRepaintBoundary#e170a@Offset(97.5, 416.0), RenderSemanticsAnnotations#aa493@Offset(97.5, 416.0), RenderOffstage#88b36@Offset(97.5, 416.0), RenderSemanticsAnnotations#19ec8@Offset(97.5, 416.0), _RenderTheater#1a1cd@Offset(97.5, 416.0), RenderAbsorbPointer#96ec3@Offset(97.5, 416.0), RenderPointerListener#3a3c8@Offset(97.5, 416.0), RenderSemanticsAnnotations#aab2d@Offset(97.5, 416.0), RenderSemanticsAnnotations#5c172@Offset(97.5, 416.0), RenderSemanticsAnnotations#1f3cc@Offset(97.5, 416.0), RenderSemanticsAnnotations#2cb44@Offset(97.5, 416.0), RenderTapRegionSurface#4dcaf@Offset(97.5, 416.0), RenderSemanticsAnnotations#84fe9@Offset(97.5, 416.0), RenderSemanticsAnnotations#e73b5@Offset(97.5, 416.0), HitTestEntry<HitTestTarget>#608bf(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#f0b54(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+<asynchronous suspension>
+#4      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#5      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:7)
+<asynchronous suspension>
+#6      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#7      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:5)
+<asynchronous suspension>
+#8      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:371:7)
+<asynchronous suspension>
+#9      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#10     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#11     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:06 +65 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a manual cover choice beats a late provider download
+00:06 +66 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: manual intent wins while the source bytes are still loading
+00:06 +67 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a capture in flight blocks a second action and the save
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#c5701]], state: ScrollableState#360a1(position: ScrollPositionWithSingleContext#bdbfa(offset: 0.0, range: 0.0..114.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#48e5a, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#93187 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#bc0b7@Offset(77.5, 10.0), RenderPointerListener#4a7fb@Offset(77.5, 10.0), RenderSemanticsAnnotations#01cf6@Offset(77.5, 10.0), RenderIgnorePointer#311c8@Offset(77.5, 10.0), RenderTapRegion#f5fe7@Offset(77.5, 10.0), RenderMouseRegion#622b2@Offset(77.5, 10.0), RenderPadding#fac2b@Offset(77.5, 10.0), RenderRepaintBoundary#7da0c@Offset(77.5, 10.0), RenderIndexedSemantics#b6f93@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#d2f8a@Offset(97.5, 360.0), RenderIgnorePointer#bd403@Offset(97.5, 360.0), RenderSemanticsAnnotations#00962@Offset(97.5, 360.0), RenderPointerListener#ab7d4@Offset(97.5, 360.0), RenderSemanticsGestureHandler#632c3@Offset(97.5, 360.0), RenderPointerListener#afc37@Offset(97.5, 360.0), _RenderScrollSemantics#f86fd@Offset(97.5, 360.0), RenderClipRect#adc82@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#3829d@Offset(97.5, 416.0), _RenderInkFeatures#0b591@Offset(97.5, 416.0), RenderPhysicalModel#4ac37@Offset(97.5, 416.0), RenderSemanticsAnnotations#5b268@Offset(97.5, 416.0), RenderRepaintBoundary#1d31d@Offset(97.5, 416.0), RenderIgnorePointer#05ed6@Offset(97.5, 416.0), RenderAnimatedOpacity#d0fcb@Offset(97.5, 416.0), RenderAnimatedOpacity#81ffb@Offset(97.5, 416.0), _RenderColoredBox#1f411@Offset(97.5, 416.0), RenderAnimatedOpacity#5fd17@Offset(97.5, 416.0), RenderIgnorePointer#34727@Offset(97.5, 416.0), RenderAnimatedOpacity#2f239@Offset(97.8, 416.0), RenderRepaintBoundary#00dfd@Offset(97.8, 416.0), RenderSemanticsAnnotations#5034c@Offset(97.8, 416.0), RenderOffstage#905af@Offset(97.8, 416.0), RenderSemanticsAnnotations#7c9fc@Offset(97.8, 416.0), _RenderTheater#12280@Offset(97.8, 416.0), RenderAbsorbPointer#471e9@Offset(97.8, 416.0), RenderPointerListener#7b112@Offset(97.8, 416.0), RenderSemanticsAnnotations#5b987@Offset(97.8, 416.0), RenderSemanticsAnnotations#8d05f@Offset(97.8, 416.0), RenderSemanticsAnnotations#e7089@Offset(97.8, 416.0), RenderSemanticsAnnotations#cfbeb@Offset(97.8, 416.0), RenderTapRegionSurface#4f54f@Offset(97.8, 416.0), RenderSemanticsAnnotations#42280@Offset(97.8, 416.0), RenderSemanticsAnnotations#6e762@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#82916(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#731a0(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+#4      _rootRun (dart:async/zone_root.dart:35:13)
+#5      _CustomZone.run (dart:async/zone.dart:726:19)
+#6      TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#7      WidgetController.dragUntilVisible (package:flutter_test/src/controller.dart:2462:27)
+#8      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:13)
+#9      _rootRun (dart:async/zone_root.dart:35:13)
+#10     _CustomZone.run (dart:async/zone.dart:726:19)
+#11     TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#12     WidgetController.scrollUntilVisible (package:flutter_test/src/controller.dart:2420:27)
+#13     main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:18)
+#14     main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:524:11)
+<asynchronous suspension>
+#15     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#16     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#17     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#c5701]], state: ScrollableState#360a1(position: ScrollPositionWithSingleContext#bdbfa(offset: 0.0, range: 0.0..114.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#48e5a, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.5, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#93187 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#f101e(TextSpan(debugLabel: (((englishLike bodySmall 2021).merge(((whiteMountainView bodySmall).apply).apply)).copyWith).merge(unknown), inherit: false, color: Color(alpha: 1.0000, red: 0.6353, green: 0.6549, blue: 0.6706, colorSpace: ColorSpace.sRGB), family: Roboto, size: 13.0, weight: 400, letterSpacing: 0.4, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 0.9529, green: 0.9569, blue: 0.9333, colorSpace: ColorSpace.sRGB) TextDecoration.none, "Optional. ISBN-10/13, EAN-8/13 or UPC-A.")), RenderParagraph#f56db@Offset(59.5, 8.0), RenderAnimatedOpacity#8a656@Offset(59.5, 8.0), RenderSemanticsAnnotations#6994f@Offset(59.5, 8.0), _RenderDecoration#d51f5@Offset(77.5, 64.0), RenderPointerListener#8459c@Offset(77.5, 64.0), RenderSemanticsAnnotations#a6a4e@Offset(77.5, 64.0), RenderIgnorePointer#2e182@Offset(77.5, 64.0), RenderTapRegion#1ce91@Offset(77.5, 64.0), RenderMouseRegion#86b8d@Offset(77.5, 64.0), RenderPadding#c9bfd@Offset(77.5, 64.0), RenderRepaintBoundary#7df14@Offset(77.5, 64.0), RenderIndexedSemantics#b1925@Offset(77.5, 64.0), RenderSliverList@(mainAxis: 360.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#d2f8a@Offset(97.5, 360.0), RenderIgnorePointer#bd403@Offset(97.5, 360.0), RenderSemanticsAnnotations#00962@Offset(97.5, 360.0), RenderPointerListener#ab7d4@Offset(97.5, 360.0), RenderSemanticsGestureHandler#632c3@Offset(97.5, 360.0), RenderPointerListener#afc37@Offset(97.5, 360.0), _RenderScrollSemantics#f86fd@Offset(97.5, 360.0), RenderClipRect#adc82@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#3829d@Offset(97.5, 416.0), _RenderInkFeatures#0b591@Offset(97.5, 416.0), RenderPhysicalModel#4ac37@Offset(97.5, 416.0), RenderSemanticsAnnotations#5b268@Offset(97.5, 416.0), RenderRepaintBoundary#1d31d@Offset(97.5, 416.0), RenderIgnorePointer#05ed6@Offset(97.5, 416.0), RenderAnimatedOpacity#d0fcb@Offset(97.5, 416.0), RenderAnimatedOpacity#81ffb@Offset(97.5, 416.0), _RenderColoredBox#1f411@Offset(97.5, 416.0), RenderAnimatedOpacity#5fd17@Offset(97.5, 416.0), RenderIgnorePointer#34727@Offset(97.5, 416.0), RenderAnimatedOpacity#2f239@Offset(97.5, 416.0), RenderRepaintBoundary#00dfd@Offset(97.5, 416.0), RenderSemanticsAnnotations#5034c@Offset(97.5, 416.0), RenderOffstage#905af@Offset(97.5, 416.0), RenderSemanticsAnnotations#7c9fc@Offset(97.5, 416.0), _RenderTheater#12280@Offset(97.5, 416.0), RenderAbsorbPointer#471e9@Offset(97.5, 416.0), RenderPointerListener#7b112@Offset(97.5, 416.0), RenderSemanticsAnnotations#5b987@Offset(97.5, 416.0), RenderSemanticsAnnotations#8d05f@Offset(97.5, 416.0), RenderSemanticsAnnotations#e7089@Offset(97.5, 416.0), RenderSemanticsAnnotations#cfbeb@Offset(97.5, 416.0), RenderTapRegionSurface#4f54f@Offset(97.5, 416.0), RenderSemanticsAnnotations#42280@Offset(97.5, 416.0), RenderSemanticsAnnotations#6e762@Offset(97.5, 416.0), HitTestEntry<HitTestTarget>#0ccfb(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#b7a2e(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+<asynchronous suspension>
+#4      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#5      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:7)
+<asynchronous suspension>
+#6      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#7      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:5)
+<asynchronous suspension>
+#8      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:524:5)
+<asynchronous suspension>
+#9      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#10     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#11     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:07 +68 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a source removed from the draft is kept again when picked for the cover
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#a2888]], state: ScrollableState#ec871(position: ScrollPositionWithSingleContext#e9e62(offset: 0.0, range: 0.0..114.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#fe315, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#04844 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#7401d@Offset(77.5, 10.0), RenderPointerListener#9948a@Offset(77.5, 10.0), RenderSemanticsAnnotations#bf8fd@Offset(77.5, 10.0), RenderIgnorePointer#d410b@Offset(77.5, 10.0), RenderTapRegion#f892e@Offset(77.5, 10.0), RenderMouseRegion#9f113@Offset(77.5, 10.0), RenderPadding#8baca@Offset(77.5, 10.0), RenderRepaintBoundary#eafef@Offset(77.5, 10.0), RenderIndexedSemantics#bdd64@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#0a1ab@Offset(97.5, 360.0), RenderIgnorePointer#9b2ca@Offset(97.5, 360.0), RenderSemanticsAnnotations#34e3c@Offset(97.5, 360.0), RenderPointerListener#d504d@Offset(97.5, 360.0), RenderSemanticsGestureHandler#34c5f@Offset(97.5, 360.0), RenderPointerListener#70e05@Offset(97.5, 360.0), _RenderScrollSemantics#abcdc@Offset(97.5, 360.0), RenderClipRect#d2480@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#fe5be@Offset(97.5, 416.0), _RenderInkFeatures#673b7@Offset(97.5, 416.0), RenderPhysicalModel#48758@Offset(97.5, 416.0), RenderSemanticsAnnotations#693d5@Offset(97.5, 416.0), RenderRepaintBoundary#0c8c9@Offset(97.5, 416.0), RenderIgnorePointer#4ad5f@Offset(97.5, 416.0), RenderAnimatedOpacity#65ac4@Offset(97.5, 416.0), RenderAnimatedOpacity#23882@Offset(97.5, 416.0), _RenderColoredBox#a54d6@Offset(97.5, 416.0), RenderAnimatedOpacity#fbc67@Offset(97.5, 416.0), RenderIgnorePointer#70b31@Offset(97.5, 416.0), RenderAnimatedOpacity#53020@Offset(97.8, 416.0), RenderRepaintBoundary#c2b15@Offset(97.8, 416.0), RenderSemanticsAnnotations#e337b@Offset(97.8, 416.0), RenderOffstage#95c4c@Offset(97.8, 416.0), RenderSemanticsAnnotations#65bc2@Offset(97.8, 416.0), _RenderTheater#78a19@Offset(97.8, 416.0), RenderAbsorbPointer#e6731@Offset(97.8, 416.0), RenderPointerListener#b51e3@Offset(97.8, 416.0), RenderSemanticsAnnotations#0abb7@Offset(97.8, 416.0), RenderSemanticsAnnotations#f1530@Offset(97.8, 416.0), RenderSemanticsAnnotations#2730f@Offset(97.8, 416.0), RenderSemanticsAnnotations#85553@Offset(97.8, 416.0), RenderTapRegionSurface#062d6@Offset(97.8, 416.0), RenderSemanticsAnnotations#1fc11@Offset(97.8, 416.0), RenderSemanticsAnnotations#654f1@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#6d5d5(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#2c322(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+#4      _rootRun (dart:async/zone_root.dart:35:13)
+#5      _CustomZone.run (dart:async/zone.dart:726:19)
+#6      TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#7      WidgetController.dragUntilVisible (package:flutter_test/src/controller.dart:2462:27)
+#8      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:13)
+#9      _rootRun (dart:async/zone_root.dart:35:13)
+#10     _CustomZone.run (dart:async/zone.dart:726:19)
+#11     TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#12     WidgetController.scrollUntilVisible (package:flutter_test/src/controller.dart:2420:27)
+#13     main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:18)
+#14     main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:583:13)
+<asynchronous suspension>
+#15     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#16     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#17     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#a2888]], state: ScrollableState#ec871(position: ScrollPositionWithSingleContext#e9e62(offset: 0.0, range: 0.0..114.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#fe315, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.5, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#04844 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#3a549(TextSpan(debugLabel: (((englishLike bodySmall 2021).merge(((whiteMountainView bodySmall).apply).apply)).copyWith).merge(unknown), inherit: false, color: Color(alpha: 1.0000, red: 0.6353, green: 0.6549, blue: 0.6706, colorSpace: ColorSpace.sRGB), family: Roboto, size: 13.0, weight: 400, letterSpacing: 0.4, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 0.9529, green: 0.9569, blue: 0.9333, colorSpace: ColorSpace.sRGB) TextDecoration.none, "Optional. ISBN-10/13, EAN-8/13 or UPC-A.")), RenderParagraph#dd96b@Offset(59.5, 8.0), RenderAnimatedOpacity#7ef76@Offset(59.5, 8.0), RenderSemanticsAnnotations#60272@Offset(59.5, 8.0), _RenderDecoration#d8dcc@Offset(77.5, 64.0), RenderPointerListener#c5f07@Offset(77.5, 64.0), RenderSemanticsAnnotations#27bcf@Offset(77.5, 64.0), RenderIgnorePointer#c8c7d@Offset(77.5, 64.0), RenderTapRegion#9e956@Offset(77.5, 64.0), RenderMouseRegion#91f89@Offset(77.5, 64.0), RenderPadding#32396@Offset(77.5, 64.0), RenderRepaintBoundary#1491e@Offset(77.5, 64.0), RenderIndexedSemantics#54161@Offset(77.5, 64.0), RenderSliverList@(mainAxis: 360.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#0a1ab@Offset(97.5, 360.0), RenderIgnorePointer#9b2ca@Offset(97.5, 360.0), RenderSemanticsAnnotations#34e3c@Offset(97.5, 360.0), RenderPointerListener#d504d@Offset(97.5, 360.0), RenderSemanticsGestureHandler#34c5f@Offset(97.5, 360.0), RenderPointerListener#70e05@Offset(97.5, 360.0), _RenderScrollSemantics#abcdc@Offset(97.5, 360.0), RenderClipRect#d2480@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#fe5be@Offset(97.5, 416.0), _RenderInkFeatures#673b7@Offset(97.5, 416.0), RenderPhysicalModel#48758@Offset(97.5, 416.0), RenderSemanticsAnnotations#693d5@Offset(97.5, 416.0), RenderRepaintBoundary#0c8c9@Offset(97.5, 416.0), RenderIgnorePointer#4ad5f@Offset(97.5, 416.0), RenderAnimatedOpacity#65ac4@Offset(97.5, 416.0), RenderAnimatedOpacity#23882@Offset(97.5, 416.0), _RenderColoredBox#a54d6@Offset(97.5, 416.0), RenderAnimatedOpacity#fbc67@Offset(97.5, 416.0), RenderIgnorePointer#70b31@Offset(97.5, 416.0), RenderAnimatedOpacity#53020@Offset(97.5, 416.0), RenderRepaintBoundary#c2b15@Offset(97.5, 416.0), RenderSemanticsAnnotations#e337b@Offset(97.5, 416.0), RenderOffstage#95c4c@Offset(97.5, 416.0), RenderSemanticsAnnotations#65bc2@Offset(97.5, 416.0), _RenderTheater#78a19@Offset(97.5, 416.0), RenderAbsorbPointer#e6731@Offset(97.5, 416.0), RenderPointerListener#b51e3@Offset(97.5, 416.0), RenderSemanticsAnnotations#0abb7@Offset(97.5, 416.0), RenderSemanticsAnnotations#f1530@Offset(97.5, 416.0), RenderSemanticsAnnotations#2730f@Offset(97.5, 416.0), RenderSemanticsAnnotations#85553@Offset(97.5, 416.0), RenderTapRegionSurface#062d6@Offset(97.5, 416.0), RenderSemanticsAnnotations#1fc11@Offset(97.5, 416.0), RenderSemanticsAnnotations#654f1@Offset(97.5, 416.0), HitTestEntry<HitTestTarget>#a93fc(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#fcc8f(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+<asynchronous suspension>
+#4      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#5      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:7)
+<asynchronous suspension>
+#6      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#7      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:5)
+<asynchronous suspension>
+#8      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:583:7)
+<asynchronous suspension>
+#9      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#10     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#11     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:07 +69 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: cancelling the editor after a crop persists nothing
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#a7c15]], state: ScrollableState#b74a7(position: ScrollPositionWithSingleContext#325b2(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#818ac, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#4d79d relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#0d21f@Offset(77.5, 10.0), RenderPointerListener#22422@Offset(77.5, 10.0), RenderSemanticsAnnotations#367bd@Offset(77.5, 10.0), RenderIgnorePointer#65fe0@Offset(77.5, 10.0), RenderTapRegion#ea8f6@Offset(77.5, 10.0), RenderMouseRegion#25a0a@Offset(77.5, 10.0), RenderPadding#cec95@Offset(77.5, 10.0), RenderRepaintBoundary#9c6ea@Offset(77.5, 10.0), RenderIndexedSemantics#a7168@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#9350a@Offset(97.5, 360.0), RenderIgnorePointer#8055f@Offset(97.5, 360.0), RenderSemanticsAnnotations#7023d@Offset(97.5, 360.0), RenderPointerListener#ac225@Offset(97.5, 360.0), RenderSemanticsGestureHandler#90889@Offset(97.5, 360.0), RenderPointerListener#2a575@Offset(97.5, 360.0), _RenderScrollSemantics#a4314@Offset(97.5, 360.0), RenderClipRect#5f148@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#0f6c2@Offset(97.5, 416.0), _RenderInkFeatures#6e5e7@Offset(97.5, 416.0), RenderPhysicalModel#dbae7@Offset(97.5, 416.0), RenderSemanticsAnnotations#c6843@Offset(97.5, 416.0), RenderRepaintBoundary#72763@Offset(97.5, 416.0), RenderIgnorePointer#9916d@Offset(97.5, 416.0), RenderAnimatedOpacity#f2c2e@Offset(97.5, 416.0), RenderAnimatedOpacity#b3f4e@Offset(97.5, 416.0), _RenderColoredBox#0f504@Offset(97.5, 416.0), RenderAnimatedOpacity#4af2d@Offset(97.5, 416.0), RenderIgnorePointer#7c27b@Offset(97.5, 416.0), RenderAnimatedOpacity#57835@Offset(97.8, 416.0), RenderRepaintBoundary#3483d@Offset(97.8, 416.0), RenderSemanticsAnnotations#cf057@Offset(97.8, 416.0), RenderOffstage#d66a5@Offset(97.8, 416.0), RenderSemanticsAnnotations#08910@Offset(97.8, 416.0), _RenderTheater#d2987@Offset(97.8, 416.0), RenderAbsorbPointer#8765c@Offset(97.8, 416.0), RenderPointerListener#035ce@Offset(97.8, 416.0), RenderSemanticsAnnotations#031d0@Offset(97.8, 416.0), RenderSemanticsAnnotations#e350a@Offset(97.8, 416.0), RenderSemanticsAnnotations#2c12a@Offset(97.8, 416.0), RenderSemanticsAnnotations#d29a7@Offset(97.8, 416.0), RenderTapRegionSurface#0be6b@Offset(97.8, 416.0), RenderSemanticsAnnotations#1575d@Offset(97.8, 416.0), RenderSemanticsAnnotations#b0826@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#455e1(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#287a6(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+#4      _rootRun (dart:async/zone_root.dart:35:13)
+#5      _CustomZone.run (dart:async/zone.dart:726:19)
+#6      TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#7      WidgetController.dragUntilVisible (package:flutter_test/src/controller.dart:2462:27)
+#8      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:13)
+#9      _rootRun (dart:async/zone_root.dart:35:13)
+#10     _CustomZone.run (dart:async/zone.dart:726:19)
+#11     TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#12     WidgetController.scrollUntilVisible (package:flutter_test/src/controller.dart:2420:27)
+#13     main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:18)
+#14     main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:619:11)
+<asynchronous suspension>
+#15     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#16     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#17     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" descending from widget with type "ListView" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#a7c15]], state: ScrollableState#b74a7(position: ScrollPositionWithSingleContext#325b2(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#818ac, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.5, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#4d79d relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(HitTestEntry<HitTestTarget>#c963c(TextSpan(debugLabel: (((englishLike bodySmall 2021).merge(((whiteMountainView bodySmall).apply).apply)).copyWith).merge(unknown), inherit: false, color: Color(alpha: 1.0000, red: 0.6353, green: 0.6549, blue: 0.6706, colorSpace: ColorSpace.sRGB), family: Roboto, size: 13.0, weight: 400, letterSpacing: 0.4, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 0.9529, green: 0.9569, blue: 0.9333, colorSpace: ColorSpace.sRGB) TextDecoration.none, "Optional. ISBN-10/13, EAN-8/13 or UPC-A.")), RenderParagraph#4f969@Offset(59.5, 8.0), RenderAnimatedOpacity#276dd@Offset(59.5, 8.0), RenderSemanticsAnnotations#e342a@Offset(59.5, 8.0), _RenderDecoration#0116e@Offset(77.5, 64.0), RenderPointerListener#e58b4@Offset(77.5, 64.0), RenderSemanticsAnnotations#4d95b@Offset(77.5, 64.0), RenderIgnorePointer#12b1b@Offset(77.5, 64.0), RenderTapRegion#a1386@Offset(77.5, 64.0), RenderMouseRegion#027c3@Offset(77.5, 64.0), RenderPadding#948bb@Offset(77.5, 64.0), RenderRepaintBoundary#8d58b@Offset(77.5, 64.0), RenderIndexedSemantics#f7d91@Offset(77.5, 64.0), RenderSliverList@(mainAxis: 360.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#9350a@Offset(97.5, 360.0), RenderIgnorePointer#8055f@Offset(97.5, 360.0), RenderSemanticsAnnotations#7023d@Offset(97.5, 360.0), RenderPointerListener#ac225@Offset(97.5, 360.0), RenderSemanticsGestureHandler#90889@Offset(97.5, 360.0), RenderPointerListener#2a575@Offset(97.5, 360.0), _RenderScrollSemantics#a4314@Offset(97.5, 360.0), RenderClipRect#5f148@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#0f6c2@Offset(97.5, 416.0), _RenderInkFeatures#6e5e7@Offset(97.5, 416.0), RenderPhysicalModel#dbae7@Offset(97.5, 416.0), RenderSemanticsAnnotations#c6843@Offset(97.5, 416.0), RenderRepaintBoundary#72763@Offset(97.5, 416.0), RenderIgnorePointer#9916d@Offset(97.5, 416.0), RenderAnimatedOpacity#f2c2e@Offset(97.5, 416.0), RenderAnimatedOpacity#b3f4e@Offset(97.5, 416.0), _RenderColoredBox#0f504@Offset(97.5, 416.0), RenderAnimatedOpacity#4af2d@Offset(97.5, 416.0), RenderIgnorePointer#7c27b@Offset(97.5, 416.0), RenderAnimatedOpacity#57835@Offset(97.5, 416.0), RenderRepaintBoundary#3483d@Offset(97.5, 416.0), RenderSemanticsAnnotations#cf057@Offset(97.5, 416.0), RenderOffstage#d66a5@Offset(97.5, 416.0), RenderSemanticsAnnotations#08910@Offset(97.5, 416.0), _RenderTheater#d2987@Offset(97.5, 416.0), RenderAbsorbPointer#8765c@Offset(97.5, 416.0), RenderPointerListener#035ce@Offset(97.5, 416.0), RenderSemanticsAnnotations#031d0@Offset(97.5, 416.0), RenderSemanticsAnnotations#e350a@Offset(97.5, 416.0), RenderSemanticsAnnotations#2c12a@Offset(97.5, 416.0), RenderSemanticsAnnotations#d29a7@Offset(97.5, 416.0), RenderTapRegionSurface#0be6b@Offset(97.5, 416.0), RenderSemanticsAnnotations#1575d@Offset(97.5, 416.0), RenderSemanticsAnnotations#b0826@Offset(97.5, 416.0), HitTestEntry<HitTestTarget>#3d9be(_ReusableRenderView#4a369), HitTestEntry<HitTestTarget>#2ac47(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      WidgetController.dragUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2469:17)
+<asynchronous suspension>
+#4      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#5      WidgetController.scrollUntilVisible.<anonymous closure> (package:flutter_test/src/controller.dart:2432:7)
+<asynchronous suspension>
+#6      TestAsyncUtils.guard.<anonymous closure> (package:flutter_test/src/test_async_utils.dart:130:27)
+<asynchronous suspension>
+#7      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:76:5)
+<asynchronous suspension>
+#8      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:619:5)
+<asynchronous suspension>
+#9      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#10     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#11     StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:08 +70 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: the crop preview shows a stable error with retry and cancel
+00:08 +71 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a failed apply keeps the old cover and can be retried
+00:08 +72 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a render finishing during the back transition never pops the editor
+00:08 +73 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: the crop preview stays usable at 320px with 1.6x text
+00:08 +74 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: (tearDownAll)
+00:08 +74 -3: Some tests failed.

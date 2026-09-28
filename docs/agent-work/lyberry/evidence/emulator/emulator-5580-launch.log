@@ -1,0 +1,6 @@
+INFO         | Crashreporting disabled, not reporting crashes.
+INFO         | Android emulator version 36.5.10.0 (build_id 15081367) (CL:N/A)
+INFO         | Graphics backend: gfxstream
+WARNING      | Deleting /Users/ghijs/.android/avd/../avd/Pixel_8a.avd/bootcompleted.ini failed
+WARNING      | Deleting /Users/ghijs/.android/avd/../avd/Pixel_8a.avd/snapshot.trace failed
+INFO         | Found systemPath /Users/ghijs/Library/Android/sdk/system-images/android-37.0/google_apis_playstore_ps16k/arm64-v8a/

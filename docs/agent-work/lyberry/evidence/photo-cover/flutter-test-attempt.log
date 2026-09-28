@@ -1,0 +1,3 @@
+$ /Users/ghijs/development/flutter/bin/flutter --suppress-analytics --no-version-check test --no-pub test/services/image_transform_test.dart test/domain/cover_crop_test.dart
+/Users/ghijs/development/flutter/bin/internal/update_engine_version.sh: line 64: /Users/ghijs/development/flutter/bin/cache/engine.stamp: Operation not permitted
+exit=1

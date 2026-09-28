@@ -1,0 +1,15 @@
+[
+  {
+    "name": "photo-cover-full-suite",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "--no-version-check",
+      "test",
+      "--no-pub",
+      "--reporter",
+      "expanded"
+    ],
+    "exit_code": 1
+  }
+]

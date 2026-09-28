@@ -1,0 +1,31 @@
+Resolving dependencies...
+Downloading packages...
+  clock 1.1.2 (1.1.3 available)
+  image_picker_android 0.8.13+17 (0.8.13+23 available)
+  matcher 0.12.19 (0.12.20 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.17.0 (1.19.0 available)
+  platform 3.1.6 (3.2.0 available)
+  sqflite 2.4.2+1 (2.4.4 available)
+  sqflite_android 2.4.2+3 (2.4.4 available)
+  sqflite_common 2.5.8 (2.5.13 available)
+  sqflite_common_ffi 2.3.7+1 (2.4.3 available)
+  sqflite_darwin 2.4.2 (2.4.4 available)
+  sqflite_platform_interface 2.4.0 (2.4.2 available)
+  sqlite3 2.9.4 (3.6.0 available)
+  stack_trace 1.12.1 (1.12.2 available)
+  synchronized 3.4.0+1 (3.4.2 available)
+  test_api 0.7.10 (0.7.14 available)
+  vector_math 2.2.0 (2.4.3 available)
+Got dependencies!
+17 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart
+00:00 +0: (setUpAll)
+00:00 +0: home grid at 390x844
+00:01 +1: detail view at 390x844
+00:01 +2: editor at 390x844
+00:02 +3: home grid at 320x568 with 1.6x text
+00:03 +4: rated editor at 320x568 with 1.6x text
+00:03 +5: (tearDownAll)
+00:03 +5: All tests passed!

@@ -1,0 +1,3 @@
+$ /Users/ghijs/development/flutter/bin/cache/dart-sdk/bin/dart --suppress-analytics format --output=none --set-exit-if-changed test/golden/photo_cover_render_test.dart test/ui/photo_cover_flow_test.dart
+Formatted 2 files (0 changed) in 0.03 seconds.
+exit=0

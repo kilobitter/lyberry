@@ -1,0 +1,4 @@
+$ /Users/ghijs/development/flutter/bin/cache/dart-sdk/bin/dart --suppress-analytics analyze test/golden/photo_cover_render_test.dart test/ui/photo_cover_flow_test.dart
+Analyzing photo_cover_render_test.dart, photo_cover_flow_test.dart...
+No issues found!
+exit=0

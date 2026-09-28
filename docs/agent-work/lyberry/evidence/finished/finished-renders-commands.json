@@ -1,0 +1,17 @@
+[
+  {
+    "name": "finished-goldens-update",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "--no-version-check",
+      "test",
+      "--no-pub",
+      "--update-goldens",
+      "--reporter",
+      "expanded",
+      "test/golden/render_evidence_test.dart"
+    ],
+    "exit_code": 0
+  }
+]

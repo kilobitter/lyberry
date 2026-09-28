@@ -1,0 +1,55 @@
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +7: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a mismatched row is ignored when a matching row is present
+00:00 +8: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: rejects an endpoint that is not on the allowlist
+00:00 +9: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: rejects an endpoint that is not on the allowlist
+00:00 +10: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: rejects an endpoint that is not on the allowlist
+00:00 +11: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a 404 is a clean no-match
+00:00 +12: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: rejects a non-digit or wrong-length code on an allowlisted route
+00:00 +13: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: titles and the optional year are encoded on the search route
+00:00 +14: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: requires https outside the test seam
+00:00 +15: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a search without a year sends only the title
+00:00 +16: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: rejects credentials in the URL and non-443 ports
+00:00 +17: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: incomplete rows are ignored and a wholly unreadable answer fails
+00:00 +18: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +19: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +20: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +21: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +22: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +23: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: stops reading past the byte cap
+00:00 +24: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +25: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +26: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +27: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +28: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +29: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +30: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +31: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +32: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +33: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a key removed during the read starts no request
+00:00 +34: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a key removed during the read starts no request
+00:00 +35: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a key removed during the read starts no request
+00:00 +36: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: an answer that arrives after a key change is never published
+00:00 +37: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +38: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +39: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +40: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +41: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +42: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:01 +43: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the movie action appears only for movie or unknown codes
+00:02 +44: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the action is offered next to unwanted matches too
+00:02 +45: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a missing key explains setup and sends no request
+00:02 +46: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the optional year must be a plausible four-digit year
+00:03 +47: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: repeated failures keep every message and a retry
+00:03 +48: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a disposed title search ignores its late answer
+00:03 +49: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the movie search screen fits 320px at 1.6x text
+00:03 +50: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie credential changes invalidate cached movie state
+00:04 +51: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a movie storage failure is surfaced without leaking a value
+00:04 +52: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: (tearDownAll)
+00:04 +52: All tests passed!

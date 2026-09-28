@@ -1,0 +1,8 @@
+{
+  "installed_version": "0.7.0+9",
+  "schema_upgrade": "1 -> 2",
+  "existing_copies_preserved": 1,
+  "all_existing_columns_unchanged": true,
+  "finished_default_false": true,
+  "existing_assets_preserved": true
+}

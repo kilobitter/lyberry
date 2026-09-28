@@ -1,0 +1,982 @@
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: (setUpAll)
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +7: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +8: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +9: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:01 +10: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +11: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#76397]], state: ScrollableState#70042(position: ScrollPositionWithSingleContext#2afd9(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#ebd51, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#3f1b5 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#91233@Offset(77.5, 10.0), RenderPointerListener#edfc3@Offset(77.5, 10.0), RenderSemanticsAnnotations#4c87c@Offset(77.5, 10.0), RenderIgnorePointer#c516e@Offset(77.5, 10.0), RenderTapRegion#732ad@Offset(77.5, 10.0), RenderMouseRegion#937b2@Offset(77.5, 10.0), RenderPadding#5eea6@Offset(77.5, 10.0), RenderRepaintBoundary#bfd25@Offset(77.5, 10.0), RenderIndexedSemantics#d4e29@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#c6743@Offset(97.5, 360.0), RenderIgnorePointer#c6320@Offset(97.5, 360.0), RenderSemanticsAnnotations#71af9@Offset(97.5, 360.0), RenderPointerListener#c91f3@Offset(97.5, 360.0), RenderSemanticsGestureHandler#048a0@Offset(97.5, 360.0), RenderPointerListener#04f19@Offset(97.5, 360.0), _RenderScrollSemantics#069b3@Offset(97.5, 360.0), RenderClipRect#925e1@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#7ad34@Offset(97.5, 416.0), _RenderInkFeatures#34841@Offset(97.5, 416.0), RenderPhysicalModel#c552c@Offset(97.5, 416.0), RenderSemanticsAnnotations#aeed3@Offset(97.5, 416.0), RenderRepaintBoundary#d7045@Offset(97.5, 416.0), RenderIgnorePointer#828c4@Offset(97.5, 416.0), RenderAnimatedOpacity#8d89b@Offset(97.5, 416.0), RenderAnimatedOpacity#0b2d3@Offset(97.5, 416.0), _RenderColoredBox#7a972@Offset(97.5, 416.0), RenderAnimatedOpacity#88671@Offset(97.5, 416.0), RenderIgnorePointer#86eb3@Offset(97.5, 416.0), RenderAnimatedOpacity#df9b6@Offset(97.8, 416.0), RenderRepaintBoundary#affa1@Offset(97.8, 416.0), RenderSemanticsAnnotations#1559b@Offset(97.8, 416.0), RenderOffstage#74f3a@Offset(97.8, 416.0), RenderSemanticsAnnotations#74775@Offset(97.8, 416.0), _RenderTheater#e27db@Offset(97.8, 416.0), RenderAbsorbPointer#2ddd1@Offset(97.8, 416.0), RenderPointerListener#70beb@Offset(97.8, 416.0), RenderSemanticsAnnotations#97cc8@Offset(97.8, 416.0), RenderSemanticsAnnotations#985d1@Offset(97.8, 416.0), RenderSemanticsAnnotations#82329@Offset(97.8, 416.0), RenderSemanticsAnnotations#6a507@Offset(97.8, 416.0), RenderTapRegionSurface#d91c4@Offset(97.8, 416.0), RenderSemanticsAnnotations#7c39f@Offset(97.8, 416.0), RenderSemanticsAnnotations#4f320@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#3ad40(_ReusableRenderView#5d56f), HitTestEntry<HitTestTarget>#45b61(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:81:20)
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:130:13)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#7      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:01 +12: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +13: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +14: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:01 +15: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:02 +16: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:02 +17: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:02 +18: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:02 +19: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a stored photo becomes the cover and the original is untouched
+00:02 +20: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: asks for the medium when the source does not say
+00:02 +21: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a missing key explains setup and sends no request
+00:02 +22: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a missing key explains setup and sends no request
+00:02 +22: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#cd1d8]], state: ScrollableState#7b86d(position: ScrollPositionWithSingleContext#51849(offset: 0.0, range: 0.0..114.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#98bce, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#799c5 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#cd796@Offset(77.5, 10.0), RenderPointerListener#28180@Offset(77.5, 10.0), RenderSemanticsAnnotations#6d27b@Offset(77.5, 10.0), RenderIgnorePointer#9dcc5@Offset(77.5, 10.0), RenderTapRegion#20cb1@Offset(77.5, 10.0), RenderMouseRegion#e2063@Offset(77.5, 10.0), RenderPadding#566eb@Offset(77.5, 10.0), RenderRepaintBoundary#33358@Offset(77.5, 10.0), RenderIndexedSemantics#cae0a@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#b8621@Offset(97.5, 360.0), RenderIgnorePointer#18a4a@Offset(97.5, 360.0), RenderSemanticsAnnotations#9da2a@Offset(97.5, 360.0), RenderPointerListener#aebbf@Offset(97.5, 360.0), RenderSemanticsGestureHandler#eaf03@Offset(97.5, 360.0), RenderPointerListener#0c853@Offset(97.5, 360.0), _RenderScrollSemantics#e1f19@Offset(97.5, 360.0), RenderClipRect#87734@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#cd819@Offset(97.5, 416.0), _RenderInkFeatures#8345a@Offset(97.5, 416.0), RenderPhysicalModel#33f0f@Offset(97.5, 416.0), RenderSemanticsAnnotations#6bceb@Offset(97.5, 416.0), RenderRepaintBoundary#5df0b@Offset(97.5, 416.0), RenderIgnorePointer#48d60@Offset(97.5, 416.0), RenderAnimatedOpacity#20316@Offset(97.5, 416.0), RenderAnimatedOpacity#91c55@Offset(97.5, 416.0), _RenderColoredBox#31ecc@Offset(97.5, 416.0), RenderAnimatedOpacity#54db1@Offset(97.5, 416.0), RenderIgnorePointer#0d45a@Offset(97.5, 416.0), RenderAnimatedOpacity#f5463@Offset(97.8, 416.0), RenderRepaintBoundary#e1f22@Offset(97.8, 416.0), RenderSemanticsAnnotations#b7466@Offset(97.8, 416.0), RenderOffstage#df42b@Offset(97.8, 416.0), RenderSemanticsAnnotations#b73dd@Offset(97.8, 416.0), _RenderTheater#3a669@Offset(97.8, 416.0), RenderAbsorbPointer#e1242@Offset(97.8, 416.0), RenderPointerListener#2c0de@Offset(97.8, 416.0), RenderSemanticsAnnotations#814b5@Offset(97.8, 416.0), RenderSemanticsAnnotations#fa325@Offset(97.8, 416.0), RenderSemanticsAnnotations#d49cc@Offset(97.8, 416.0), RenderSemanticsAnnotations#430f7@Offset(97.8, 416.0), RenderTapRegionSurface#f174d@Offset(97.8, 416.0), RenderSemanticsAnnotations#68a4f@Offset(97.8, 416.0), RenderSemanticsAnnotations#1be7c@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#68b85(_ReusableRenderView#5d56f), HitTestEntry<HitTestTarget>#3134c(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:81:20)
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:185:11)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#7      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:02 +22: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a missing key explains setup and sends no request
+00:02 +23: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:02 +24: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:03 +25: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+
+Warning: A call to tap() with finder "Found 1 widget with key [<'editor-save-bottom'>]: [
+  FilledButton-[<'editor-save-bottom'>](dependencies: [IconTheme, InheritedCupertinoTheme, MediaQuery, _InheritedTheme, _LocalizationsScope-[GlobalKey#cd1d8]], state: _ButtonStyleState#d1742),
+]" derived an Offset (Offset(195.0, 808.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderSemanticsAnnotations#67712 relayoutBoundary=up3
+The hit test result at that offset is: HitTestResult(_RenderColoredBox#a90aa@Offset(97.5, 808.0), RenderAnimatedOpacity#7019b@Offset(97.5, 808.0), RenderIgnorePointer#202e2@Offset(97.5, 808.0), RenderAnimatedOpacity#bf690@Offset(195.0, 808.0), RenderRepaintBoundary#006ba@Offset(195.0, 808.0), RenderSemanticsAnnotations#4e3d6@Offset(195.0, 808.0), RenderOffstage#88221@Offset(195.0, 808.0), RenderSemanticsAnnotations#118e9@Offset(195.0, 808.0), _RenderTheater#3a669@Offset(195.0, 808.0), RenderAbsorbPointer#e1242@Offset(195.0, 808.0), RenderPointerListener#2c0de@Offset(195.0, 808.0), RenderSemanticsAnnotations#814b5@Offset(195.0, 808.0), RenderSemanticsAnnotations#fa325@Offset(195.0, 808.0), RenderSemanticsAnnotations#d49cc@Offset(195.0, 808.0), RenderSemanticsAnnotations#430f7@Offset(195.0, 808.0), RenderTapRegionSurface#f174d@Offset(195.0, 808.0), RenderSemanticsAnnotations#68a4f@Offset(195.0, 808.0), RenderSemanticsAnnotations#1be7c@Offset(195.0, 808.0), HitTestEntry<HitTestTarget>#916cb(_ReusableRenderView#5d56f), HitTestEntry<HitTestTarget>#c7e5a(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.tap (package:flutter_test/src/controller.dart:1075:7)
+#3      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:192:18)
+<asynchronous suspension>
+#4      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#5      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#6      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "tap()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:03 +26: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:03 +27: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:03 +28: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:03 +29: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:03 +30: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+00:04 +31: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: <1>
+  Actual: <0>
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:197:5)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart line 197
+The test description was:
+  a photo picked for the cover is kept as a personal photo
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:04 +31 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:04 +31 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a photo picked for the cover is kept as a personal photo [E]
+  Test failed. See exception logs above.
+  The test description was: a photo picked for the cover is kept as a personal photo
+  
+00:04 +32 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:04 +33 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:04 +33 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: cancelling the crop keeps the previous cover
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#d6e52]], state: ScrollableState#4253f(position: ScrollPositionWithSingleContext#8711c(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#6ab03, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#fe638 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#f56b3@Offset(77.5, 10.0), RenderPointerListener#9a3bf@Offset(77.5, 10.0), RenderSemanticsAnnotations#7e8da@Offset(77.5, 10.0), RenderIgnorePointer#86e71@Offset(77.5, 10.0), RenderTapRegion#da906@Offset(77.5, 10.0), RenderMouseRegion#4f7ab@Offset(77.5, 10.0), RenderPadding#6cfcb@Offset(77.5, 10.0), RenderRepaintBoundary#18aab@Offset(77.5, 10.0), RenderIndexedSemantics#6ee67@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#e7301@Offset(97.5, 360.0), RenderIgnorePointer#e5779@Offset(97.5, 360.0), RenderSemanticsAnnotations#19cc3@Offset(97.5, 360.0), RenderPointerListener#5b091@Offset(97.5, 360.0), RenderSemanticsGestureHandler#3e7c3@Offset(97.5, 360.0), RenderPointerListener#988d9@Offset(97.5, 360.0), _RenderScrollSemantics#0865e@Offset(97.5, 360.0), RenderClipRect#4f961@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#a5ade@Offset(97.5, 416.0), _RenderInkFeatures#ff1d6@Offset(97.5, 416.0), RenderPhysicalModel#f2588@Offset(97.5, 416.0), RenderSemanticsAnnotations#af392@Offset(97.5, 416.0), RenderRepaintBoundary#daf34@Offset(97.5, 416.0), RenderIgnorePointer#889de@Offset(97.5, 416.0), RenderAnimatedOpacity#10e3b@Offset(97.5, 416.0), RenderAnimatedOpacity#e7eeb@Offset(97.5, 416.0), _RenderColoredBox#2df71@Offset(97.5, 416.0), RenderAnimatedOpacity#9a2bc@Offset(97.5, 416.0), RenderIgnorePointer#4679e@Offset(97.5, 416.0), RenderAnimatedOpacity#44c75@Offset(97.8, 416.0), RenderRepaintBoundary#c9a20@Offset(97.8, 416.0), RenderSemanticsAnnotations#9ec29@Offset(97.8, 416.0), RenderOffstage#0ee03@Offset(97.8, 416.0), RenderSemanticsAnnotations#35429@Offset(97.8, 416.0), _RenderTheater#52129@Offset(97.8, 416.0), RenderAbsorbPointer#dd3d8@Offset(97.8, 416.0), RenderPointerListener#03cf9@Offset(97.8, 416.0), RenderSemanticsAnnotations#7e2d2@Offset(97.8, 416.0), RenderSemanticsAnnotations#1f0fb@Offset(97.8, 416.0), RenderSemanticsAnnotations#ed15d@Offset(97.8, 416.0), RenderSemanticsAnnotations#b6579@Offset(97.8, 416.0), RenderTapRegionSurface#030de@Offset(97.8, 416.0), RenderSemanticsAnnotations#ceeb2@Offset(97.8, 416.0), RenderSemanticsAnnotations#81f1f@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#fa359(_ReusableRenderView#5d56f), HitTestEntry<HitTestTarget>#e8219(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:81:20)
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:216:11)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#7      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:04 +34 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:04 +35 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:04 +36 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:04 +37 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:04 +37 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: cancelling the crop keeps the previous cover
+
+Warning: A call to tap() with finder "Found 1 widget with key [<'editor-save-bottom'>]: [
+  FilledButton-[<'editor-save-bottom'>](dependencies: [IconTheme, InheritedCupertinoTheme, MediaQuery, _InheritedTheme, _LocalizationsScope-[GlobalKey#d6e52]], state: _ButtonStyleState#5132a),
+]" derived an Offset (Offset(195.0, 808.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderSemanticsAnnotations#6010e relayoutBoundary=up3
+The hit test result at that offset is: HitTestResult(_RenderColoredBox#7c176@Offset(97.5, 808.0), RenderAnimatedOpacity#d124d@Offset(97.5, 808.0), RenderIgnorePointer#4e4d0@Offset(97.5, 808.0), RenderAnimatedOpacity#0d9de@Offset(195.0, 808.0), RenderRepaintBoundary#b90f4@Offset(195.0, 808.0), RenderSemanticsAnnotations#29494@Offset(195.0, 808.0), RenderOffstage#7dda1@Offset(195.0, 808.0), RenderSemanticsAnnotations#7173c@Offset(195.0, 808.0), _RenderTheater#52129@Offset(195.0, 808.0), RenderAbsorbPointer#dd3d8@Offset(195.0, 808.0), RenderPointerListener#03cf9@Offset(195.0, 808.0), RenderSemanticsAnnotations#7e2d2@Offset(195.0, 808.0), RenderSemanticsAnnotations#1f0fb@Offset(195.0, 808.0), RenderSemanticsAnnotations#ed15d@Offset(195.0, 808.0), RenderSemanticsAnnotations#b6579@Offset(195.0, 808.0), RenderTapRegionSurface#030de@Offset(195.0, 808.0), RenderSemanticsAnnotations#ceeb2@Offset(195.0, 808.0), RenderSemanticsAnnotations#81f1f@Offset(195.0, 808.0), HitTestEntry<HitTestTarget>#d006b(_ReusableRenderView#5d56f), HitTestEntry<HitTestTarget>#2528c(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.tap (package:flutter_test/src/controller.dart:1075:7)
+#3      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:222:18)
+<asynchronous suspension>
+#4      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#5      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#6      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "tap()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:04 +38 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:04 +39 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:05 +40 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: removing the photo keeps the derived cover
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#0a227]], state: ScrollableState#e8226(position: ScrollPositionWithSingleContext#a8f5f(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#7f61c, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#f0e38 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#02db2@Offset(77.5, 10.0), RenderPointerListener#3657b@Offset(77.5, 10.0), RenderSemanticsAnnotations#94f2a@Offset(77.5, 10.0), RenderIgnorePointer#a2511@Offset(77.5, 10.0), RenderTapRegion#1fb4d@Offset(77.5, 10.0), RenderMouseRegion#0b84a@Offset(77.5, 10.0), RenderPadding#4d919@Offset(77.5, 10.0), RenderRepaintBoundary#d413c@Offset(77.5, 10.0), RenderIndexedSemantics#b8546@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#24ca9@Offset(97.5, 360.0), RenderIgnorePointer#968f8@Offset(97.5, 360.0), RenderSemanticsAnnotations#e2fb0@Offset(97.5, 360.0), RenderPointerListener#53f27@Offset(97.5, 360.0), RenderSemanticsGestureHandler#b492e@Offset(97.5, 360.0), RenderPointerListener#f11fa@Offset(97.5, 360.0), _RenderScrollSemantics#5df39@Offset(97.5, 360.0), RenderClipRect#9d693@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#61440@Offset(97.5, 416.0), _RenderInkFeatures#1fa2d@Offset(97.5, 416.0), RenderPhysicalModel#323da@Offset(97.5, 416.0), RenderSemanticsAnnotations#02ae2@Offset(97.5, 416.0), RenderRepaintBoundary#5b236@Offset(97.5, 416.0), RenderIgnorePointer#4a8a5@Offset(97.5, 416.0), RenderAnimatedOpacity#07a36@Offset(97.5, 416.0), RenderAnimatedOpacity#b89b8@Offset(97.5, 416.0), _RenderColoredBox#1174d@Offset(97.5, 416.0), RenderAnimatedOpacity#76304@Offset(97.5, 416.0), RenderIgnorePointer#9058f@Offset(97.5, 416.0), RenderAnimatedOpacity#63d74@Offset(97.8, 416.0), RenderRepaintBoundary#8ee0a@Offset(97.8, 416.0), RenderSemanticsAnnotations#5a363@Offset(97.8, 416.0), RenderOffstage#b09b5@Offset(97.8, 416.0), RenderSemanticsAnnotations#98efe@Offset(97.8, 416.0), _RenderTheater#2051b@Offset(97.8, 416.0), RenderAbsorbPointer#3f267@Offset(97.8, 416.0), RenderPointerListener#5826a@Offset(97.8, 416.0), RenderSemanticsAnnotations#e8f37@Offset(97.8, 416.0), RenderSemanticsAnnotations#792d4@Offset(97.8, 416.0), RenderSemanticsAnnotations#1b20f@Offset(97.8, 416.0), RenderSemanticsAnnotations#dcb53@Offset(97.8, 416.0), RenderTapRegionSurface#d470d@Offset(97.8, 416.0), RenderSemanticsAnnotations#9ab2a@Offset(97.8, 416.0), RenderSemanticsAnnotations#ed8e3@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#355ea(_ReusableRenderView#5d56f), HitTestEntry<HitTestTarget>#dc25b(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:81:20)
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:245:11)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#7      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:05 +41 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: cancelling the editor keeps the stored flag
+00:05 +42 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: first launch shows the empty state and writes no demo data
+00:05 +42 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: removing the cover keeps the photos
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#7baf9]], state: ScrollableState#53be1(position: ScrollPositionWithSingleContext#91f53(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#4c4e9, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#ca3ee relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#34152@Offset(77.5, 10.0), RenderPointerListener#2946b@Offset(77.5, 10.0), RenderSemanticsAnnotations#58b4d@Offset(77.5, 10.0), RenderIgnorePointer#ecc0f@Offset(77.5, 10.0), RenderTapRegion#50c62@Offset(77.5, 10.0), RenderMouseRegion#69f12@Offset(77.5, 10.0), RenderPadding#45543@Offset(77.5, 10.0), RenderRepaintBoundary#2df65@Offset(77.5, 10.0), RenderIndexedSemantics#1f559@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#591e3@Offset(97.5, 360.0), RenderIgnorePointer#674aa@Offset(97.5, 360.0), RenderSemanticsAnnotations#67fe7@Offset(97.5, 360.0), RenderPointerListener#09eb7@Offset(97.5, 360.0), RenderSemanticsGestureHandler#35a46@Offset(97.5, 360.0), RenderPointerListener#f5086@Offset(97.5, 360.0), _RenderScrollSemantics#cd64f@Offset(97.5, 360.0), RenderClipRect#4bd06@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#cb278@Offset(97.5, 416.0), _RenderInkFeatures#e9776@Offset(97.5, 416.0), RenderPhysicalModel#8833d@Offset(97.5, 416.0), RenderSemanticsAnnotations#d3961@Offset(97.5, 416.0), RenderRepaintBoundary#6c2e3@Offset(97.5, 416.0), RenderIgnorePointer#f5959@Offset(97.5, 416.0), RenderAnimatedOpacity#edcf3@Offset(97.5, 416.0), RenderAnimatedOpacity#64436@Offset(97.5, 416.0), _RenderColoredBox#44675@Offset(97.5, 416.0), RenderAnimatedOpacity#b7746@Offset(97.5, 416.0), RenderIgnorePointer#8a3f0@Offset(97.5, 416.0), RenderAnimatedOpacity#cd844@Offset(97.8, 416.0), RenderRepaintBoundary#4bbd0@Offset(97.8, 416.0), RenderSemanticsAnnotations#2daf6@Offset(97.8, 416.0), RenderOffstage#91bc0@Offset(97.8, 416.0), RenderSemanticsAnnotations#1fed9@Offset(97.8, 416.0), _RenderTheater#40651@Offset(97.8, 416.0), RenderAbsorbPointer#474d1@Offset(97.8, 416.0), RenderPointerListener#d3169@Offset(97.8, 416.0), RenderSemanticsAnnotations#e79b8@Offset(97.8, 416.0), RenderSemanticsAnnotations#7dafb@Offset(97.8, 416.0), RenderSemanticsAnnotations#72c29@Offset(97.8, 416.0), RenderSemanticsAnnotations#1649b@Offset(97.8, 416.0), RenderTapRegionSurface#f2fe5@Offset(97.8, 416.0), RenderSemanticsAnnotations#67024@Offset(97.8, 416.0), RenderSemanticsAnnotations#a4276@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#7c2f4(_ReusableRenderView#5d56f), HitTestEntry<HitTestTarget>#9b2d5(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:81:20)
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:274:11)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#7      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:05 +43 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: first launch shows the empty state and writes no demo data
+00:06 +44 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: only books and films show the control
+00:06 +44 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a full photo list explains before capture and offers the photos
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#92ee7]], state: ScrollableState#3b1d9(position: ScrollPositionWithSingleContext#f2aef(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#b366c, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#bec09 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#ae071@Offset(77.5, 10.0), RenderPointerListener#d5292@Offset(77.5, 10.0), RenderSemanticsAnnotations#55dd4@Offset(77.5, 10.0), RenderIgnorePointer#8427b@Offset(77.5, 10.0), RenderTapRegion#8021a@Offset(77.5, 10.0), RenderMouseRegion#827e5@Offset(77.5, 10.0), RenderPadding#3495e@Offset(77.5, 10.0), RenderRepaintBoundary#2ff28@Offset(77.5, 10.0), RenderIndexedSemantics#5e8b4@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#55242@Offset(97.5, 360.0), RenderIgnorePointer#43f28@Offset(97.5, 360.0), RenderSemanticsAnnotations#12d45@Offset(97.5, 360.0), RenderPointerListener#e1cf7@Offset(97.5, 360.0), RenderSemanticsGestureHandler#d5f65@Offset(97.5, 360.0), RenderPointerListener#64082@Offset(97.5, 360.0), _RenderScrollSemantics#874a7@Offset(97.5, 360.0), RenderClipRect#47b28@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#99767@Offset(97.5, 416.0), _RenderInkFeatures#1752d@Offset(97.5, 416.0), RenderPhysicalModel#24083@Offset(97.5, 416.0), RenderSemanticsAnnotations#85443@Offset(97.5, 416.0), RenderRepaintBoundary#837bd@Offset(97.5, 416.0), RenderIgnorePointer#f5650@Offset(97.5, 416.0), RenderAnimatedOpacity#2f5db@Offset(97.5, 416.0), RenderAnimatedOpacity#1752f@Offset(97.5, 416.0), _RenderColoredBox#80a48@Offset(97.5, 416.0), RenderAnimatedOpacity#32fc5@Offset(97.5, 416.0), RenderIgnorePointer#47044@Offset(97.5, 416.0), RenderAnimatedOpacity#8834d@Offset(97.8, 416.0), RenderRepaintBoundary#c5778@Offset(97.8, 416.0), RenderSemanticsAnnotations#5ae5a@Offset(97.8, 416.0), RenderOffstage#205a8@Offset(97.8, 416.0), RenderSemanticsAnnotations#107df@Offset(97.8, 416.0), _RenderTheater#d2057@Offset(97.8, 416.0), RenderAbsorbPointer#77e5c@Offset(97.8, 416.0), RenderPointerListener#24f30@Offset(97.8, 416.0), RenderSemanticsAnnotations#63a9c@Offset(97.8, 416.0), RenderSemanticsAnnotations#b48f9@Offset(97.8, 416.0), RenderSemanticsAnnotations#7d954@Offset(97.8, 416.0), RenderSemanticsAnnotations#21a10@Offset(97.8, 416.0), RenderTapRegionSurface#55952@Offset(97.8, 416.0), RenderSemanticsAnnotations#6a7d2@Offset(97.8, 416.0), RenderSemanticsAnnotations#1b703@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#2c1c3(_ReusableRenderView#5d56f), HitTestEntry<HitTestTarget>#a5ca4(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:81:20)
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:302:13)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#7      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:06 +45 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:06 +46 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:06 +47 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:07 +48 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:07 +49 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a manual cover choice beats a late provider download
+00:07 +50 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: a manual cover choice beats a late provider download
+00:07 +51 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a metadata lookup keeps the finished flag
+00:07 +52 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a metadata lookup keeps the finished flag
+00:07 +53 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:07 +53 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart: cancelling the editor after a crop persists nothing
+
+Warning: A call to drag() with finder "Found 1 widget with type "Scrollable" (ignoring all but first): [
+  Scrollable(axisDirection: down, physics: AlwaysScrollableScrollPhysics, restorationId: null, dependencies: [InheritedCupertinoTheme, MediaQuery, ScrollConfiguration, UnmanagedRestorationScope, _InheritedTheme, _LocalizationsScope-[GlobalKey#a0dc5]], state: ScrollableState#a76f8(position: ScrollPositionWithSingleContext#b7abf(offset: 0.0, range: 0.0..188.0, viewport: 720.0, ScrollableState, AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics, IdleScrollActivity#000d2, ScrollDirection.idle), effective physics: AlwaysScrollableScrollPhysics -> ClampingScrollPhysics -> RangeMaintainingScrollPhysics)),
+]" derived an Offset (Offset(97.8, 416.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderClipRect#08555 relayoutBoundary=up1
+The hit test result at that offset is: HitTestResult(_RenderDecoration#1290c@Offset(77.5, 10.0), RenderPointerListener#437e1@Offset(77.5, 10.0), RenderSemanticsAnnotations#eceec@Offset(77.5, 10.0), RenderIgnorePointer#97ea1@Offset(77.5, 10.0), RenderTapRegion#d74b8@Offset(77.5, 10.0), RenderMouseRegion#bcd5e@Offset(77.5, 10.0), RenderPadding#635e3@Offset(77.5, 10.0), RenderRepaintBoundary#6779d@Offset(77.5, 10.0), RenderIndexedSemantics#8206a@Offset(77.5, 10.0), RenderSliverList@(mainAxis: 352.0, crossAxis: 77.5), RenderSliverPadding@(mainAxis: 360.0, crossAxis: 97.5), RenderViewport#aeb2b@Offset(97.5, 360.0), RenderIgnorePointer#2c4ba@Offset(97.5, 360.0), RenderSemanticsAnnotations#3d7d0@Offset(97.5, 360.0), RenderPointerListener#ea900@Offset(97.5, 360.0), RenderSemanticsGestureHandler#bbc41@Offset(97.5, 360.0), RenderPointerListener#f4f04@Offset(97.5, 360.0), _RenderScrollSemantics#dfcfe@Offset(97.5, 360.0), RenderClipRect#5f8e0@Offset(97.5, 360.0), RenderCustomMultiChildLayoutBox#e6c41@Offset(97.5, 416.0), _RenderInkFeatures#33b7c@Offset(97.5, 416.0), RenderPhysicalModel#38202@Offset(97.5, 416.0), RenderSemanticsAnnotations#b2d5a@Offset(97.5, 416.0), RenderRepaintBoundary#4316a@Offset(97.5, 416.0), RenderIgnorePointer#c1bcc@Offset(97.5, 416.0), RenderAnimatedOpacity#e3d71@Offset(97.5, 416.0), RenderAnimatedOpacity#1821c@Offset(97.5, 416.0), _RenderColoredBox#a5f1e@Offset(97.5, 416.0), RenderAnimatedOpacity#bf2aa@Offset(97.5, 416.0), RenderIgnorePointer#b9793@Offset(97.5, 416.0), RenderAnimatedOpacity#1e949@Offset(97.8, 416.0), RenderRepaintBoundary#ed638@Offset(97.8, 416.0), RenderSemanticsAnnotations#e69e6@Offset(97.8, 416.0), RenderOffstage#cca1a@Offset(97.8, 416.0), RenderSemanticsAnnotations#df006@Offset(97.8, 416.0), _RenderTheater#b8274@Offset(97.8, 416.0), RenderAbsorbPointer#ee4b4@Offset(97.8, 416.0), RenderPointerListener#d5ac4@Offset(97.8, 416.0), RenderSemanticsAnnotations#50f72@Offset(97.8, 416.0), RenderSemanticsAnnotations#d36b2@Offset(97.8, 416.0), RenderSemanticsAnnotations#849cb@Offset(97.8, 416.0), RenderSemanticsAnnotations#cfd68@Offset(97.8, 416.0), RenderTapRegionSurface#6c310@Offset(97.8, 416.0), RenderSemanticsAnnotations#879bb@Offset(97.8, 416.0), RenderSemanticsAnnotations#aff9e@Offset(97.8, 416.0), HitTestEntry<HitTestTarget>#71970(_ReusableRenderView#5d56f), HitTestEntry<HitTestTarget>#6ba5d(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.drag (package:flutter_test/src/controller.dart:1599:7)
+#3      main.reveal (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:81:20)
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/photo_cover_flow_test.dart:390:11)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#7      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "drag()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:07 +54 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:07 +55 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:07 +55 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: rapid manual lookups start only one lookup
+
+Warning: A call to tap() with finder "Found 1 widget with key [<'scan-manual-lookup'>]: [
+  FilledButton-[<'scan-manual-lookup'>](dirty, dependencies: [IconTheme, InheritedCupertinoTheme, MediaQuery, _InheritedTheme, _LocalizationsScope-[GlobalKey#123a6], _ScrollableScope], state: _ButtonStyleState#47789),
+]" derived an Offset (Offset(195.0, 618.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderSemanticsAnnotations#a9d8c relayoutBoundary=up5 NEEDS-PAINT
+The hit test result at that offset is: HitTestResult(RenderPointerListener#de269@Offset(195.0, 618.0), RenderSemanticsAnnotations#01bde@Offset(195.0, 618.0), RenderSemanticsAnnotations#57d54@Offset(195.0, 618.0), RenderSemanticsAnnotations#a1241@Offset(195.0, 618.0), RenderSemanticsAnnotations#0a6fd@Offset(195.0, 618.0), RenderTapRegionSurface#fc61e@Offset(195.0, 618.0), RenderSemanticsAnnotations#234ce@Offset(195.0, 618.0), RenderSemanticsAnnotations#f2b93@Offset(195.0, 618.0), HitTestEntry<HitTestTarget>#9064d(_ReusableRenderView#34a0d), HitTestEntry<HitTestTarget>#05cf7(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.tap (package:flutter_test/src/controller.dart:1075:7)
+#3      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart:252:18)
+<asynchronous suspension>
+#4      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#5      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#6      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "tap()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:08 +56 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:08 +57 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:08 +58 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:08 +59 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: no matches still allows a manual add with the code prefilled
+00:08 +60 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: no matches still allows a manual add with the code prefilled
+00:08 +61 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: edit updates the stored copy
+00:08 +62 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: edit updates the stored copy
+00:08 +63 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: edit updates the stored copy
+00:08 +64 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:08 +65 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:09 +66 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:09 +67 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:09 +68 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:09 +69 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:09 +70 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:09 +71 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:09 +72 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:09 +73 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/p2_render_evidence_test.dart: candidates at 390x844
+00:09 +74 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/p2_render_evidence_test.dart: candidates at 390x844
+00:09 +75 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: picked photos and a cover are stored with the copy
+00:09 +76 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: picked photos and a cover are stored with the copy
+00:10 +77 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: picked photos and a cover are stored with the copy
+00:10 +78 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: picked photos and a cover are stored with the copy
+00:10 +79 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:10 +80 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:10 +81 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:10 +82 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:10 +83 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:10 +84 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:10 +85 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:10 +86 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:10 +87 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:10 +88 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a removed cover is not restored by a slow download
+00:10 +89 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a removed cover is not restored by a slow download
+00:10 +90 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a removed cover is not restored by a slow download
+00:10 +91 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a removed cover is not restored by a slow download
+00:10 +92 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: a failed save is reported instead of swallowed
+00:11 +93 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: a games storage failure is surfaced without leaking a value
+00:11 +94 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:11 +95 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: returning from Settings with a saved key enables the search
+00:11 +96 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: returning from Settings with a saved key enables the search
+00:11 +97 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:11 +98 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:11 +99 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search at 390x844
+00:11 +100 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search at 390x844
+00:11 +101 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search at 390x844
+00:12 +102 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search at 390x844
+00:12 +103 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web search idle at 390x844
+00:12 +104 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web search idle at 390x844
+00:12 +105 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web search idle at 390x844
+00:12 +106 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search results at 390x844
+00:12 +107 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search results at 390x844
+00:12 +108 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: the manual fallback from title search keeps the scanned code
+00:12 +109 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web results at 390x844
+00:12 +110 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web results at 390x844
+00:12 +111 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search at 320x568 with 1.6x text
+00:13 +112 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: missing key state at 390x844
+00:13 +113 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: games credentials settings at 390x844
+00:13 +114 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web AI candidate at 390x844
+00:13 +115 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: games credentials settings at 320x568 with 1.6x text
+00:13 +116 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web link mode at 320x568 with 1.6x text
+00:13 +117 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web empty state at 320x568 with 1.6x text
+00:13 +118 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview with a dragged crop at 390x844
+00:13 +119 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview with a dragged crop at 390x844
+00:13 +120 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview with a dragged crop at 390x844
+00:14 +121 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview with a dragged crop at 390x844
+00:14 +122 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview with a dragged crop at 390x844
+00:14 +123 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview with a dragged crop at 390x844
+00:14 +124 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview with a dragged crop at 390x844
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: one widget whose rasterized image matches golden image
+"goldens/photo_cover_crop_390x844.png"
+  Actual: _TypeWidgetFinder:<Found 1 widget with type "MaterialApp": [
+            MaterialApp(state: _MaterialAppState#938af),
+          ]>
+   Which: Could not be compared against non-existent file: "goldens/photo_cover_crop_390x844.png"
+
+When the exception was thrown, this was the stack:
+#0      fail (package:matcher/src/expect/expect.dart:187:31)
+#1      _expect.<anonymous closure> (package:matcher/src/expect/expect.dart:155:13)
+<asynchronous suspension>
+<asynchronous suspension>
+#8      expectLater.<anonymous closure> (package:flutter_test/src/widget_tester.dart:508:19)
+<asynchronous suspension>
+#9      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart:54:5)
+<asynchronous suspension>
+#10     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#11     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided 7 frames from dart:async and package:stack_trace)
+
+The test description was:
+  crop preview with a dragged crop at 390x844
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:14 +124 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:14 +124 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview with a dragged crop at 390x844 [E]
+  Test failed. See exception logs above.
+  The test description was: crop preview with a dragged crop at 390x844
+  
+00:14 +125 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:15 +126 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:15 +127 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:15 +128 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview after a quarter turn at 390x844
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: one widget whose rasterized image matches golden image
+"goldens/photo_cover_crop_rotated_390x844.png"
+  Actual: _TypeWidgetFinder:<Found 1 widget with type "MaterialApp": [
+            MaterialApp(state: _MaterialAppState#0dcfc),
+          ]>
+   Which: Could not be compared against non-existent file:
+"goldens/photo_cover_crop_rotated_390x844.png"
+
+When the exception was thrown, this was the stack:
+#0      fail (package:matcher/src/expect/expect.dart:187:31)
+#1      _expect.<anonymous closure> (package:matcher/src/expect/expect.dart:155:13)
+<asynchronous suspension>
+<asynchronous suspension>
+#8      expectLater.<anonymous closure> (package:flutter_test/src/widget_tester.dart:508:19)
+<asynchronous suspension>
+#9      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart:77:5)
+<asynchronous suspension>
+#10     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#11     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided 7 frames from dart:async and package:stack_trace)
+
+The test description was:
+  crop preview after a quarter turn at 390x844
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:15 +128 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/platform_filter_render_test.dart: platform filter closed at 390x844
+00:15 +128 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview after a quarter turn at 390x844 [E]
+  Test failed. See exception logs above.
+  The test description was: crop preview after a quarter turn at 390x844
+  
+00:15 +128 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/movies_render_test.dart: movie credentials settings at 390x844
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following assertion was thrown while running async test code:
+Golden "goldens/settings_movies_keys_390x844.png": Pixel test failed, 0.02%, 66px diff detected.
+Failure feedback can be found at
+/Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/failures
+
+When the exception was thrown, this was the stack:
+#0      LocalFileComparator.compare (package:flutter_test/src/_goldens_io.dart:108:5)
+<asynchronous suspension>
+#1      MatchesGoldenFile.matchAsync.<anonymous closure> (package:flutter_test/src/_matchers_io.dart:124:32)
+<asynchronous suspension>
+<asynchronous suspension>
+#3      _expect.<anonymous closure> (package:matcher/src/expect/expect.dart:153:17)
+<asynchronous suspension>
+<asynchronous suspension>
+#5      expectLater.<anonymous closure> (package:flutter_test/src/widget_tester.dart:508:19)
+<asynchronous suspension>
+#6      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/movies_render_test.dart:181:5)
+<asynchronous suspension>
+#7      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#8      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided 3 frames from dart:async and package:stack_trace)
+
+The exception was caught asynchronously.
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:15 +128 -4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/platform_filter_render_test.dart: platform filter closed at 390x844
+00:15 +128 -4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/movies_render_test.dart: movie credentials settings at 390x844 [E]
+  Test failed. See exception logs above.
+  The test description was: movie credentials settings at 390x844
+  
+00:15 +128 -4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/platform_filter_render_test.dart: platform filter closed at 390x844
+00:15 +128 -4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview at 320x568 with 1.6x text
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: one widget whose rasterized image matches golden image
+"goldens/photo_cover_crop_320x568_scale1.6.png"
+  Actual: _TypeWidgetFinder:<Found 1 widget with type "MaterialApp": [
+            MaterialApp(state: _MaterialAppState#2734d),
+          ]>
+   Which: Could not be compared against non-existent file:
+"goldens/photo_cover_crop_320x568_scale1.6.png"
+
+When the exception was thrown, this was the stack:
+#0      fail (package:matcher/src/expect/expect.dart:187:31)
+#1      _expect.<anonymous closure> (package:matcher/src/expect/expect.dart:155:13)
+<asynchronous suspension>
+<asynchronous suspension>
+#8      expectLater.<anonymous closure> (package:flutter_test/src/widget_tester.dart:508:19)
+<asynchronous suspension>
+#9      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart:98:5)
+<asynchronous suspension>
+#10     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#11     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided 7 frames from dart:async and package:stack_trace)
+
+The test description was:
+  crop preview at 320x568 with 1.6x text
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:15 +128 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/platform_filter_render_test.dart: platform filter closed at 390x844
+00:15 +128 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/photo_cover_render_test.dart: crop preview at 320x568 with 1.6x text [E]
+  Test failed. See exception logs above.
+  The test description was: crop preview at 320x568 with 1.6x text
+  
+00:15 +128 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/platform_filter_render_test.dart: platform filter closed at 390x844
+00:15 +129 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:16 +130 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/platform_filter_render_test.dart: platform filter open at 390x844
+00:16 +131 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +132 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +133 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +134 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +134 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a future schema version is refused and the file is left alone
+error DatabaseSchemaException: This library was written by a newer version of Lyberry (schema 99). Update the app instead of replacing the file. during open, closing...
+00:16 +135 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +136 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +137 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +138 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +139 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:17 +140 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/state/web_lookup_controller_test.dart: a fresh run after a cancel is not treated as cancelled
+00:17 +141 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/photo_cover_backup_test.dart: a derived cover and its original photo survive close and reopen
+00:17 +142 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book detail at 390x844
+00:17 +143 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book detail at 390x844
+00:17 +144 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book detail at 390x844
+00:17 +145 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/chunked_asset_test.dart: round-trips a >2 MiB image through chunked reads and export
+00:18 +146 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/chunked_asset_test.dart: round-trips a >2 MiB image through chunked reads and export
+00:18 +147 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/chunked_asset_test.dart: round-trips a >2 MiB image through chunked reads and export
+00:18 +148 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +149 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +150 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +151 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +152 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +153 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +154 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +155 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +156 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +157 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +158 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +158 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/sqlite_repository_test.dart: a file that is not a library fails loudly and is left in place
+error SqfliteFfiException(sqlite_error: 26, , SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version}) DatabaseException(SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version) sql 'PRAGMA user_version' {details: {database: {path: /var/folders/lk/4w48wb_n7t31sj6pr64lptzm0000gn/T/lyberry_repositoryHY3jSC/broken.db, id: 16, readOnly: false, singleInstance: true}}} during open, closing...
+00:18 +159 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +160 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +161 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +162 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +163 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+00:18 +164 -5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following assertion was thrown while running async test code:
+Golden "goldens/editor_finished_390x844.png": Pixel test failed, 16.37%, 53877px diff detected.
+Failure feedback can be found at
+/Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/failures
+
+When the exception was thrown, this was the stack:
+#0      LocalFileComparator.compare (package:flutter_test/src/_goldens_io.dart:108:5)
+<asynchronous suspension>
+#1      MatchesGoldenFile.matchAsync.<anonymous closure> (package:flutter_test/src/_matchers_io.dart:124:32)
+<asynchronous suspension>
+<asynchronous suspension>
+#3      _expect.<anonymous closure> (package:matcher/src/expect/expect.dart:153:17)
+<asynchronous suspension>
+<asynchronous suspension>
+#5      expectLater.<anonymous closure> (package:flutter_test/src/widget_tester.dart:508:19)
+<asynchronous suspension>
+#6      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart:263:5)
+<asynchronous suspension>
+#7      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#8      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided 3 frames from dart:async and package:stack_trace)
+
+The exception was caught asynchronously.
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:18 +164 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: finished book editor at 390x844 [E]
+  Test failed. See exception logs above.
+  The test description was: finished book editor at 390x844
+  
+00:18 +164 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +165 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +166 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +167 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +168 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +169 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +170 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +171 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +172 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +173 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +174 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +175 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +176 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +177 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:18 +178 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +179 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +180 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +181 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +182 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +183 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +184 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +185 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +186 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +187 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +188 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +189 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +190 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +191 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +192 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +193 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +194 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +195 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:19 +196 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: webp fixture accepts a real WebP file and reads its header dimensions
+00:19 +197 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +198 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +199 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +200 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +201 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +202 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +203 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +204 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +205 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +206 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +207 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:19 +208 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: (tearDownAll)
+00:19 +208 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop validation the full frame is valid and flagged as full
+00:19 +209 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop validation every quarter turn is accepted and nothing else is
+00:19 +210 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop validation empty and negative rectangles are rejected
+00:19 +211 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop validation rectangles outside the photo are rejected
+00:19 +212 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop validation non-finite values are rejected
+00:19 +213 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop validation a hair outside the edge is still accepted
+00:19 +214 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop validation assertValid throws the same issues it reports
+00:19 +215 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop pixel mapping maps normalized coordinates onto whole pixels
+00:19 +216 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop pixel mapping clamps a sliver at the edge to at least one pixel
+00:19 +217 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop value semantics copyWith replaces only the named fields
+00:19 +218 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/cover_crop_test.dart: CoverCrop value semantics equality and hashCode follow the values
+00:20 +219 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/immutability_test.dart: MediaAsset immutability copies the caller bytes and exposes a read-only view
+00:20 +220 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/immutability_test.dart: MediaItem immutability copies the photo id list and exposes it read-only
+00:20 +221 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/immutability_test.dart: LibrarySnapshot immutability copies item and asset lists and exposes them read-only
+00:20 +222 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: exports schema 2 and round-trips both finished states
+00:20 +223 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a schema 2 copy must state the flag
+00:20 +224 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a present but non-boolean flag is rejected in schema 2 and 1
+00:20 +225 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a schema 1 backup defaults the flag, and honours an explicit value
+00:20 +226 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: imports replace the flag in both directions
+00:20 +227 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a malformed schema 2 file writes nothing through chooseImport
+00:20 +228 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects a file over the byte cap before parsing
+00:20 +229 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects a loose or unreadable schema version
+00:20 +230 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects non-canonical exportedAt and item timestamps
+00:20 +231 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects malformed source blocks instead of dropping them
+00:20 +232 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects per-image and combined image byte caps
+00:20 +233 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects item and asset count caps
+00:20 +234 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects duplicate item and asset identities
+00:20 +235 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects base64 that is not canonical
+00:20 +236 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects a referenced image that is not in the file
+00:20 +237 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects an image whose bytes disagree with its metadata
+00:20 +238 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects valid base64 that is not a supported image
+00:20 +239 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: no partial mutation a malformed file leaves the library untouched
+00:20 +240 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: no partial mutation a cancelled picker changes nothing
+00:20 +241 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: export bounds refuses an export that would exceed the byte cap
+00:20 +242 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: export bounds counts UTF-8 bytes rather than string code units
+00:20 +243 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: export bounds an over-limit export fails before the file picker opens
+00:20 +244 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: export bounds verified assets are trusted and hand-built ones are not
+00:20 +245 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: export bounds does not reject a valid payload on a rough size estimate
+00:20 +246 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: export bounds counts escaped control characters and nested source fields
+00:20 +247 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: export bounds round-trips multibyte metadata that fits the cap
+00:20 +248 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:20 +249 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects a payload that is not JSON or not a lyberry file
+00:20 +250 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects an unknown schema version
+00:20 +251 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects duplicate item and asset identities
+00:20 +252 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects an asset whose id does not match its bytes
+00:20 +253 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects base64 that is not an image and missing references
+00:20 +254 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects an item that breaks the domain contract
+00:20 +255 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: rejects non-https urls unless the test seam is enabled
+00:20 +256 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:20 +257 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:20 +258 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:20 +259 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:20 +260 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:20 +261 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:20 +262 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:20 +263 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:20 +264 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: aborts a response that exceeds the byte cap
+00:20 +265 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: normalises a failure in the middle of the body
+00:20 +266 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: returns a complete body and normalised headers
+00:20 +267 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: Open Library adapter prefers the edition year over the work first-publish year
+00:21 +268 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:21 +269 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:21 +270 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:21 +271 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:21 +272 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:21 +273 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:21 +274 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:21 +275 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:21 +276 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:21 +277 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:21 +278 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: UPCitemdb adapter maps 429 to a quota failure
+00:21 +279 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: UPCitemdb adapter reports no items as an empty list
+00:21 +280 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: a cancelled save is reported and writes nothing
+00:21 +281 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: UPCitemdb adapter surfaces transport timeouts as timeout failures
+00:21 +282 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: import preview counts additions and replacements
+00:21 +283 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: metadata service ranks exact matches first and keeps partial results
+00:21 +284 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: incoming data wins even when it is older, and re-import is idempotent
+00:21 +285 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: incoming data wins even when it is older, and re-import is idempotent
+00:21 +286 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: incoming data wins even when it is older, and re-import is idempotent
+00:21 +287 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: incoming data wins even when it is older, and re-import is idempotent
+00:21 +288 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:21 +289 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:21 +290 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling keeps the edition candidate when the search request fails
+00:21 +291 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling never presents an Open Library author id as a name
+00:21 +292 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling uses the UPC description when the provider supplies one
+00:21 +293 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling malformed shapes are warnings or failures, not empty results
+00:21 +294 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling equivalent identifier forms match exactly
+00:21 +295 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_tls_test.dart: (setUpAll)
+00:21 +295 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_tls_test.dart: reads an HTTPS page over a pinned TLS connection
+00:21 +296 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_tls_test.dart: refuses a certificate that does not match the requested host
+00:21 +297 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/product_extractor_test.dart: extracts a Product whose own GTIN matches
+00:21 +298 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/product_extractor_test.dart: extracts a Product whose own GTIN matches
+00:21 +299 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_tls_test.dart: the same port refuses a plaintext exchange
+00:21 +300 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/product_extractor_test.dart: a GTIN that is only mentioned elsewhere never matches
+00:21 +301 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: page URI policy accepts only public https on 443
+00:21 +302 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: page URI policy accepts only public https on 443
+00:21 +303 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: page URI policy accepts only public https on 443
+00:21 +304 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/product_extractor_test.dart: ignores malformed, oversized and deeply nested JSON-LD
+00:21 +305 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: page URI policy rejects loopback, intranet and literal hosts
+00:21 +306 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/product_extractor_test.dart: only keeps cover images from allowlisted hosts
+00:21 +307 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: address policy accepts ordinary public addresses
+00:21 +308 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/product_extractor_test.dart: clips oversized fields instead of passing them through
+00:21 +309 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/product_extractor_test.dart: clips oversized fields instead of passing them through
+00:21 +310 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: address policy rejects private, loopback and special IPv6 ranges
+00:21 +311 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/product_extractor_test.dart: visible text drops scripts, styles and markup
+00:21 +312 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/product_extractor_test.dart: visible text drops scripts, styles and markup
+00:21 +313 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: fetches a page and reports its status and content type
+00:21 +314 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: follows one validated redirect hop
+00:21 +315 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: rejects a redirect that leaves the public HTTPS policy
+00:21 +316 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: never follows a redirect beyond the hop budget
+00:21 +317 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: stops reading past the byte cap
+00:21 +318 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:21 +319 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: reports cancellation before any connection is made
+00:21 +320 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: refuses private DNS answers even for an allowed looking URL
+00:21 +321 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: refuses an IPv4-mapped private answer
+00:21 +322 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: maps a refused page to a non-success response
+00:22 +323 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: does not send credentials or cookies to pages
+00:22 +324 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/deepseek_client_test.dart: sends the documented grounded request
+00:22 +325 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/deepseek_client_test.dart: accepts an extractive candidate
+00:22 +326 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/deepseek_client_test.dart: an unknown answer stays empty rather than invented
+00:22 +327 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/deepseek_client_test.dart: rejects an envelope for another code or schema
+00:22 +328 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/deepseek_client_test.dart: drops candidates with unknown sources or unverifiable quotes
+00:22 +329 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/deepseek_client_test.dart: rejects wrong types, unknown media and oversized values
+00:22 +330 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: search without a Tavily key never touches the network
+00:22 +331 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: search without a Tavily key never touches the network
+00:22 +332 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: search without a Tavily key never touches the network
+00:22 +333 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: search without a Tavily key never touches the network
+00:22 +334 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/deepseek_client_test.dart: caps the evidence it sends
+00:22 +335 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: structured Product data answers without a model call
+00:22 +336 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: structured Product data answers without a model call
+00:22 +337 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: structured Product data answers without a model call
+00:22 +338 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: structured Product data answers without a model call
+00:22 +339 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/tavily_client_test.dart: search sends the documented request and no extra data
+00:22 +340 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/deepseek_client_test.dart: an omitted source cannot become a candidate source
+00:22 +341 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: searches the canonical code for a UPC while keeping the scan
+00:22 +342 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: searches the canonical code for a UPC while keeping the scan
+00:22 +343 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: searches the canonical code for a UPC while keeping the scan
+00:22 +344 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/tavily_client_test.dart: caps raw content and result count
+00:22 +345 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/tavily_client_test.dart: caps raw content and result count
+00:22 +346 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/tavily_client_test.dart: caps raw content and result count
+00:22 +347 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/tavily_client_test.dart: caps raw content and result count
+00:22 +348 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/tavily_client_test.dart: caps raw content and result count
+00:22 +349 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/tavily_client_test.dart: caps raw content and result count
+00:22 +350 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/tavily_client_test.dart: caps raw content and result count
+00:22 +351 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: duplicate taps cannot pay twice
+00:22 +352 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: duplicate taps cannot pay twice
+00:22 +353 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: duplicate taps cannot pay twice
+00:22 +354 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: duplicate taps cannot pay twice
+00:22 +355 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: duplicate taps cannot pay twice
+00:22 +356 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: duplicate taps cannot pay twice
+00:22 +357 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/cover_downloader_test.dart: cover host policy rejects loopback, private, link-local and literal addresses
+00:22 +358 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: import link reads structured data with no keys at all
+00:22 +359 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/cover_downloader_test.dart: cover download downloads and validates an image, then serves it from cache
+00:22 +360 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/cover_downloader_test.dart: cover download downloads and validates an image, then serves it from cache
+00:22 +361 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/cover_downloader_test.dart: cover download downloads and validates an image, then serves it from cache
+00:22 +362 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/cover_downloader_test.dart: cover download downloads and validates an image, then serves it from cache
+00:22 +363 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/cover_downloader_test.dart: cover download downloads and validates an image, then serves it from cache
+00:22 +364 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: evidence sent to the model is bounded and quoted
+00:22 +365 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: evidence sent to the model is bounded and quoted
+00:22 +366 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: evidence sent to the model is bounded and quoted
+00:22 +367 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/cover_downloader_test.dart: cover download refuses a redirect to a private address
+00:22 +368 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the single-flight lock is held until extraction finishes
+00:22 +369 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the single-flight lock is held until extraction finishes
+00:22 +370 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the single-flight lock is held until extraction finishes
+00:22 +371 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +372 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +373 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +374 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +375 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +376 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +377 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +378 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +379 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +380 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +381 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +382 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:22 +383 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:23 +384 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:23 +385 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:23 +386 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:23 +387 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:23 +388 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:23 +389 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:23 +390 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:23 +391 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: rate limiting at the request boundary Open Library spaces its edition and search requests
+00:23 +392 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: rate limiting at the request boundary Open Library spaces its edition and search requests
+00:23 +393 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancellation during a slow key read stops before the next stage
+00:23 +394 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancellation during a slow key read stops before the next stage
+00:23 +395 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancellation during a slow key read stops before the next stage
+00:23 +396 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancellation during a slow key read stops before the next stage
+00:23 +397 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: rate limiting at the request boundary two concurrent guarded calls do not both pass immediately
+00:23 +398 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:23 +399 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:23 +400 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:23 +401 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: separator-printed codes gate and validate
+00:23 +402 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: looks a UPC up on the UPC route and keeps the code in the path
+00:23 +403 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a UPC and its leading-zero EAN-13 are one request, not two
+00:23 +404 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a European EAN-13 uses the EAN route unchanged
+00:23 +405 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: ISBN and EAN-8 codes never produce a request
+00:23 +406 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a record without code evidence is a possible match, never exact
+00:23 +407 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: surrounding whitespace is tolerated but other text is not
+00:23 +408 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: code equivalence validates checksum and length, not just digits
+00:23 +409 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: an explicitly mismatched record is rejected
+00:23 +410 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a mismatched row is ignored when a matching row is present
+00:23 +411 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: accepts the documented {status, data} envelope
+00:23 +412 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: an error envelope is a typed failure, not a silent no-match
+00:23 +413 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a 404 is a clean no-match
+00:23 +414 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: titles and the optional year are encoded on the search route
+00:23 +415 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a search without a year sends only the title
+00:23 +416 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: incomplete rows are ignored and a wholly unreadable answer fails
+00:23 +417 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: unreadable bodies and unexpected shapes are sanitized failures
+00:23 +418 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:23 +419 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:23 +420 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:23 +421 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:23 +422 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: rejects an endpoint that is not on the allowlist
+00:23 +423 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:23 +424 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:23 +425 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:23 +426 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:23 +427 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:23 +428 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:23 +429 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:23 +430 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:23 +431 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:23 +432 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:23 +433 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:23 +434 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:23 +435 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:23 +436 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:23 +437 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:23 +438 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:23 +439 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a key removed during the read starts no request
+00:23 +440 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sanitizes network failures and status codes
+00:23 +441 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request queued behind a slot never sends a removed key
+00:23 +442 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request queued behind a slot never sends a removed key
+00:24 +443 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +444 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +445 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +446 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +447 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +448 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +449 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +450 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +451 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +452 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +453 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a request waiting on the spacing rule never sends a removed key
+00:24 +454 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a title search queued behind a slot never sends a removed key
+00:24 +455 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: an answer that arrives after a key change is never published
+00:24 +456 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a title search invalidated in flight returns a failure, not candidates
+00:24 +457 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a credential abort does not penalize the shared quota and a fresh lookup still works
+00:24 +458 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a 429 cooldown is shared by the barcode and title paths
+00:24 +459 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a 429 without Retry-After still parks the shared gate
+00:24 +460 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: invalidating the key drops cached answers
+00:24 +461 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover wraps the renderer without changing a byte
+00:24 +462 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover the isolate worker derives the same cover as the inline worker
+00:24 +463 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover never mutates the source bytes
+00:24 +464 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: ImageTransformService.deriveCover a different crop derives a different content-addressed cover
+00:25 +465 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: real pixels a dragged crop changes the saved pixels, not just the overlay
+00:25 +466 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: real pixels quarter turns rotate the saved pixels clockwise
+00:25 +467 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: real pixels EXIF orientation is normalized once for preview and output
+00:25 +468 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: real pixels an EXIF-rotated crop is applied in the oriented space
+00:25 +469 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: real pixels a rotated preview matches the rotated output
+00:25 +470 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +471 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +472 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +473 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +474 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +475 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +476 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +477 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +478 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +479 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +480 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +481 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +482 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +483 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +484 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +485 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +486 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +487 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +488 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +489 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +490 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +491 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +492 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +493 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +494 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +495 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:25 +496 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +497 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +498 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +499 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +500 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +501 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +502 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +503 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +504 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +505 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +506 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +507 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +508 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +509 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +510 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +511 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +512 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +513 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +514 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +515 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +516 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +517 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +518 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +519 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:26 +520 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +521 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +522 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +523 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +524 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +525 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +526 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +527 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +528 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +529 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +530 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +531 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +532 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +533 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +534 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +535 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +536 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +537 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +538 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +539 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +540 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +541 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +542 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +543 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a large source is bounded to 2560 on its longest side
+00:27 +544 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection a small source is never upscaled
+00:27 +545 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection the derived cover carries no EXIF block
+00:27 +546 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection empty, non-finite and out-of-bounds crops are rejected
+00:27 +547 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection non-image bytes are rejected with a usable error
+00:27 +548 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection the pixel bound is enforced before any raster work
+00:27 +549 -6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_transform_test.dart: bounds, metadata and rejection the byte bound is enforced before any raster work
+00:27 +550 -6: Some tests failed.

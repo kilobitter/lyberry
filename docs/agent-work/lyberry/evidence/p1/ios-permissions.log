@@ -1,0 +1,4 @@
+plutil -lint ios/Runner/Info.plist
+ios/Runner/Info.plist: OK
+NSCameraUsageDescription: Lyberry uses the camera only when you take a photo of a copy in your collection. Photos stay on this device.
+NSPhotoLibraryUsageDescription: Lyberry uses your photo library only when you choose a cover or photo for a copy. Photos are copied into your library file on this device.

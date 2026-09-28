@@ -1,0 +1,21 @@
+[
+  {
+    "name": "photo-cover-focused",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "--no-version-check",
+      "test",
+      "--no-pub",
+      "--reporter",
+      "expanded",
+      "test/domain/cover_crop_test.dart",
+      "test/services/image_transform_test.dart",
+      "test/ui/photo_cover_flow_test.dart",
+      "test/data/photo_cover_backup_test.dart",
+      "test/domain/image_safety_test.dart",
+      "test/services/image_ingest_test.dart"
+    ],
+    "exit_code": 0
+  }
+]

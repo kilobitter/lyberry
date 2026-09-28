@@ -1,0 +1,6 @@
+APK: lyberry-0.7.0-debug.apk
+Version: 0.7.0+9
+Size: 176298284
+SHA-256: f79959b83f7c9a6c8aaee9fd354cba7c2e2c895db28d715babb93520599e9d93
+ABIs: arm64-v8a, armeabi-v7a, x86_64
+ZIP integrity: passed

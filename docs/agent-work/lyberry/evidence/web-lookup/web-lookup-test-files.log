@@ -1,0 +1,13 @@
+test/services/api_transport_test.dart -> 00:00 +7: All tests passed!
+test/services/web/address_policy_test.dart -> 00:00 +6: All tests passed!
+test/services/web/page_fetcher_test.dart -> 00:00 +11: All tests passed!
+test/services/web/page_fetcher_tls_test.dart -> 00:00 +4: All tests passed!
+test/services/web/product_extractor_test.dart -> 00:00 +8: All tests passed!
+test/services/web/tavily_client_test.dart -> 00:00 +6: All tests passed!
+test/services/web/deepseek_client_test.dart -> 00:00 +15: All tests passed!
+test/services/web/web_lookup_service_test.dart -> 00:01 +22: All tests passed!
+test/services/keys/api_key_store_test.dart -> 00:00 +4: All tests passed!
+test/services/keys/secure_api_key_store_test.dart -> 00:00 +6: All tests passed!
+test/state/web_lookup_controller_test.dart -> 00:00 +2: All tests passed!
+test/ui/web_lookup_flow_test.dart -> 00:03 +10: All tests passed!
+test/golden/web_lookup_render_test.dart -> 00:02 +10: All tests passed!

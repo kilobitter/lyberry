@@ -1,0 +1,60 @@
+Resolving dependencies...
+Downloading packages...
+  clock 1.1.2 (1.1.3 available)
+  image_picker_android 0.8.13+17 (0.8.13+23 available)
+  matcher 0.12.19 (0.12.20 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.17.0 (1.19.0 available)
+  platform 3.1.6 (3.2.0 available)
+  sqflite 2.4.2+1 (2.4.4 available)
+  sqflite_android 2.4.2+3 (2.4.4 available)
+  sqflite_common 2.5.8 (2.5.13 available)
+  sqflite_common_ffi 2.3.7+1 (2.4.3 available)
+  sqflite_darwin 2.4.2 (2.4.4 available)
+  sqflite_platform_interface 2.4.0 (2.4.2 available)
+  sqlite3 2.9.4 (3.6.0 available)
+  stack_trace 1.12.1 (1.12.2 available)
+  synchronized 3.4.0+1 (3.4.2 available)
+  test_api 0.7.10 (0.7.14 available)
+  vector_math 2.2.0 (2.4.3 available)
+Got dependencies!
+17 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: rating rules accepts null and half-star values in range
+00:00 +1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: rating rules rejects values off the half-star grid or out of range
+00:00 +2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: rating rules snaps arbitrary input onto the grid
+00:00 +3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: barcode round-trips the supported identifier families
+00:00 +4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: barcode normalizes separators and isbn-10 X check digit
+00:00 +5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: barcode rejects wrong checksums, length and alphabet
+00:00 +6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: item validation accepts a complete item
+00:00 +7: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: item validation reports identity, title and year problems
+00:00 +8: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: item validation enforces string bounds per field
+00:00 +9: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: item validation rejects an invalid barcode and bad photo references
+00:00 +10: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: item validation caps personal photos and requires unique references
+00:00 +11: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: item validation rejects non-UTC timestamps
+00:00 +12: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: editor draft trims text and normalizes the barcode
+00:00 +13: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/validation_test.dart: editor draft collects title, year and barcode problems together
+00:00 +14: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: header-first image safety rejects a PNG pixel bomb from its header, not from a raster
+00:00 +15: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/immutability_test.dart: MediaAsset immutability copies the caller bytes and exposes a read-only view
+00:00 +16: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: header-first image safety rejects a truncated PNG whose header claims huge dimensions
+00:00 +17: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/immutability_test.dart: MediaItem immutability copies the photo id list and exposes it read-only
+00:00 +18: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: header-first image safety rejects a JPEG pixel bomb from its frame header
+00:00 +19: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/immutability_test.dart: LibrarySnapshot immutability copies item and asset lists and exposes them read-only
+00:00 +20: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:00 +21: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:00 +22: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: header-first image safety rejects animated PNG and animated WebP
+00:00 +23: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects a payload that is not JSON or not a lyberry file
+00:00 +24: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: header-first image safety rejects animation hidden behind many ancillary chunks
+00:00 +25: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: header-first image safety rejects animation hidden behind many ancillary chunks
+00:00 +26: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects duplicate item and asset identities
+00:00 +27: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects duplicate item and asset identities
+00:00 +28: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: header-first image safety rejects a conflicting duplicate IHDR before any decode
+00:00 +29: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: header-first image safety rejects a WebP canvas that contradicts its bitstream
+00:00 +30: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: header-first image safety rejects a WebP canvas that contradicts its bitstream
+00:00 +31: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects base64 that is not an image and missing references
+00:00 +32: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: webp fixture accepts a real WebP file and reads its header dimensions
+00:00 +33: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: webp fixture accepts a real WebP file and reads its header dimensions
+00:00 +34: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: webp fixture builds a valid, verifiable asset from the WebP fixture
+00:00 +35: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: asset verification accepts a genuine asset and rejects metadata that lies
+00:00 +36: All tests passed!

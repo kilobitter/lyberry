@@ -1,0 +1,12 @@
+Formatted lib/services/movies/movies_lookup_service.dart
+Formatted lib/services/movies/movies_transport.dart
+Formatted lib/services/movies/upcmdb_client.dart
+Formatted lib/state/movie_search_controller.dart
+Formatted lib/ui/screens/movie_search_screen.dart
+Formatted test/golden/movies_render_test.dart
+Formatted test/services/movies/movies_lookup_service_test.dart
+Formatted test/services/movies/movies_transport_test.dart
+Formatted test/services/movies/upcmdb_client_test.dart
+Formatted test/services/routing_and_limits_test.dart
+Formatted test/ui/movie_lookup_flow_test.dart
+Formatted 147 files (11 changed) in 0.49 seconds.

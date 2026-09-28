@@ -1,0 +1,43 @@
+PHOTO-COVER worker sandbox state (2026-09-28)
+=============================================
+
+The assigned brief says to try a needed Flutter command once and, if the sandbox
+denies the Flutter cache, to stop retrying, run the cached-Dart checks and hand
+root the remaining commands. That is exactly what happened.
+
+1. Flutter tool blocked (one attempt, logged in flutter-test-attempt.log):
+
+   $ /Users/ghijs/development/flutter/bin/flutter --suppress-analytics \
+       --no-version-check test --no-pub \
+       test/services/image_transform_test.dart test/domain/cover_crop_test.dart
+   /Users/ghijs/development/flutter/bin/internal/update_engine_version.sh: line 64:
+     /Users/ghijs/development/flutter/bin/cache/engine.stamp: Operation not permitted
+   exit=1
+
+   bin/internal/update_engine_version.sh rewrites bin/cache/engine.stamp on every
+   flutter invocation, so no flutter subcommand (test, analyze, build, run) can
+   start in this sandbox. No permission request was made and no sandbox setting
+   was changed.
+
+2. adb blocked (one attempt, logged in adb-devices.log):
+
+   $ /Users/ghijs/Library/Android/sdk/platform-tools/adb devices
+   ... F adb: main.cpp:165 could not install *smartsocket* listener: Operation not permitted
+   * failed to start daemon
+   adb: failed to check server version: cannot connect to daemon
+   exit=1
+
+   The daemon cannot bind its local TCP listener, so emulator-5554 could not be
+   reached from this worker. The emulator itself is reported ONLINE by root.
+
+3. What did run here (cached Dart SDK, no Flutter engine needed):
+
+   - dart analyze lib test tool                     -> clean (dart-analyze.log)
+   - dart format --output=none --set-exit-if-changed -> 163 files, 0 changed
+                                                      (dart-format-check.log)
+   - dart run tool/photo_cover_pixel_check.dart     -> 72 checks, 0 failures
+                                                      (pixel-check.log)
+
+   The pixel harness runs the exact production renderer code
+   (lib/domain/cover_renderer.dart), so crop, rotation, EXIF orientation,
+   output bounds and metadata stripping are verified against real bytes.

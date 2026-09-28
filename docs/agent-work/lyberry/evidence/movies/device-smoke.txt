@@ -1,0 +1,5 @@
+List of devices attached
+emulator-5562          offline transport_id:138
+
+
+No online Android device available. Install/launch/library-preservation smoke was not performed for 0.5.0. Earlier offline emulator reconnect attempted; no app/device data changed.

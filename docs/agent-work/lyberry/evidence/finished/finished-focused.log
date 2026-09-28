@@ -1,0 +1,74 @@
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: only books and films are finishable
+00:00 +1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: exports schema 2 and round-trips both finished states
+00:00 +2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: exports schema 2 and round-trips both finished states
+00:00 +3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: exports schema 2 and round-trips both finished states
+00:00 +4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: exports schema 2 and round-trips both finished states
+00:00 +5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: exports schema 2 and round-trips both finished states
+00:00 +6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: ItemDraft.isFinished starts false for manual and provider copies
+00:00 +7: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a schema 2 copy must state the flag
+00:00 +8: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: ItemDraft.isFinished round-trips through a draft and the built item
+00:00 +9: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: ItemDraft.isFinished round-trips through a draft and the built item
+00:00 +10: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a schema 1 backup defaults the flag, and honours an explicit value
+00:00 +11: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: a duplicate copy resets the flag and the original stays finished
+00:00 +12: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: a duplicate copy resets the flag and the original stays finished
+00:00 +13: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a malformed schema 2 file writes nothing through chooseImport
+00:00 +14: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects a file over the byte cap before parsing
+00:00 +15: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects a loose or unreadable schema version
+00:00 +16: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects non-canonical exportedAt and item timestamps
+00:00 +17: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects malformed source blocks instead of dropping them
+00:00 +18: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects per-image and combined image byte caps
+00:00 +19: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: (setUpAll)
+00:00 +20: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: (setUpAll)
+00:00 +20: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects duplicate item and asset identities
+00:00 +21: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +22: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +23: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +24: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +25: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +26: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +27: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +28: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +29: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +30: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +31: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +32: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +33: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +34: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +35: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a populated schema 1 library upgrades in place
+00:00 +36: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a future schema version is refused and the file is left alone
+error DatabaseSchemaException: This library was written by a newer version of Lyberry (schema 99). Update the app instead of replacing the file. during open, closing...
+00:00 +37: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a real library round-trips the flag through export and merge
+00:00 +38: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a duplicated finished copy starts unfinished and is durable
+00:00 +39: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a claimed schema 2 file without the column is refused
+00:00 +40: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: (tearDownAll)
+00:00 +40: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/sqlite_repository_test.dart: (setUpAll)
+00:00 +40: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/sqlite_repository_test.dart: persists full metadata and photo bytes across close and reopen
+00:00 +41: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:00 +42: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:00 +43: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +44: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +45: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +46: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +47: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +48: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +49: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +50: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +51: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +52: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +52: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/sqlite_repository_test.dart: a file that is not a library fails loudly and is left in place
+error SqfliteFfiException(sqlite_error: 26, , SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version}) DatabaseException(SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version) sql 'PRAGMA user_version' {details: {database: {path: /var/folders/lk/4w48wb_n7t31sj6pr64lptzm0000gn/T/lyberry_repositoryUwspoh/broken.db, id: 16, readOnly: false, singleInstance: true}}} during open, closing...
+00:01 +53: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +54: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +55: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +56: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +57: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:02 +58: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: cancelling the editor keeps the stored flag
+00:03 +59: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: only books and films show the control
+00:03 +60: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a hidden flag survives a medium change and comes back
+00:04 +61: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a metadata lookup keeps the finished flag
+00:04 +62: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a finished book at 320px with 1.6x text stays usable
+00:05 +63: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: (tearDownAll)
+00:05 +63: All tests passed!

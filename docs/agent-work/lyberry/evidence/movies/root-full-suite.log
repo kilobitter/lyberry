@@ -1,0 +1,538 @@
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: (setUpAll)
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +7: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +8: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:00 +9: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: opening the screen makes no paid request
+00:01 +10: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:01 +11: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:02 +12: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:02 +13: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: a missing key explains setup and keeps the code
+00:02 +14: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: adding a copy writes it and shows it in the grid
+00:02 +15: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: adding a copy writes it and shows it in the grid
+00:02 +16: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the movie action appears only for movie or unknown codes
+00:02 +17: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the movie action appears only for movie or unknown codes
+00:02 +18: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the movie action appears only for movie or unknown codes
+00:02 +19: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the movie action appears only for movie or unknown codes
+00:03 +20: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: editor rejects a bad barcode and shows the field error
+00:03 +21: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/web_lookup_flow_test.dart: asks for the medium when the source does not say
+00:03 +22: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the action is offered next to unwanted matches too
+00:03 +23: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:03 +24: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:03 +25: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:04 +26: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:04 +27: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:04 +28: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:04 +29: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:04 +30: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:04 +31: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:04 +32: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:05 +33: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:05 +34: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:05 +35: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:05 +36: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:05 +37: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:05 +38: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:05 +39: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:05 +40: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:05 +41: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:05 +42: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: cancelled photo picks change nothing and failures are shown
+00:06 +43: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: the scanner owns one camera lifecycle
+00:06 +44: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:06 +45: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:06 +45: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: rapid manual lookups start only one lookup
+
+Warning: A call to tap() with finder "Found 1 widget with key [<'scan-manual-lookup'>]: [
+  FilledButton-[<'scan-manual-lookup'>](dirty, dependencies: [IconTheme, InheritedCupertinoTheme, MediaQuery, _InheritedTheme, _LocalizationsScope-[GlobalKey#42d20], _ScrollableScope], state: _ButtonStyleState#fca28),
+]" derived an Offset (Offset(195.0, 618.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderSemanticsAnnotations#b1343 relayoutBoundary=up5 NEEDS-PAINT
+The hit test result at that offset is: HitTestResult(RenderPointerListener#00a65@Offset(195.0, 618.0), RenderSemanticsAnnotations#f24bd@Offset(195.0, 618.0), RenderSemanticsAnnotations#8e105@Offset(195.0, 618.0), RenderSemanticsAnnotations#5a1a4@Offset(195.0, 618.0), RenderSemanticsAnnotations#caf27@Offset(195.0, 618.0), RenderTapRegionSurface#41e22@Offset(195.0, 618.0), RenderSemanticsAnnotations#304d1@Offset(195.0, 618.0), RenderSemanticsAnnotations#1dcee@Offset(195.0, 618.0), HitTestEntry<HitTestTarget>#7e28f(_ReusableRenderView#fd19b), HitTestEntry<HitTestTarget>#b57a0(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.tap (package:flutter_test/src/controller.dart:1075:7)
+#3      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart:252:18)
+<asynchronous suspension>
+#4      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#5      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#6      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "tap()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:06 +46: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:06 +47: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:07 +48: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:07 +49: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:07 +50: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:07 +51: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:07 +52: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:07 +53: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: title search keeps the scanned code and saves nothing
+00:07 +54: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/p2_render_evidence_test.dart: candidates at 390x844
+00:07 +55: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/p2_render_evidence_test.dart: candidates at 390x844
+00:07 +56: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:07 +57: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:07 +58: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: missing Twitch credentials explain setup without a request
+00:08 +59: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: missing Twitch credentials explain setup without a request
+00:08 +60: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: settings can export and re-import a backup through the UI
+00:08 +61: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/p2_render_evidence_test.dart: merge preview at 390x844
+00:08 +62: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:08 +63: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:08 +64: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:08 +65: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:08 +66: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:08 +67: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:08 +68: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: unwanted matches still offer the title search
+00:08 +69: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: unwanted matches still offer the title search
+00:08 +70: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: candidates and merge preview fit a narrow large-text phone
+00:08 +71: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: picking the same photo twice is refused with a notice
+00:08 +72: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: picking the same photo twice is refused with a notice
+00:08 +73: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: picking the same photo twice is refused with a notice
+00:08 +74: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: back during an applying merge cannot report a cancellation
+00:09 +75: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: back during an applying merge cannot report a cancellation
+00:09 +76: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: games credential changes invalidate cached games state
+00:09 +77: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: games credential changes invalidate cached games state
+00:09 +78: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:09 +79: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:09 +80: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:09 +81: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:09 +82: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: returning from Settings with a saved key enables the search
+00:10 +83: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: returning from Settings with a saved key enables the search
+00:10 +84: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search at 390x844
+00:10 +85: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search at 390x844
+00:10 +86: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search at 390x844
+00:10 +87: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: game title search at 390x844
+00:11 +88: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/game_lookup_flow_test.dart: a chosen game reaches the editor and saves only on demand
+00:11 +89: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web search idle at 390x844
+00:11 +90: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web search idle at 390x844
+00:11 +91: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web search idle at 390x844
+00:12 +92: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: web search idle at 390x844
+00:12 +93: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/movies_render_test.dart: movie title search at 390x844
+00:12 +93: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: games credentials settings at 390x844
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following assertion was thrown while running async test code:
+Golden "goldens/settings_games_keys_390x844.png": Pixel test failed, 28.30%, 93156px diff detected.
+Failure feedback can be found at
+/Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/failures
+
+When the exception was thrown, this was the stack:
+#0      LocalFileComparator.compare (package:flutter_test/src/_goldens_io.dart:108:5)
+<asynchronous suspension>
+#1      MatchesGoldenFile.matchAsync.<anonymous closure> (package:flutter_test/src/_matchers_io.dart:124:32)
+<asynchronous suspension>
+<asynchronous suspension>
+#3      _expect.<anonymous closure> (package:matcher/src/expect/expect.dart:153:17)
+<asynchronous suspension>
+<asynchronous suspension>
+#5      expectLater.<anonymous closure> (package:flutter_test/src/widget_tester.dart:508:19)
+<asynchronous suspension>
+#6      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart:176:5)
+<asynchronous suspension>
+#7      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#8      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided 3 frames from dart:async and package:stack_trace)
+
+The exception was caught asynchronously.
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:12 +93 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/movies_render_test.dart: movie title search at 390x844
+00:12 +93 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/games_render_test.dart: games credentials settings at 390x844 [E]
+  Test failed. See exception logs above.
+  The test description was: games credentials settings at 390x844
+  
+00:12 +94 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/movies_render_test.dart: movie title search at 390x844
+00:12 +95 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/movies_render_test.dart: movie title search at 390x844
+00:12 +96 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/web_lookup_render_test.dart: missing key state at 390x844
+00:12 +97 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:13 +98 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:13 +99 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:13 +100 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:13 +101 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:13 +102 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:14 +103 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:14 +104 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:14 +105 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:14 +106 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:14 +107 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:14 +108 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:14 +109 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 390x844
+00:14 +110 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/platform_filter_render_test.dart: platform filter closed at 390x844
+00:15 +111 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:15 +112 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:15 +113 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:15 +114 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:15 +115 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/chunked_asset_test.dart: round-trips a >2 MiB image through chunked reads and export
+00:15 +116 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/chunked_asset_test.dart: round-trips a >2 MiB image through chunked reads and export
+00:16 +117 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +118 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +119 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +120 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +121 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +122 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +123 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +124 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +125 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +126 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +127 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +128 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +129 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:16 +130 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +130 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/sqlite_repository_test.dart: a file that is not a library fails loudly and is left in place
+error SqfliteFfiException(sqlite_error: 26, , SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version}) DatabaseException(SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version) sql 'PRAGMA user_version' {details: {database: {path: /var/folders/lk/4w48wb_n7t31sj6pr64lptzm0000gn/T/lyberry_repositoryzxtkDA/broken.db, id: 16, readOnly: false, singleInstance: true}}} during open, closing...
+00:16 +131 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +132 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +133 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +134 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +135 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +136 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +137 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +138 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +139 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +140 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +141 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +142 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +143 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +144 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +145 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +146 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +147 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +148 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +149 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:16 +150 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:17 +151 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +152 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +153 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +154 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +155 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +156 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +157 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +158 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +159 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +160 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +161 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +162 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +163 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +164 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +165 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +166 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +167 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +168 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +169 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +170 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +171 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +172 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +173 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +174 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:17 +175 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: (tearDownAll)
+00:18 +175 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects a file over the byte cap before parsing
+00:18 +176 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects a loose or future schema version
+00:18 +177 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects non-canonical exportedAt and item timestamps
+00:18 +178 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects malformed source blocks instead of dropping them
+00:18 +179 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects per-image and combined image byte caps
+00:18 +180 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects item and asset count caps
+00:18 +181 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects duplicate item and asset identities
+00:18 +182 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects base64 that is not canonical
+00:18 +183 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects a referenced image that is not in the file
+00:18 +184 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects an image whose bytes disagree with its metadata
+00:18 +185 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:18 +186 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:18 +187 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:18 +188 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:18 +189 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:18 +190 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:18 +191 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:18 +192 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: round-trips a snapshot through JSON
+00:18 +193 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: rejects non-https urls unless the test seam is enabled
+00:18 +194 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: rejects non-https urls unless the test seam is enabled
+00:18 +195 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: rejects non-https urls unless the test seam is enabled
+00:18 +196 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: rejects non-https urls unless the test seam is enabled
+00:18 +197 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: export bounds counts escaped control characters and nested source fields
+00:18 +198 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_test.dart: rejects duplicate item and asset identities
+00:18 +199 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +200 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +201 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +202 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +203 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +204 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +205 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +206 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +207 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +208 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +209 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +210 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:18 +211 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: aborts a response that exceeds the byte cap
+00:18 +212 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: normalises a failure in the middle of the body
+00:18 +213 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: returns a complete body and normalised headers
+00:19 +214 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: Open Library adapter prefers the edition year over the work first-publish year
+00:19 +215 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +216 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +217 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +218 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +219 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +220 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +221 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +222 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +223 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +224 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +225 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +226 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +227 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +228 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +229 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +230 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +231 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:19 +232 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +233 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +234 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +235 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +236 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +237 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +238 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +239 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +240 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +241 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +242 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +243 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +244 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +245 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +246 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +247 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +248 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:19 +249 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling keeps the edition candidate when the search request fails
+00:19 +250 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling never presents an Open Library author id as a name
+00:19 +251 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling uses the UPC description when the provider supplies one
+00:19 +252 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling malformed shapes are warnings or failures, not empty results
+00:19 +253 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling equivalent identifier forms match exactly
+00:20 +254 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: page URI policy accepts only public https on 443
+00:20 +255 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: page URI policy rejects loopback, intranet and literal hosts
+00:20 +256 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: address policy accepts ordinary public addresses
+00:20 +257 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: address policy rejects private, loopback and special IPv4 ranges
+00:20 +258 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: address policy rejects private, loopback and special IPv6 ranges
+00:20 +259 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/address_policy_test.dart: address policy refuses every non-global-unicast IPv6 form outright
+00:20 +260 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: fetches a page and reports its status and content type
+00:20 +261 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: follows one validated redirect hop
+00:20 +262 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: rejects a redirect that leaves the public HTTPS policy
+00:20 +263 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: never follows a redirect beyond the hop budget
+00:20 +264 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/deepseek_client_test.dart: sends the documented grounded request
+00:20 +265 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/deepseek_client_test.dart: sends the documented grounded request
+00:20 +266 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +267 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +268 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +269 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +270 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +271 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +272 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +273 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +274 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +275 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +276 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +277 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +278 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +279 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: honours the overall deadline
+00:20 +280 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: structured Product data answers without a model call
+00:20 +281 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: structured Product data answers without a model call
+00:20 +282 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: structured Product data answers without a model call
+00:20 +283 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: structured Product data answers without a model call
+00:20 +284 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: structured Product data answers without a model call
+00:20 +285 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: refuses an IPv4-mapped private answer
+00:20 +286 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: searches the canonical code for a UPC while keeping the scan
+00:20 +287 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: maps a refused page to a non-success response
+00:20 +288 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: never calls the model when no page shows the code
+00:20 +289 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/page_fetcher_test.dart: does not send credentials or cookies to pages
+00:20 +290 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: uses Tavily raw content when a direct fetch is refused
+00:20 +291 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: falls back to Tavily Extract and then the model
+00:20 +292 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: keeps a usable page when another retrieval fails
+00:20 +293 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: a malformed AI answer is a failure, not a silent empty result
+00:20 +294 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancellation stops before any paid call
+00:20 +295 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: duplicate taps cannot pay twice
+00:20 +296 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: import link reads structured data with no keys at all
+00:20 +297 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: import link without structured data asks for the model key
+00:20 +298 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: import link refuses private and non-https destinations
+00:20 +299 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: a conflicting structured format beats the medium hint
+00:20 +300 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the search query is minimized to the code and hint
+00:20 +301 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: evidence sent to the model is bounded and quoted
+00:20 +302 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the single-flight lock is held until extraction finishes
+00:20 +303 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the single-flight lock is held until extraction finishes
+00:20 +304 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the single-flight lock is held until extraction finishes
+00:20 +305 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the single-flight lock is held until extraction finishes
+00:20 +306 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the single-flight lock is held until extraction finishes
+00:20 +307 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the single-flight lock is held until extraction finishes
+00:20 +308 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: the single-flight lock is held until extraction finishes
+00:20 +309 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +310 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +311 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +312 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +313 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +314 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +315 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +316 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +317 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +318 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +319 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancelling during extraction stops the pipeline
+00:21 +320 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_ingest_test.dart: image ingest accepts JPEG bytes
+00:21 +321 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: a cancelled link fetch never runs Tavily Extract
+00:21 +322 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_ingest_test.dart: image ingest rejects payloads over the byte limit before decoding
+00:21 +323 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancellation during a slow key read stops before the next stage
+00:21 +324 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancellation during a slow key read stops before the next stage
+00:21 +325 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancellation during a slow key read stops before the next stage
+00:21 +326 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: cancellation during a slow key read stops before the next stage
+00:21 +327 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +328 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +329 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +330 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +331 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +332 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +333 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +334 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +335 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +336 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +337 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +338 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +339 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +340 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +341 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +342 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/web/web_lookup_service_test.dart: an exhausted budget is a timeout, not a cancellation
+00:21 +343 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: rate limiting at the request boundary two concurrent guarded calls do not both pass immediately
+00:21 +344 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: rate limiting at the request boundary two concurrent guarded calls do not both pass immediately
+00:21 +345 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/metadata_service_cache_test.dart: an in-flight answer from before an invalidation is not cached
+00:21 +346 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/metadata_service_cache_test.dart: an in-flight answer from before an invalidation is not cached
+00:21 +347 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/metadata_service_cache_test.dart: an in-flight answer from before an invalidation is not cached
+00:21 +348 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: looks a UPC up on the UPC route and keeps the code in the path
+00:21 +349 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: looks a UPC up on the UPC route and keeps the code in the path
+00:21 +350 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a UPC and its leading-zero EAN-13 are one request, not two
+00:21 +351 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a European EAN-13 uses the EAN route unchanged
+00:21 +352 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: ISBN and EAN-8 codes never produce a request
+00:21 +353 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a record without code evidence is a possible match, never exact
+00:21 +354 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: an explicitly mismatched record is rejected
+00:21 +355 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a mismatched row is ignored when a matching row is present
+00:21 +356 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: accepts the documented {status, data} envelope
+00:21 +357 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: an error envelope is a typed failure, not a silent no-match
+00:21 +358 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a 404 is a clean no-match
+00:21 +359 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: titles and the optional year are encoded on the search route
+00:21 +360 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: a search without a year sends only the title
+00:21 +361 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: incomplete rows are ignored and a wholly unreadable answer fails
+00:21 +362 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: unreadable bodies and unexpected shapes are sanitized failures
+00:21 +363 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: status codes map to sanitized key, quota and availability guidance
+00:21 +364 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: only the documented endpoints and digit paths are ever built
+00:21 +365 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: endpoint matching refuses another host, port, path or query
+00:22 +366 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:22 +367 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: rejects an endpoint that is not on the allowlist
+00:22 +368 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: rejects a non-digit or wrong-length code on an allowlisted route
+00:22 +369 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: requires https outside the test seam
+00:22 +370 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: rejects credentials in the URL and non-443 ports
+00:22 +371 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:22 +372 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:22 +373 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:22 +374 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +375 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +376 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +377 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +378 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +379 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +380 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +381 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +382 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +383 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +384 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +385 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +386 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +387 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +388 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +389 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +390 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +391 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +392 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:22 +393 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: an answer that arrives after a key change is never published
+00:22 +394 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: an answer that arrives after a key change is never published
+00:22 +395 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: an answer that arrives after a key change is never published
+00:22 +396 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a title search invalidated in flight returns a failure, not candidates
+00:22 +397 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a credential abort does not penalize the shared quota and a fresh lookup still works
+00:22 +398 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a 429 cooldown is shared by the barcode and title paths
+00:22 +399 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: a 429 without Retry-After still parks the shared gate
+00:22 +400 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: invalidating the key drops cached answers
+00:23 +401 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: sends an allowlisted request and returns the answer
+00:23 +402 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: rejects an endpoint that is not on the allowlist
+00:23 +403 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: requires https outside the test seam
+00:23 +404 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: rejects credentials in the URL and non-443 ports
+00:23 +405 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: does not follow redirects and never replays credentials
+00:23 +406 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: stops reading past the byte cap
+00:23 +407 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/scan_dex_client_test.dart: resolves a match and sends the raw Authorization token
+00:23 +408 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +409 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +410 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +411 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +412 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +413 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +414 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +415 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +416 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +417 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +418 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +419 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +420 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +421 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_transport_test.dart: honours the whole-request deadline
+00:23 +422 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: spaces consecutive requests
+00:23 +423 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: spaces consecutive requests
+00:23 +424 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: spaces consecutive requests
+00:23 +425 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: spaces consecutive requests
+00:23 +426 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: spaces consecutive requests
+00:23 +427 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: spaces consecutive requests
+00:23 +428 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: never exceeds the concurrency cap
+00:23 +429 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +430 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +431 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +432 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +433 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +434 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +435 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +436 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +437 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +438 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +439 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +440 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +441 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +442 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +443 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +444 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +445 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_request_gate_test.dart: a server cooldown blocks every later request
+00:24 +446 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/igdb_client_test.dart: the shared limiter spaces consecutive requests
+00:24 +447 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/igdb_client_test.dart: the shared limiter spaces consecutive requests
+00:24 +448 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/igdb_client_test.dart: the shared limiter spaces consecutive requests
+00:24 +449 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/igdb_client_test.dart: the shared limiter spaces consecutive requests
+00:24 +450 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/igdb_client_test.dart: the shared limiter spaces consecutive requests
+00:24 +451 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/igdb_client_test.dart: the shared limiter spaces consecutive requests
+00:24 +452 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/igdb_client_test.dart: the shared limiter spaces consecutive requests
+00:24 +453 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/igdb_client_test.dart: the shared limiter spaces consecutive requests
+00:24 +454 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: the same limiter spaces barcode and title work
+00:24 +455 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: the same limiter spaces barcode and title work
+00:24 +456 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: the same limiter spaces barcode and title work
+00:24 +457 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: the same limiter spaces barcode and title work
+00:24 +458 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/igdb_client_test.dart: a credential change while queued for a gate slot sends nothing
+00:24 +459 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/igdb_client_test.dart: a credential change while queued for a gate slot sends nothing
+00:24 +460 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: an invalidation during enrichment rejects the result
+00:24 +461 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: an invalidation during enrichment rejects the result
+00:24 +462 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: an invalidation during enrichment rejects the result
+00:24 +463 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: an invalidation during enrichment rejects the result
+00:24 +464 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: an invalidation during enrichment rejects the result
+00:24 +465 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: a keystore read failure is not reported as a missing key
+00:24 +466 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: only the enrichment credentials failing keeps the ScanDex partial
+00:24 +467 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: a 429 cooldown stops the next path from sending
+00:24 +468 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: invalidating during a delayed ScanDex key read sends no request
+00:24 +469 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: invalidating during a delayed credential read sends no IGDB request
+00:25 +470 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: a credential change does not penalize the shared IGDB limiter
+00:25 +471 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: routing a game hint runs games first and the general fallback only after
+00:25 +472 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: routing an unknown non-ISBN code queries games before the fallback
+00:25 +473 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/games/games_lookup_service_test.dart: routing book and ISBN lookups never reach the games provider
+00:25 +474 -1: Some tests failed.

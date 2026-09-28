@@ -1,0 +1,13 @@
+# Lyberry v0.2.0 — accepted for Android testing
+
+Date: 2026-09-24. Astra accepts the implementation after review of actual changes against the P1 baseline, one consolidated correction bundle, and a focused storage-trust/resource-bound follow-up. Flash implemented, debugged and tested; Astra retained architecture and final acceptance. Host/router evidence confirms the selected DeepSeek V4.1 Flash route on DeepSeek API; no extra paid inference probe was used.
+
+Implemented: Redline + Oxanium visual style; durable local SQLite collection with six media categories; multiple physical copies; personal photos, half-star rating, separate review/notes; barcode scanner/manual identifier entry; replaceable free metadata adapters, candidate choice and editable save; offline browsing/manual editing; portable complete backups with validation, overwrite preview, incoming-wins atomic ID-based merge and cancellation; bounded image/HTTP/backup handling.
+
+The focused follow-up closes the image construction boundary using a final class, validating factory and private verified constructor. Backup encoding uses exact bounded UTF8 accounting off the UI isolate. A default-isolate roundtrip is verified with two real SQLite stores. Earlier corrections cover preserved identifiers, metadata mapping/equivalence, throttling and cooldowns, scanner lifecycle, merge navigation and stale cover downloads. Final actual code, logs and changed UI evidence were reviewed; no duplicate full-suite rerun was needed.
+
+Final evidence: 196 passing tests (64 domain, 69 services, 19 data, 33 widget, 11 render); analyzer clean; 87 Dart files formatted with zero changes; Android debug APK built. SHA256: 34482a1185d183a9aa57b47c917eaec3b868977c984aa7403495670f7f370a19. Root independently checked the delivered APK hash against the recorded artifact. See REPORT-P2.md and evidence/p2.
+
+Live public-code checks through actual adapters succeeded for MusicBrainz and UPCitemdb. Open Library hostname resolution failed in this environment; book mapping remains fixture-validated. Native camera/gallery/file dialogs have not run on a usable device: the available emulator stayed offline after one bounded attempt. iOS build was attempted and blocked by incomplete Xcode (command line tools only). These are explicit validation limits, not claims of verified runtime behavior. The project is ready for the user's Android testing; public release/signing/store review is outside this task.
+
+No Git init/commit/push, publication or release signing was performed. Source archive is a clean portable copy excluding generated caches, local SDK paths and APK binaries; the debug APK is delivered separately.

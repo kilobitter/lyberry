@@ -1,0 +1,1812 @@
+Initialized native services in: /Users/ghijs/.gradle/native
+Initialized jansi services in: /Users/ghijs/.gradle/native
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/8.14/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Starting process 'Gradle build daemon'. Working directory: /Users/ghijs/.gradle/daemon/8.14 Command: /Applications/Android Studio.app/Contents/jbr/Contents/Home/bin/java --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED --add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.xml/javax.xml.namespace=ALL-UNNAMED -XX:MaxMetaspaceSize=4G -XX:ReservedCodeCacheSize=512m -XX:+HeapDumpOnOutOfMemoryError -Xmx8G -Dfile.encoding=UTF-8 -Duser.country=BE -Duser.language=en -Duser.variant -cp /Users/ghijs/.gradle/wrapper/dists/gradle-8.14-all/c2qonpi39x1mddn7hk5gh9iqj/gradle-8.14/lib/gradle-daemon-main-8.14.jar -javaagent:/Users/ghijs/.gradle/wrapper/dists/gradle-8.14-all/c2qonpi39x1mddn7hk5gh9iqj/gradle-8.14/lib/agents/gradle-instrumentation-agent-8.14.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 8.14
+Successfully started process 'Gradle build daemon'
+An attempt to start the daemon took 0.896 secs.
+The client will now receive all logging from the daemon (pid: 24420). The daemon log file: /Users/ghijs/.gradle/daemon/8.14/daemon-24420.out.log
+Daemon will be stopped at the end of the build 
+Using 8 worker leases.
+Received JVM installation metadata from '/Applications/Android Studio.app/Contents/jbr/Contents/Home': {JAVA_HOME=/Applications/Android Studio.app/Contents/jbr/Contents/Home, JAVA_VERSION=21.0.10, JAVA_VENDOR=JetBrains s.r.o., RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=21.0.10+-117844308-b1163.108, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=21.0.10+-117844308-b1163.108, VM_VENDOR=JetBrains s.r.o., OS_ARCH=aarch64}
+Watching the file system is configured to be disabled
+File system watching is inactive
+Starting Build
+
+> Configure project :gradle
+Evaluating project ':gradle' using build file '/Users/ghijs/development/flutter/packages/flutter_tools/gradle/build.gradle.kts'.
+Resolved plugin [id: 'org.gradle.java-gradle-plugin']
+Resolved plugin [id: 'org.gradle.groovy']
+Resource missing. [HTTP HEAD: https://plugins.gradle.org/m2/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/5.2.0/org.gradle.kotlin.kotlin-dsl.gradle.plugin-5.2.0.jar]
+Resolved plugin [id: 'org.gradle.kotlin.kotlin-dsl', version: '5.2.0']
+Resource missing. [HTTP HEAD: https://plugins.gradle.org/m2/org/jetbrains/kotlin/jvm/org.jetbrains.kotlin.jvm.gradle.plugin/1.9.20/org.jetbrains.kotlin.jvm.gradle.plugin-1.9.20.jar]
+Resolved plugin [id: 'org.jetbrains.kotlin.jvm', version: '1.9.20']
+Using Kotlin Gradle Plugin gradle85 variant
+kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
+kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
+file or directory '/Users/ghijs/development/flutter/packages/flutter_tools/gradle/src/main/java', not found
+Resolved plugin [id: 'dev.flutter.flutter-plugin-loader', version: '1.0.0']
+Resource missing. [HTTP HEAD: https://dl.google.com/dl/android/maven2/com/android/application/com.android.application.gradle.plugin/8.11.1/com.android.application.gradle.plugin-8.11.1.jar]
+Resolved plugin [id: 'com.android.application', version: '8.11.1', apply: false]
+Resource missing. [HTTP HEAD: https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/android/org.jetbrains.kotlin.android.gradle.plugin/2.2.20/org.jetbrains.kotlin.android.gradle.plugin-2.2.20.jar]
+Resolved plugin [id: 'org.jetbrains.kotlin.android', version: '2.2.20', apply: false]
+Resolve mutations for :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#76,Execution worker,5,main]) started.
+:gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#76,Execution worker,5,main]) started.
+
+> Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+Skipping task ':gradle:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 'errorDiagnostics are present' is false.
+Resolve mutations for :gradle:compileKotlin (Thread[#76,Execution worker,5,main]) started.
+:gradle:compileKotlin (Thread[#76,Execution worker,5,main]) started.
+
+> Task :gradle:compileKotlin UP-TO-DATE
+Caching disabled for task ':gradle:compileKotlin' because:
+  Build cache is disabled
+Skipping task ':gradle:compileKotlin' as it is up-to-date.
+Resolve mutations for :gradle:compileJava (Thread[#76,Execution worker,5,main]) started.
+:gradle:compileJava (Thread[#76,Execution worker,5,main]) started.
+
+> Task :gradle:compileJava NO-SOURCE
+Skipping task ':gradle:compileJava' as it has no source files and no previous output files.
+Resolve mutations for :gradle:compileGroovy (Thread[#76,Execution worker,5,main]) started.
+:gradle:compileGroovy (Thread[#76,Execution worker,5,main]) started.
+
+> Task :gradle:compileGroovy NO-SOURCE
+Skipping task ':gradle:compileGroovy' as it has no source files and no previous output files.
+Resolve mutations for :gradle:pluginDescriptors (Thread[#76,Execution worker,5,main]) started.
+:gradle:pluginDescriptors (Thread[#76,Execution worker,5,main]) started.
+
+> Task :gradle:pluginDescriptors UP-TO-DATE
+Caching disabled for task ':gradle:pluginDescriptors' because:
+  Build cache is disabled
+  Not worth caching
+Skipping task ':gradle:pluginDescriptors' as it is up-to-date.
+Resolve mutations for :gradle:processResources (Thread[#76,Execution worker,5,main]) started.
+:gradle:processResources (Thread[#76,Execution worker,5,main]) started.
+
+> Task :gradle:processResources UP-TO-DATE
+Caching disabled for task ':gradle:processResources' because:
+  Build cache is disabled
+  Not worth caching
+Skipping task ':gradle:processResources' as it is up-to-date.
+Resolve mutations for :gradle:classes (Thread[#76,Execution worker,5,main]) started.
+:gradle:classes (Thread[#76,Execution worker,5,main]) started.
+
+> Task :gradle:classes UP-TO-DATE
+Skipping task ':gradle:classes' as it has no actions.
+Resolve mutations for :gradle:jar (Thread[#76,Execution worker,5,main]) started.
+:gradle:jar (Thread[#76,Execution worker,5,main]) started.
+
+> Task :gradle:jar UP-TO-DATE
+Caching disabled for task ':gradle:jar' because:
+  Build cache is disabled
+  Not worth caching
+Skipping task ':gradle:jar' as it is up-to-date.
+Settings evaluated using settings file '/Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/android/settings.gradle.kts'.
+Projects loaded. Root project using build file '/Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/android/build.gradle.kts'.
+Included projects: [root project 'android', project ':android_file_picker', project ':app', project ':flutter_plugin_android_lifecycle', project ':flutter_secure_storage', project ':image_picker_android', project ':jni', project ':jni_flutter', project ':mobile_scanner', project ':sqflite_android', project ':url_launcher_android']
+
+> Configure project :
+Evaluating root project 'android' using build file '/Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/android/build.gradle.kts'.
+
+> Configure project :app
+Evaluating project ':app' using build file '/Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/android/app/build.gradle.kts'.
+Resolved plugin [id: 'com.android.application']
+Resolved plugin [id: 'kotlin-android']
+Resolved plugin [id: 'dev.flutter.flutter-gradle-plugin']
+Unable to initialize metrics, ensure /Users/ghijs/.android is writable, details: /Users/ghijs/.android/analytics.settings (Operation not permitted)
+Using default execution profile
+Build ab9e6517-44b4-4a4c-89c2-50ddebdfdfa7 is started
+Using Kotlin Gradle Plugin gradle813 variant
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+
+> Configure project :android_file_picker
+Evaluating project ':android_file_picker' using build file '/Users/ghijs/.pub-cache/hosted/pub.dev/android_file_picker-2.0.0/android/build.gradle.kts'.
+Using default execution profile
+Using Kotlin Gradle Plugin gradle813 variant
+
+> Configure project :flutter_plugin_android_lifecycle
+Evaluating project ':flutter_plugin_android_lifecycle' using build file '/Users/ghijs/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.35/android/build.gradle.kts'.
+Resolved plugin [id: 'com.android.library']
+Using default execution profile
+
+> Configure project :flutter_secure_storage
+Evaluating project ':flutter_secure_storage' using build file '/Users/ghijs/.pub-cache/hosted/pub.dev/flutter_secure_storage-11.2.0/android/build.gradle'.
+Caching disabled for Groovy DSL script compilation (cp_proj) because:
+  Build cache is disabled
+  Not worth caching.
+Compiling build file '/Users/ghijs/.pub-cache/hosted/pub.dev/flutter_secure_storage-11.2.0/android/build.gradle' using SubsetScriptTransformer.
+Resolved plugin [id: 'com.android.library']
+Resolved plugin [id: 'jacoco']
+Using default execution profile
+Caching disabled for Groovy DSL script compilation (proj) because:
+  Build cache is disabled
+  Not worth caching.
+Compiling build file '/Users/ghijs/.pub-cache/hosted/pub.dev/flutter_secure_storage-11.2.0/android/build.gradle' using BuildScriptTransformer.
+
+> Configure project :image_picker_android
+Evaluating project ':image_picker_android' using build file '/Users/ghijs/.pub-cache/hosted/pub.dev/image_picker_android-0.8.13+17/android/build.gradle.kts'.
+Resolved plugin [id: 'com.android.library']
+Resolved plugin [id: 'kotlin-android']
+Using default execution profile
+Using Kotlin Gradle Plugin gradle813 variant
+
+> Configure project :jni
+Evaluating project ':jni' using build file '/Users/ghijs/.pub-cache/hosted/pub.dev/jni-1.0.3/android/build.gradle'.
+Caching disabled for Groovy DSL script compilation (cp_proj) because:
+  Build cache is disabled
+  Not worth caching.
+Compiling build file '/Users/ghijs/.pub-cache/hosted/pub.dev/jni-1.0.3/android/build.gradle' using SubsetScriptTransformer.
+Caching disabled for Groovy DSL script compilation (proj) because:
+  Build cache is disabled
+  Not worth caching.
+Compiling build file '/Users/ghijs/.pub-cache/hosted/pub.dev/jni-1.0.3/android/build.gradle' using BuildScriptTransformer.
+Using default execution profile
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+C/C++: android.ndkPath from module build.gradle is not set
+C/C++: ndk.dir in local.properties is not set
+C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+C/C++: sdkFolder is /Users/ghijs/Library/Android/sdk
+
+> Configure project :jni_flutter
+Evaluating project ':jni_flutter' using build file '/Users/ghijs/.pub-cache/hosted/pub.dev/jni_flutter-1.0.3/android/build.gradle'.
+Caching disabled for Groovy DSL script compilation (cp_proj) because:
+  Build cache is disabled
+  Not worth caching.
+Compiling build file '/Users/ghijs/.pub-cache/hosted/pub.dev/jni_flutter-1.0.3/android/build.gradle' using SubsetScriptTransformer.
+Caching disabled for Groovy DSL script compilation (proj) because:
+  Build cache is disabled
+  Not worth caching.
+Compiling build file '/Users/ghijs/.pub-cache/hosted/pub.dev/jni_flutter-1.0.3/android/build.gradle' using BuildScriptTransformer.
+Using default execution profile
+
+> Configure project :mobile_scanner
+Evaluating project ':mobile_scanner' using build file '/Users/ghijs/.pub-cache/hosted/pub.dev/mobile_scanner-7.4.2/android/build.gradle.kts'.
+Resolved plugin [id: 'com.android.library']
+Using default execution profile
+Using Kotlin Gradle Plugin gradle813 variant
+
+> Configure project :sqflite_android
+Evaluating project ':sqflite_android' using build file '/Users/ghijs/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+3/android/build.gradle'.
+Using default execution profile
+
+> Configure project :url_launcher_android
+Evaluating project ':url_launcher_android' using build file '/Users/ghijs/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.30/android/build.gradle.kts'.
+Caching disabled for Kotlin DSL script compilation (Project/TopLevel/stage1) because:
+  Build cache is disabled
+Resolved plugin [id: 'com.android.library']
+Resolved plugin [id: 'kotlin-android']
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-build-statistics/2.3.0/kotlin-build-statistics-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download15181308987393302654bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-klib-commonizer-api/2.3.0/kotlin-klib-commonizer-api-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download11781971853737709550bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin/2.3.0/kotlin-gradle-plugin-2.3.0-gradle813.jar to /Users/ghijs/.gradle/.tmp/gradle_download14739847736905283378bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-idea/2.3.0/kotlin-gradle-plugin-idea-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download16355095338370644645bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-idea-proto/2.3.0/kotlin-gradle-plugin-idea-proto-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download10711704704904494666bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-api/2.3.0/kotlin-gradle-plugin-api-2.3.0-gradle813.jar to /Users/ghijs/.gradle/.tmp/gradle_download13843955892012236571bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/fus-statistics-gradle-plugin/2.3.0/fus-statistics-gradle-plugin-2.3.0-gradle813.jar to /Users/ghijs/.gradle/.tmp/gradle_download13972045460551388673bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-compiler-runner/2.3.0/kotlin-compiler-runner-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download12977842031896913196bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-util-klib-metadata/2.3.0/kotlin-util-klib-metadata-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download8979645631814900683bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/abi-tools-api/2.3.0/abi-tools-api-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download6909380783885872667bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-native-utils/2.3.0/kotlin-native-utils-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download4044165121413936959bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-tooling-core/2.3.0/kotlin-tooling-core-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download13714258368121605492bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-util-klib/2.3.0/kotlin-util-klib-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download9672257784244050951bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-annotations/2.3.0/kotlin-gradle-plugin-annotations-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download4420774482316562328bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-build-tools-api/2.3.0/kotlin-build-tools-api-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download1328251150655543098bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-util-io/2.3.0/kotlin-util-io-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download15524729291871518827bin
+Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-daemon-client/2.3.0/kotlin-daemon-client-2.3.0.jar to /Users/ghijs/.gradle/.tmp/gradle_download13456679039563170692bin
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/fus-statistics-gradle-plugin/2.3.0/1d032696e90d35222e9e636be3754368f13cfa76/fus-statistics-gradle-plugin-2.3.0-gradle813.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/2.3.0/1a7982ebc51ee6e8d0ef04284588ac6237437746/kotlin-gradle-plugin-api-2.3.0-gradle813.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/2.3.0/111499583b10057c74a9f8ecdbcd55429e0548f0/kotlin-gradle-plugin-2.3.0-gradle813.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/2.3.0/1df18e780611e4f4a6cd42a27313625464b6e01f/kotlin-compiler-runner-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-statistics/2.3.0/27c37d3462469c837bdb926a3d0194be3c82ed2b/kotlin-build-statistics-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto/2.3.0/b8ebe07b31598c59cfcfc318b95a2411d4a3ac56/kotlin-gradle-plugin-idea-proto-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea/2.3.0/6f1d7150625bece534f9a1cef43a683bcb7b0f68/kotlin-gradle-plugin-idea-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-klib-commonizer-api/2.3.0/7987d96afb70723b0456c269b4af6f8cafa4b16e/kotlin-klib-commonizer-api-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-klib-metadata/2.3.0/de4ba4b3b224fb7be09c51267071c00b9a6d569/kotlin-util-klib-metadata-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/abi-tools-api/2.3.0/e1d96dc3a4ff4417dcb940c465e5ec284c32f315/abi-tools-api-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations/2.3.0/6054678f2543c970636ddffeb007558e1f80c237/kotlin-gradle-plugin-annotations-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/2.3.0/fdf513a1767e3907448f64baf81706ffcfb4012f/kotlin-native-utils-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-tooling-core/2.3.0/7a050c09910ee587944bc2a7413e2d97d751f647/kotlin-tooling-core-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-tools-api/2.3.0/7ffbfd5aface13641e9ff9b921e50287bad6ab7d/kotlin-build-tools-api-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-klib/2.3.0/fd753608c96eb2957dd77a0725c1348d3618cda7/kotlin-util-klib-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/2.3.0/2510f279208997188df6edffb589b21ee1e06822/kotlin-daemon-client-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for InstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/2.3.0/e09b521b711d32c009e11e7bb0070033c8a42668/kotlin-util-io-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/14a733dc53ea14a6bea72c228810bb34/transformed/.gradle-instrumented-classpath.marker because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b1aed86378475831084a1c1f14ba9caf/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/14a733dc53ea14a6bea72c228810bb34/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/f9e642206bec3b63564820c5ecaa3722/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/59bd33499023d8352171aa2c1c827881/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d8e71db3e8105af2e2e57b9f44e4ae6d/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/a00ae5b0ab1cba426127563cfdc6e70e/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ac70b9b5ff87cae7bd773a94f8c82c8c/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/01e204ada353938414f46098b388ee49/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/59bd33499023d8352171aa2c1c827881/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/a00ae5b0ab1cba426127563cfdc6e70e/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b1aed86378475831084a1c1f14ba9caf/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ac70b9b5ff87cae7bd773a94f8c82c8c/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/f9e642206bec3b63564820c5ecaa3722/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d8e71db3e8105af2e2e57b9f44e4ae6d/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/14a733dc53ea14a6bea72c228810bb34/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/01e204ada353938414f46098b388ee49/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-common-api/8.13.1/58727f905600cc290e9b1868639c7eb95627d829/gradle-common-api-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/fus-statistics-gradle-plugin/2.3.0/1d032696e90d35222e9e636be3754368f13cfa76/fus-statistics-gradle-plugin-2.3.0-gradle813.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/8.13.1/e41680ebe83add1df9ca89997245c316ab100d15/gradle-api-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/aaptcompiler/8.13.1/e6ddb629149be06829a55c626cf79ef83c99e7e1/aaptcompiler-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-settings-api/8.13.1/a1a79b278dda0f47d7684f9c04c5d19a437fbafa/gradle-settings-api-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/2.3.0/1a7982ebc51ee6e8d0ef04284588ac6237437746/kotlin-gradle-plugin-api-2.3.0-gradle813.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8fc5c3035a16d1db96c9d750b4008169/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/45f515a74421b5d14c88fcb72eeba950/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0bb2963fb9fa5282007c71cc8703b2d2/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ca5c2089e78b4b213781903852b42a23/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/18d81bdd9f350b7d62a8bc6f6f0c7111/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8452ece7468e0ae9490eba0ec1c3a809/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0bb2963fb9fa5282007c71cc8703b2d2/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/18d81bdd9f350b7d62a8bc6f6f0c7111/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8fc5c3035a16d1db96c9d750b4008169/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/45f515a74421b5d14c88fcb72eeba950/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build.jetifier/jetifier-core/1.0.0-beta10/6e621022a9c95af12a7004d6b55805bbd1126837/jetifier-core-1.0.0-beta10.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-compiler-common/8.13.1/2ba55add3fe8e50228034c3ee528d2c792d1f5eb/databinding-compiler-common-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build.jetifier/jetifier-processor/1.0.0-beta10/946c39eb0c052ff4f60a8939648a8b99af20d604/jetifier-processor-1.0.0-beta10.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/a70877f1b812831b905e0b06cec3dc77/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4be4bafccaab9d7d4f8132ec5964657a/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/a70877f1b812831b905e0b06cec3dc77/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/82efe8c800859c9fe6d0544012ddffbf/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4be4bafccaab9d7d4f8132ec5964657a/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/82efe8c800859c9fe6d0544012ddffbf/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-model/31.13.1/2a075401e908da1ee9389d5f1c7d790743158df6/lint-model-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/8.13.1/26e2f0870bac7e2dfda3cd76dd5ca15f3a2a425c/builder-model-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/8.13.1/74bd2ef9a01c850add1329fbe4c118fb6706e748/builder-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/8.13.1/82c6f91119e69ca2068c9a0b549930bfe60385b5/gradle-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/c459c30ade306edbb049a892626d5ef9/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/31.13.1/bc8fb40ddd58a6c7cfbe592f60652d5847952990/manifest-merger-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/827bb1f89e2cb31df20af7893626f0dd/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/240395105f07586c7715e4ab73799146/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/2.3.0/111499583b10057c74a9f8ecdbcd55429e0548f0/kotlin-gradle-plugin-2.3.0-gradle813.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8dd61b2719afc76372ea0dd8b6d13e1c/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/827bb1f89e2cb31df20af7893626f0dd/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/c64f48d67602191d3f46024167ae28fa/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/c459c30ade306edbb049a892626d5ef9/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/240395105f07586c7715e4ab73799146/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/c64f48d67602191d3f46024167ae28fa/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/e2d271411d543b073d3dfd704111e948/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8dd61b2719afc76372ea0dd8b6d13e1c/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/31.13.1/3ad84fc709b8e85533da11e91b97c88a5825ef7f/sdklib-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/31.13.1/58ba9dc3f16bd818267502fd382aa2c5bdbd7a6f/sdk-common-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/31.13.1/6ba0f911b4da8aaa0981d08fe80219aa476fef77/repository-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/31.13.1/c151a4c2f5827b7a256cdd39e309e0a99d5d312d/shared-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/45d2e9a6233380bcb3eb0fc0a3dbcfa7/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/31.13.1/d1c2e46c754b3e31cef44e58e391f507ca55db8f/tracker-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d17e30f6eb734ae300bc3ca331d39129/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/67c923cccef5ed8369a45e23b1151d33/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/43d0f3087c3e80501f12b51accb855a4/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/45d2e9a6233380bcb3eb0fc0a3dbcfa7/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d17e30f6eb734ae300bc3ca331d39129/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/aac1d87b892d5fa29927a177f68f90cc/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/43d0f3087c3e80501f12b51accb855a4/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/67c923cccef5ed8369a45e23b1151d33/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.utp/android-test-plugin-host-emulator-control-proto/31.13.1/9ad66b4b96af8d226c9d899030d9acdd101d03ed/android-test-plugin-host-emulator-control-proto-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/fus-statistics-gradle-plugin/2.3.0/1d032696e90d35222e9e636be3754368f13cfa76/fus-statistics-gradle-plugin-2.3.0-gradle813.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/31.13.1/3b7f1fe9c54d6fd684a3fd3b8feffeedfe546fd4/layoutlib-api-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d392481981f4abae9c2f07fb2e6b8468/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/2.3.0/1a7982ebc51ee6e8d0ef04284588ac6237437746/kotlin-gradle-plugin-api-2.3.0-gradle813.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/8.13.1/639aff5d6b76acab25ffb0c2f82f26d2a480634b/builder-test-api-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/31.13.1/772f1af975b6cbb75b0e69727e1c2d3d58f89f3f/ddmlib-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d392481981f4abae9c2f07fb2e6b8468/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/26736b178dfe10fafb51d2117bd22a05/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/157e4352d992da2a2332a4eec2eb74f1/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/aac1d87b892d5fa29927a177f68f90cc/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/fc6460b9f29b0913204acf7203178f22/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/caca8852a21cb2ca2332ad1d42bcf1ab/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/157e4352d992da2a2332a4eec2eb74f1/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/dfd8a2c2d3f574368527c9b6ff8da1e1/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/31.13.1/6079cc9f2fa5f5104b20779ca98faa1c495bb7f1/dvlib-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/fc6460b9f29b0913204acf7203178f22/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/caca8852a21cb2ca2332ad1d42bcf1ab/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools/common/31.13.1/f3820127fd5671633558e4abdabe234d9d37ab0e/common-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/2.2.0/ed572b04cd66acce7837ad753e4fe64d9c536025/kotlin-stdlib-jdk8-2.2.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/2.2.0/bfd42edfc4f88de5a02131108ab800fb32d53d03/kotlin-stdlib-jdk7-2.2.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8ebabf972b7ccd9338f68b36e9bf552c/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/2.3.0/1df18e780611e4f4a6cd42a27313625464b6e01f/kotlin-compiler-runner-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9e6ae9d5de9725116f2aa12afd2d2af7/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/fe297a5a19d5a52b75d06ba229378ac0/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8ebabf972b7ccd9338f68b36e9bf552c/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.9.0/9beade4c1c1569e4f36cbd2c37e02e3e41502601/kotlinx-coroutines-core-jvm-1.9.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ac6abbb1c3675c56725df2ab283bdb79/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9e6ae9d5de9725116f2aa12afd2d2af7/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/eb300438b87d5a3735f0787157a6c951/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/2805a5d3d3da401e590a5e164926b3b7/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ac6abbb1c3675c56725df2ab283bdb79/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.21/618b539767b4899b4660a83006e052b63f1db551/kotlin-stdlib-2.0.21.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/2805a5d3d3da401e590a5e164926b3b7/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4eee2b82aa2c7af4a1a15b7199b0d244/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/aapt2-proto/8.13.1-13719691/40a5b5c6f065182d193638b42644bb6f389ff70b/aapt2-proto-8.13.1-13719691.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/2.0.21/669e1d35e4ca1797f9ddb2830dd6c36c0ca531e4/kotlin-reflect-2.0.21.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/3e49f3fdf9d6d91654df74571f9a9c1d/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/crash/31.13.1/80c9f1f06e8d48d60fa91f4db811cf863e13c67f/crash-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4eee2b82aa2c7af4a1a15b7199b0d244/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4f1d57dc82d0f5c1e73cc0495e11db68/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/3e49f3fdf9d6d91654df74571f9a9c1d/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-typedef-remover/31.13.1/bc9756d95080ee30b518adf2c02d70dea0930feb/lint-typedef-remover-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4f1d57dc82d0f5c1e73cc0495e11db68/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/85500f3ff456123c43657c4e00018b7c/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/bundletool/1.18.1/76bb1aa21a19495ca070bfb6abd194daf91dccd1/bundletool-1.18.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/939bc7fc0ac2904e445226136812c398/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/25569eff184dd59e41d5f0973d7e8e52/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/8.13.1/7e7399239e52d4069896277615e005add7ae8e5a/baseLibrary-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-common/8.13.1/2be3530b78477835e69dce953b17adc1dbc5c6fa/databinding-common-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/562229bcf901d61750a33c50cd812681/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/25569eff184dd59e41d5f0973d7e8e52/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d004153269b09c31975a7cbe2588f627/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/562229bcf901d61750a33c50cd812681/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/939bc7fc0ac2904e445226136812c398/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/85500f3ff456123c43657c4e00018b7c/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.utp/android-test-plugin-host-additional-test-output-proto/31.13.1/fe467239b47e0709ba9bf1e2e9fccaabc6cabc22/android-test-plugin-host-additional-test-output-proto-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/2.3.0/1df18e780611e4f4a6cd42a27313625464b6e01f/kotlin-compiler-runner-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/5a503e61907774d611e2112f54d37a58/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.utp/android-test-plugin-host-coverage-proto/31.13.1/1ee63a78550acb6f922531668f4eb83dddf45e/android-test-plugin-host-coverage-proto-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.utp/android-device-provider-ddmlib-proto/31.13.1/9f96225642b573079e5544a619b18b815b3dc70f/android-device-provider-ddmlib-proto-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.utp/android-device-provider-profile-proto/31.13.1/7823ffdbacbe3e46ce243d459f946467b7126135/android-device-provider-profile-proto-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b0ab5e8534534aa091cc5924656f7ba7/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/5a503e61907774d611e2112f54d37a58/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/6128a36d6c5d81f189d6adbffa731ac0/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8371811cf358d3aa8e15dfc29a0fb8e7/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d004153269b09c31975a7cbe2588f627/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.utp/android-test-plugin-host-apk-installer-proto/31.13.1/915dc4efd7db61b0c2bb16f88dcf640e824a232d/android-test-plugin-host-apk-installer-proto-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8371811cf358d3aa8e15dfc29a0fb8e7/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/47f6c56527c42425742fa9b56ffd3fd80763fe03/transform-api-2.0.0-deprecated-use-gradle-api.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.utp/android-test-plugin-host-logcat-proto/31.13.1/2b1de9f172f374f9d8a0f60d0d7d556df7c30d14/android-test-plugin-host-logcat-proto-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b096fc7109c25d36431d39de75626a74/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b0ab5e8534534aa091cc5924656f7ba7/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.6/164343da11db817e81e24e0d9869527e069850c9/httpmime-4.5.6.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/72bc422504cc2ae3e9fb3964f4a024a9/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/69854e23ed2e20919089975b647f2a3b/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/2b8159306822626ba4ff448933f7f1f0/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4c4ef2755850de01f61850f6c9b3f3b8/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b096fc7109c25d36431d39de75626a74/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4c4ef2755850de01f61850f6c9b3f3b8/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/72bc422504cc2ae3e9fb3964f4a024a9/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9d2a42daa004a1ec9a3257241635e48c/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.utp/android-test-plugin-result-listener-gradle-proto/31.13.1/dbbef067ddf95379b587f6aa2baa93d3eb3342eb/android-test-plugin-result-listener-gradle-proto-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/2b8159306822626ba4ff448933f7f1f0/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8e24b01d0276a5d642ce5043c059ec72/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.16.1/377d592e740dc77124e0901291dbfaa6810a200e/commons-io-2.16.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.8/18419ca5b77a2f81097c741e7872e6ab8d2f40d/asm-tree-9.8.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.8/36e4d212970388e5bd2c5180292012502df461bb/asm-commons-9.8.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/95af8942e3b7b715993b1dddfb5c6b74/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9d2a42daa004a1ec9a3257241635e48c/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.8/395f1c1f035258511f27bc9b2583d76e4b143f59/asm-util-9.8.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/7d0b495da3e94b9513f7899aa4fc052a/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/69854e23ed2e20919089975b647f2a3b/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/95af8942e3b7b715993b1dddfb5c6b74/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/38718154af92971d236fd5af51511df9/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8e24b01d0276a5d642ce5043c059ec72/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/7d0b495da3e94b9513f7899aa4fc052a/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.8/dc19ecb3f7889b7860697215cae99c0f9b6f6b4b/asm-9.8.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.8/b9747a320844b6cb1eacd90d8ecfd260a16c01d3/asm-analysis-9.8.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/214e8f2365bd43e4a8ccb1573a478784/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/a8013ca544e4357839c5918e8813c817/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/a8013ca544e4357839c5918e8813c817/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apkzlib/8.13.1/ea2327cd7a67c0fc9a4d26f035b922dff11c7219/apkzlib-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/e47308a1c31576f483bab1a9b244d512/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/2.3.2/5528bc882ea499a09d720b42af11785c4fc6be2a/jaxb-runtime-2.3.2.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/214e8f2365bd43e4a8ccb1573a478784/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8f3c72fc33a299bf4168ea60a7d6dcbd/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/448b77bc82599dc70acf59b64287ae6d/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.25.5/38cc5ce479603e36466feda2a9f1dfdb2210ef00/protobuf-java-util-3.25.5.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8f3c72fc33a299bf4168ea60a7d6dcbd/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk18on/1.79/7693cec3b8779b74b35466dcaeeaac7409872954/bcpkix-jdk18on-1.79.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/448b77bc82599dc70acf59b64287ae6d/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/919006aa945934ef1376c4cba0caf7d8/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/03b12a1713674e47c4a3c04cb44acb39/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/919006aa945934ef1376c4cba0caf7d8/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/e47308a1c31576f483bab1a9b244d512/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.testing.platform/core-proto/0.0.9-alpha03/a0de640d69d847081f087c45dda7e9b3754fe350/core-proto-0.0.9-alpha03.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/03b12a1713674e47c4a3c04cb44acb39/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.10.0/712c178d35185d8261295913c9f2a7d6867a6007/javapoet-1.10.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.crypto.tink/tink/1.7.0/668b57f109d32349b2870448f06ae6f202713edc/tink-1.7.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/38718154af92971d236fd5af51511df9/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.69.1/433b61f31e1dce6adf6c43ea3ca510f8d8d7ea70/grpc-protobuf-1.69.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d26e4d12fc87d908d377ac641f35005f/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-common-protos/2.48.0/86b550469172d830d174d7434c318d7dff179910/proto-google-common-protos-2.48.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.9/ee9e9eaa0a35360dcfeac129ff4923215fd65904/jopt-simple-4.9.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d26e4d12fc87d908d377ac641f35005f/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d3a1e58d1ec253efcd6e817eb23c0040/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8d803f74bc08620adbcf3659e0dd8afb/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/40ce7926dfa4287e169508f69c0cf81a/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.25.5/5ae5c9ec39930ae9b5a61b32b93288818ec05ec1/protobuf-java-3.25.5.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/31.13.1/568520224f5c347add38c2bef3d0288ae11f8d31/protos-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/40ce7926dfa4287e169508f69c0cf81a/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8d803f74bc08620adbcf3659e0dd8afb/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d3a1e58d1ec253efcd6e817eb23c0040/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/5c98f90381b3823dd8cd819366bbe11e/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/05c2ff59c0b7a34a09b0cbf4f09b6e8a/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/5c98f90381b3823dd8cd819366bbe11e/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/24499ab9d12730a9faeafb1a60c2ccab/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty/1.69.1/9235ab343b80acd957b4bb8bd740b8272735ddb8/grpc-netty-1.69.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-inprocess/1.69.1/8999d859ebf25f00e5a968b5e36e1294b109cb9e/grpc-inprocess-1.69.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-util/1.69.1/8c3a9d835a78be9653e9ba92ceab430547924937/grpc-util-1.69.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/05c2ff59c0b7a34a09b0cbf4f09b6e8a/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/24499ab9d12730a9faeafb1a60c2ccab/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-statistics/2.3.0/27c37d3462469c837bdb926a3d0194be3c82ed2b/kotlin-build-statistics-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/34d6463aef3309917188f109b16e68a3/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/79a18a78701ab821785a6d5a90cfa143/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/e1af31b6f6841aeef4f866f19498c6b7/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.69.1/d9f6383e1903af6e9502e7c1c8e4fbe28a236321/grpc-core-1.69.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8b1fc9c5162b4e94647de56f23c61132/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/79a18a78701ab821785a6d5a90cfa143/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/34d6463aef3309917188f109b16e68a3/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.11.0/527175ca6d81050b53bdd4c457a6d6e017626b0e/gson-2.11.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/e1af31b6f6841aeef4f866f19498c6b7/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/24d9bbb57e7fb3eddd55a7080305e9d4/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.69.1/685c974e6717e6c1bcadd1b7461167d27f64c524/grpc-stub-1.69.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/43a9dcaf9fd4935e4edde69c28dfff48/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/35c61f5660ac8b66f2b0bdc9ee85b905/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.tensorflow/tensorflow-lite-metadata/0.2.0/7dbe8f75ae5c0ef7093c43c3ac8b560bbc7ea4b6/tensorflow-lite-metadata-0.2.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/43a9dcaf9fd4935e4edde69c28dfff48/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/35c61f5660ac8b66f2b0bdc9ee85b905/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/1494b9f0f1f470e906903d630dd81f74/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/24d9bbb57e7fb3eddd55a7080305e9d4/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.flatbuffers/flatbuffers-java/1.12.0/8201cc7b511177a37071249e891f2f2fea4b32e9/flatbuffers-java-1.12.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4cffaa13ac673bc35277cb0372b0a58e/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/1494b9f0f1f470e906903d630dd81f74/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/3ae60b3840f76fbc495a453c70c97bf0/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-klib-commonizer-api/2.3.0/7987d96afb70723b0456c269b4af6f8cafa4b16e/kotlin-klib-commonizer-api-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4cffaa13ac673bc35277cb0372b0a58e/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea/2.3.0/6f1d7150625bece534f9a1cef43a683bcb7b0f68/kotlin-gradle-plugin-idea-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/43a50973cc34d765997a160982f39172/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-klib-metadata/2.3.0/de4ba4b3b224fb7be09c51267071c00b9a6d569/kotlin-util-klib-metadata-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/cc644640c9986bf38f81b7f07897cd3b/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto/2.3.0/b8ebe07b31598c59cfcfc318b95a2411d4a3ac56/kotlin-gradle-plugin-idea-proto-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/afee2759633a3d732ab9e8cde4babdab/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/eb4f40f98b4b17607ed7efda8367c8d3/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/abi-tools-api/2.3.0/e1d96dc3a4ff4417dcb940c465e5ec284c32f315/abi-tools-api-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/3ae60b3840f76fbc495a453c70c97bf0/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-statistics/2.3.0/27c37d3462469c837bdb926a3d0194be3c82ed2b/kotlin-build-statistics-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/6847038e194ae0899362251a9716940c/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.jimfs/jimfs/1.1/8fbd0579dc68aba6186935cc1bee21d2f3e7ec1c/jimfs-1.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/601b51fa272b735ecc675e1b376e1482/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-klib-commonizer-api/2.3.0/7987d96afb70723b0456c269b4af6f8cafa4b16e/kotlin-klib-commonizer-api-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/59d4469867e677d91f281a1e27259851/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0bab9ab604962ffad0d5c31fde221fcb/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/abi-tools-api/2.3.0/e1d96dc3a4ff4417dcb940c465e5ec284c32f315/abi-tools-api-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/59d4469867e677d91f281a1e27259851/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.69.1/acec56668f9e67775cfe43fdb9edd046e9426a2d/grpc-context-1.69.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0bab9ab604962ffad0d5c31fde221fcb/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0c8e03626dc28f5f9dc8448d5c34665e/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ba603a8e5cd50a7c88cc1c83cedbafe1/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf-lite/1.69.1/40cc0d2c62b22c7c22056e17c1141cb714993ea9/grpc-protobuf-lite-1.69.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ba603a8e5cd50a7c88cc1c83cedbafe1/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/1f33ebe59883eca7cf0b19e5fe8de863/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-api/1.69.1/e95c782de0217180c9b25c99e605c4513f3272f1/grpc-api-1.69.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.28.3/10d83810ef9e19714116ed518896c90c6606d633/dagger-2.28.3.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9b0e98629bc06f5b01cc526ebfdfc3c3/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0c8e03626dc28f5f9dc8448d5c34665e/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9d04d315a102c441141d3be66524f20d/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9b0e98629bc06f5b01cc526ebfdfc3c3/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-klib-metadata/2.3.0/de4ba4b3b224fb7be09c51267071c00b9a6d569/kotlin-util-klib-metadata-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9d04d315a102c441141d3be66524f20d/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8454090a5b20928e6b4b38efeaa490fe/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/ccbc77a5fd907ef863c29f3596c6f54ffa4e9442/kxml2-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/33.3.1-jre/852f8b363da0111e819460021ca693cacca3e8db/guava-33.3.1-jre.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8454090a5b20928e6b4b38efeaa490fe/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/410b73183f139835f68024b4a9e6d4c0/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b90d3ccdd27a09aadabddbd33719551c/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea/2.3.0/6f1d7150625bece534f9a1cef43a683bcb7b0f68/kotlin-gradle-plugin-idea-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b90d3ccdd27a09aadabddbd33719551c/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4bb2857926d6bbf63c2a8489c429fa99/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcutil-jdk18on/1.79/ecfc5aef97cc7676ea0de5c53c407b9f533f0ad5/bcutil-jdk18on-1.79.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/410b73183f139835f68024b4a9e6d4c0/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/1a1d3b61d5a868318f8594a976389b2b/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4ac0c55f6fec3ad5508279c3c8ad0d75/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/1a1d3b61d5a868318f8594a976389b2b/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4ac0c55f6fec3ad5508279c3c8ad0d75/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.14/1194890e6f56ec29177673f2f12d0b8e627dec98/httpclient-4.5.14.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4bb2857926d6bbf63c2a8489c429fa99/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk18on/1.79/4d8e2732bcee15f1db93df266c3f5b70ce5cac21/bcprov-jdk18on-1.79.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/5abf02c03dc81b95039a45c46121d622/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/893c2a768a8453d3c01c6cfa5d4dc229/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.sun.activation/javax.activation/1.2.0/bf744c1e2776ed1de3c55c8dac1057ec331ef744/javax.activation-1.2.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/5abf02c03dc81b95039a45c46121d622/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/f62290c4265fae9fb0cf357d49462801/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.16/51cf043c87253c9f58b539c9f7e44c8894223850/httpcore-4.4.16.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/63e0a1f75d91cde9ecfd6e29ce3f4dc8/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/f62290c4265fae9fb0cf357d49462801/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/31.13.1/a9a04a78f42fdb0276a0fc7fd538890f856a9753/annotations-31.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android/zipflinger/8.13.1/b0422efcca01a66e2d7d2e07dbabcfd1f5cdfd6f/zipflinger-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/63e0a1f75d91cde9ecfd6e29ce3f4dc8/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/e0226a994236d7bf90152c665abe60df/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8c12647086c0a3ca5d593c8e6e97b7eb/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android/signflinger/8.13.1/13f035dd8e7e470ff8f3216a0b46333187f26df5/signflinger-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8c12647086c0a3ca5d593c8e6e97b7eb/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/a9bb419057f2ec78198df5a5329559ea/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/5.6.0/d18424ffb8bbfd036d71bcaab9b546858f2ef986/jna-platform-5.6.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.googlecode.juniversalchardet/juniversalchardet/1.0.3/cd49678784c46aa8789c060538e0154013bb421b/juniversalchardet-1.0.3.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9a9891476629ac44014c62adfce6452d/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jvnet.staxex/stax-ex/1.8.1/78011e483a21102fb4858f3e8f269a677e50aa23/stax-ex-1.8.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/a9bb419057f2ec78198df5a5329559ea/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0e4888efffc5b1de0f2cc5286369299e/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0e4888efffc5b1de0f2cc5286369299e/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/fefff9ef1ad0af2b4d20e97600842cb4/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9a9891476629ac44014c62adfce6452d/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/c491d8608f57b6bb06428abd12a909c3/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.sun.istack/istack-commons-runtime/3.0.8/d6a97364045aa6b99bf2d3c566a3f98599c2d296/istack-commons-runtime-3.0.8.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/fefff9ef1ad0af2b4d20e97600842cb4/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/2.3.2/8d49996a4338670764d7ca4b85a1c4ccf7fe665d/jakarta.xml.bind-api-2.3.2.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9f7bf5a533b6fa8b7c91c970eaa2b8a2/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/c491d8608f57b6bb06428abd12a909c3/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/txw2/2.3.2/ce5be7da2e442c25ec14c766cb60cb802741727b/txw2-2.3.2.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/cf0bc295990994c9b29b9073cba028df/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b964b2a10de25da1ef0fd6f921058bc2/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value-annotations/1.6.2/ed193d86e0af90cc2342aedbe73c5d86b03fa09b/auto-value-annotations-1.6.2.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/6f8bdd5d75a2382fcea921634ccf18cb/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.sun.xml.fastinfoset/FastInfoset/1.2.16/4eb6a0adad553bf759ffe86927df6f3b848c8bea/FastInfoset-1.2.16.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b964b2a10de25da1ef0fd6f921058bc2/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/58004fb02668d400301539bc7fd0023b/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.30.0/ff171acb7fb9cbe2b9f50b391e1d52459d30ee62/error_prone_annotations-2.30.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d8695b060e50975c4594c2fcb6098560/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/6f8bdd5d75a2382fcea921634ccf18cb/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4cd17ccd69a423c77b4cc921baa79a8e/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/d8695b060e50975c4594c2fcb6098560/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/1.2.1/562a587face36ec7eff2db7f2fc95425c6602bc1/jakarta.activation-api-1.2.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/58004fb02668d400301539bc7fd0023b/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/085ab5d22c0c73b805b5ceab6a9ea7ff/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.bitbucket.b_c/jose4j/0.9.5/e4ca26802488e6f16e24558d74ac8775a955fdd3/jose4j-0.9.5.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/b5a4b6d16ab13e34a88fae84c35cd5d68cac922c/slf4j-api-1.7.30.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/3.0.0/7399e65dd7e9ff3404f4535b2f017093bdb134c7/j2objc-annotations-3.0.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/3871849f067229dac404822e0cc10652/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.6/6f14738ec2e9dd0011e343717fa624a10f8aab64/jdom2-2.0.6.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ccd4d5146633deeb32e056fb256bbedb/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/83c733493e2ffb6ca81f2223bd181a35/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/617ef37ad16b012eb8c48e988c6f42af/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.android/annotations/4.1.1.4/a1678ba907bf92691d879fef34e1a187038f9259/annotations-4.1.1.4.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/f51ccf8076d57690ada9d88dd133c67d/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ccd4d5146633deeb32e056fb256bbedb/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/83c733493e2ffb6ca81f2223bd181a35/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.24/aa9ba58d30e0aad7f1808fce9c541ea3760678d8/animal-sniffer-annotations-1.24.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/f51ccf8076d57690ada9d88dd133c67d/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/617ef37ad16b012eb8c48e988c6f42af/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0539fa9ce4a552e6547543e3cb637c3a/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/78583f17d4edeeba34d50f9204b52fbe/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.perfmark/perfmark-api/0.27.0/f86f575a41b091786a4b027cd9c0c1d2e3fc1c01/perfmark-api-0.27.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0539fa9ce4a552e6547543e3cb637c3a/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.110.Final/e0849843eb5b1c036b12551baca98a9f7ff847a0/netty-codec-http2-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.110.Final/9d05cd927209ea25bbf342962c00b8e5a828c2a4/netty-codec-http-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.110.Final/b7fb401dd47c79e6b99f2319ac3b561c50c31c30/netty-handler-proxy-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/6133e5f6d0c97db3ac5bdf0126bb4bfe/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9b6cda020a6c8d70416b87930720156f/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/2d6ad7057afe351af184d49f5efa7fa0/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/e7de8a40d83929b7605213c00730fc7c/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.110.Final/168db749c22652ee7fed1ebf7ec46ce856d75e51/netty-handler-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.43.0/9425eee39e56b116d2b998b7c2cebcbd11a3c98b/checker-qual-3.43.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/2d6ad7057afe351af184d49f5efa7fa0/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/267a6b9f550ca7c37a9512264bea3725/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations/2.3.0/6054678f2543c970636ddffeb007558e1f80c237/kotlin-gradle-plugin-annotations-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/9b6cda020a6c8d70416b87930720156f/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b47ae867fbd7fe512c6acadf86e4b985/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/78583f17d4edeeba34d50f9204b52fbe/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/bd07b2a9e41f7c787c76cfc7c8c76797/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b47ae867fbd7fe512c6acadf86e4b985/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/8.13.1/f005788487574c7d6ba23dea63bf8cb3a4f164a6/apksig-8.13.1.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.110.Final/a7096e7c0a25a983647909d7513f5d4943d589c0/netty-transport-native-unix-common-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ee2c82cd09d481b06f916bdebb03d6a4/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-tooling-core/2.3.0/7a050c09910ee587944bc2a7413e2d97d751f647/kotlin-tooling-core-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/267a6b9f550ca7c37a9512264bea3725/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/469f135b14a41306327dec1749983aae/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/e840eab68f3786cc40c928660a166bfe/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/3fcff07238c524e3e19acffc82357219/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ee2c82cd09d481b06f916bdebb03d6a4/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/3fcff07238c524e3e19acffc82357219/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations/2.3.0/6054678f2543c970636ddffeb007558e1f80c237/kotlin-gradle-plugin-annotations-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/469f135b14a41306327dec1749983aae/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/2.3.0/e09b521b711d32c009e11e7bb0070033c8a42668/kotlin-util-io-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/629b6c7bdd45adcfef7344480fbe89db/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/2.3.0/fdf513a1767e3907448f64baf81706ffcfb4012f/kotlin-native-utils-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-tools-api/2.3.0/7ffbfd5aface13641e9ff9b921e50287bad6ab7d/kotlin-build-tools-api-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/1cfc3f2ab817ac21ffeb599a998c3c7f/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/629b6c7bdd45adcfef7344480fbe89db/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/51c43ffdd02c8adfe15015d2c432daf2/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/e8f409356f5ab8043a7f8a3b6adabb87/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/2.3.0/2510f279208997188df6edffb589b21ee1e06822/kotlin-daemon-client-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-klib/2.3.0/fd753608c96eb2957dd77a0725c1348d3618cda7/kotlin-util-klib-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/81086cd5059a3b61b83b742891752e04/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-tooling-core/2.3.0/7a050c09910ee587944bc2a7413e2d97d751f647/kotlin-tooling-core-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b6327d5f22b10c927c0e7d15ab120cfb/transformed/merge/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/686bf4cfe7f84bbadfff8cfc881e76ad/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.2/c4a06a64e650562f30b7bf9aaec1bfed43aca12b/failureaccess-1.0.2.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/2.3.0/e09b521b711d32c009e11e7bb0070033c8a42668/kotlin-util-io-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-tools-api/2.3.0/7ffbfd5aface13641e9ff9b921e50287bad6ab7d/kotlin-build-tools-api-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b4e207aa96e8d470c5c1c936134d8f4c/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8e362c5f3c362fbc630f6643bca41639/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/059495c8615bae36d0fc93a846ab4920/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/8e362c5f3c362fbc630f6643bca41639/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/059495c8615bae36d0fc93a846ab4920/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b61fb44fc1d8321fadf92de7a61bc6d5/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/dd8a2aee7e449ddba7026d5522c99b95/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/b61fb44fc1d8321fadf92de7a61bc6d5/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/cc26bb6f1faed16f0f96d3d35df77724/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/dd8a2aee7e449ddba7026d5522c99b95/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/cc26bb6f1faed16f0f96d3d35df77724/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.6.0/330f2244e9030119ab3030fc3fededc86713d9cc/jna-5.6.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.110.Final/4d54c8d5b95b14756043efb59b8c3e62ec67aa43/netty-codec-socks-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0351b43ad8fd7f1c9e3d26f252940e1b/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/0351b43ad8fd7f1c9e3d26f252940e1b/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ec41b8f9404b13e8f716ddadd79bd47c/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/ec41b8f9404b13e8f716ddadd79bd47c/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.110.Final/f1fa43b03e93ab88e805b6a4e3e83780c80b47d2/netty-codec-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.110.Final/3d918a9ee057d995c362902b54634fc307132aac/netty-buffer-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/677a1829d77c1f5248ce88c9e300d627/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.110.Final/b91f04c39ac14d6a29d07184ef305953ee6e0348/netty-transport-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/677a1829d77c1f5248ce88c9e300d627/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4eda740bb6ccf2909ae408fcc443d9fd/transformed/analysis/instrumentation-hierarchy.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/8.14/transforms/4eda740bb6ccf2909ae408fcc443d9fd/transformed/analysis/instrumentation-dependencies.bin because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.110.Final/66c15921104cda0159b34e316541bc765dfaf3c0/netty-resolver-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/2.3.0/2510f279208997188df6edffb589b21ee1e06822/kotlin-daemon-client-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for MergeInstrumentationAnalysisTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.110.Final/ec361e7e025c029be50c55c8480080cabcbc01e7/netty-common-4.1.110.Final.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/2.3.0/fdf513a1767e3907448f64baf81706ffcfb4012f/kotlin-native-utils-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-klib/2.3.0/fd753608c96eb2957dd77a0725c1348d3618cda7/kotlin-util-klib-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto/2.3.0/b8ebe07b31598c59cfcfc318b95a2411d4a3ac56/kotlin-gradle-plugin-idea-proto-2.3.0.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Caching disabled for ExternalDependencyInstrumentingArtifactTransform: /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/2.3.0/111499583b10057c74a9f8ecdbcd55429e0548f0/kotlin-gradle-plugin-2.3.0-gradle813.jar because:
+  Build cache is disabled
+  Caching not enabled.
+Using default execution profile
+Using Kotlin Gradle Plugin gradle813 variant
+Caching disabled for Kotlin DSL accessors for project ':url_launcher_android' because:
+  Build cache is disabled
+Cannot use Kotlin build script compile avoidance with /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/2.3.0/111499583b10057c74a9f8ecdbcd55429e0548f0/kotlin-gradle-plugin-2.3.0-gradle813.jar: class org/jetbrains/kotlin/gradle/dsl/PlatformSourceSetConventionsChecker: inline fun CheckedPlatformInfo(): compile avoidance is not supported with public inline functions
+Cannot use Kotlin build script compile avoidance with /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto/2.3.0/b8ebe07b31598c59cfcfc318b95a2411d4a3ac56/kotlin-gradle-plugin-idea-proto-2.3.0.jar: class org/jetbrains/kotlin/gradle/idea/proto/generated/IdeaExtrasProtoKt$Dsl: inline fun setValues(): compile avoidance is not supported with public inline functions
+Cannot use Kotlin build script compile avoidance with /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-tools-api/2.3.0/7ffbfd5aface13641e9ff9b921e50287bad6ab7d/kotlin-build-tools-api-2.3.0.jar: class org/jetbrains/kotlin/buildtools/api/KotlinToolchainsKt: inline fun getToolchain(): compile avoidance is not supported with public inline functions
+Cannot use Kotlin build script compile avoidance with /Users/ghijs/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/2.3.0/e09b521b711d32c009e11e7bb0070033c8a42668/kotlin-util-io-2.3.0.jar: class org/jetbrains/kotlin/konan/file/FileKt: inline fun use(): compile avoidance is not supported with public inline functions
+Caching disabled for Kotlin DSL script compilation (Project/TopLevel/stage2) because:
+  Build cache is disabled
+All projects evaluated.
+Task name matched 'help'
+Selected primary task 'help' from project :
+Tasks to be executed: [task ':help']
+Tasks that were excluded: []
+Resolve mutations for :help (Thread[#82,Execution worker Thread 7,5,main]) started.
+:help (Thread[#82,Execution worker Thread 7,5,main]) started.
+
+> Task :help
+Caching disabled for task ':help' because:
+  Build cache is disabled
+Task ':help' is not up-to-date because:
+  Task has not declared any outputs despite executing actions.
+
+Welcome to Gradle 8.14.
+
+To run a build, run gradlew <task> ...
+
+To see a list of available tasks, run gradlew tasks
+
+To see more detail about a task, run gradlew help --task <task>
+
+To see a list of command-line options, run gradlew --help
+
+For more detail on using Gradle, see https://docs.gradle.org/8.14/userguide/command_line_interface.html
+
+For troubleshooting, visit https://help.gradle.org
+Build ab9e6517-44b4-4a4c-89c2-50ddebdfdfa7 is closed
+
+[Incubating] Problems report is available at: file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 25s
+5 actionable tasks: 1 executed, 4 up-to-date
+dependencies-accessors (/Users/ghijs/.gradle/caches/8.14/dependencies-accessors) removing files not accessed on or after Fri Sep 18 01:18:23 CEST 2026.
+dependencies-accessors (/Users/ghijs/.gradle/caches/8.14/dependencies-accessors) cleanup deleted 0 files/directories.
+dependencies-accessors (/Users/ghijs/.gradle/caches/8.14/dependencies-accessors) cleaned up in 0.005 secs.

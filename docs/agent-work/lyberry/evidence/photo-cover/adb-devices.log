@@ -1,0 +1,16 @@
+$ /Users/ghijs/Library/Android/sdk/platform-tools/adb devices
+* daemon not running; starting now at tcp:5037
+ADB server didn't ACK
+Full server startup log: /var/folders/lk/4w48wb_n7t31sj6pr64lptzm0000gn/T//adb.501.log
+Server had pid: 94730
+--- adb starting (pid 94730) ---
+09-28 10:25:01.678 94730 14582324 I adb     : main.cpp:66 Android Debug Bridge version 1.0.41
+09-28 10:25:01.678 94730 14582324 I adb     : main.cpp:66 Version 37.0.0-14910828
+09-28 10:25:01.678 94730 14582324 I adb     : main.cpp:66 Installed as /Users/ghijs/Library/Android/sdk/platform-tools/adb
+09-28 10:25:01.678 94730 14582324 I adb     : main.cpp:66 Running on Darwin 25.5.0 (arm64)
+09-28 10:25:01.678 94730 14582324 I adb     : main.cpp:66 
+09-28 10:25:02.200 94730 14582324 F adb     : main.cpp:165 could not install *smartsocket* listener: Operation not permitted
+
+* failed to start daemon
+adb: failed to check server version: cannot connect to daemon
+exit=1

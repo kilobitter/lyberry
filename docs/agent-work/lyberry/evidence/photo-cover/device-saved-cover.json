@@ -1,0 +1,18 @@
+{
+  "fixture": "LyberryPhotoCover070",
+  "original_retained": true,
+  "original_dimensions": [
+    900,
+    600
+  ],
+  "derived_dimensions": [
+    775,
+    533
+  ],
+  "separate_cover_and_photo_ids": true,
+  "finished_persisted": true,
+  "saved_after_restart": true,
+  "cancel_then_save_preserves_cover_and_original_bytes": true,
+  "asset_count": 2,
+  "picker_note": "Android picker recompresses selected source; original here means the ingested personal photo."
+}

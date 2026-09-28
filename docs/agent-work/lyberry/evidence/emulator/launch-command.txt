@@ -1,0 +1,30 @@
+Exact command used for the single bounded headless attempt (2026-09-24 09:33):
+
+  export ANDROID_SDK_ROOT=/Users/ghijs/Library/Android/sdk
+  export ANDROID_HOME=/Users/ghijs/Library/Android/sdk
+  /Users/ghijs/Library/Android/sdk/emulator/emulator \
+      -avd Pixel_8a \
+      -port 5580 \
+      -read-only \
+      -no-snapshot-load \
+      -no-snapshot-save \
+      -no-window \
+      -no-audio \
+      -no-boot-anim \
+      -gpu swiftshader_indirect \
+      -crash-report-mode disabled \
+      > /tmp/ly_emulator_5580.log 2>&1 &
+
+Chosen because:
+  * a distinct even console port (5580) gives serial emulator-5580 and avoids the
+    port held by the pre-existing offline instance;
+  * -read-only is the documented way to start a second instance on the same AVD
+    (the AVD already had multiinstance.lock from the earlier session);
+  * -no-snapshot-load/-no-snapshot-save perform a full boot without touching
+    snapshot state;
+  * -crash-report-mode disabled is the supported flag that avoids the Crashpad
+    handshake (which the sandbox denies).
+
+No wipe, no snapshot deletion, no SDK change, no kill of anything pre-existing.
+Shell note: the emulator prints "nice(5) failed: operation not permitted"
+because the sandbox forbids lowering the nice value; it does not abort startup.

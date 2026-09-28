@@ -1,0 +1,12 @@
+{
+  "current_render_copies": [
+    "test/golden/goldens/editor_finished_390x844.png",
+    "test/golden/goldens/photo_cover_crop_320x568_scale1.6.png",
+    "test/golden/goldens/photo_cover_crop_390x844.png",
+    "test/golden/goldens/photo_cover_crop_rotated_390x844.png",
+    "test/golden/goldens/settings_movies_keys_390x844.png"
+  ],
+  "historical_png_count": 101,
+  "historical_pngs_restored_after_test_helpers": [],
+  "historical_png_hashes_match_baseline": true
+}

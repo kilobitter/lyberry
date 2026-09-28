@@ -1,0 +1,7 @@
+Android target: emulator-5554
+Installed app: 0.4.1+6
+SQLite schema: 1
+Copies: 1
+Assets: 0
+Consistent stopped-app database backup kept in private workspace, excluded from source/evidence artifacts.
+No library edits performed.

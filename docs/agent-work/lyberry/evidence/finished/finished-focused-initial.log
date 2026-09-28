@@ -1,0 +1,140 @@
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: exports schema 2 and round-trips both finished states
+00:00 +1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: exports schema 2 and round-trips both finished states
+00:00 +2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: exports schema 2 and round-trips both finished states
+00:00 +3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: exports schema 2 and round-trips both finished states
+00:00 +4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: MediaItem.isFinished a present but non-boolean value is rejected
+00:00 +4 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a schema 2 copy must state the flag
+00:00 +5 -1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a present but non-boolean flag is rejected in schema 2 and 1
+00:00 +5 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: MediaItem.isFinished a present but non-boolean value is rejected [E]
+  Expected: throws <Instance of 'FormatException'>
+    Actual: <Closure: () => MediaItem>
+     Which: returned MediaItem:<MediaItem(00000000-0000-4000-8000-000000000003, book, "Dune")>
+  null
+  
+  package:matcher                                     expect
+  package:flutter_test/src/widget_tester.dart 473:18  expect
+  test/domain/finished_flag_test.dart 56:9            main.<fn>.<fn>
+  
+00:00 +5 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: MediaItem.isFinished copyWith preserves it, equality and hashCode include it
+00:00 +6 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: ItemDraft.isFinished starts false for manual and provider copies
+00:00 +6 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a present but non-boolean flag is rejected in schema 2 and 1 [E]
+  Expected: throws <Instance of 'ValidationException'>
+    Actual: <Closure: () => LibrarySnapshot>
+     Which: returned <Instance of 'LibrarySnapshot'>
+  schema 2, value null
+  
+  package:matcher                                     expect
+  package:flutter_test/src/widget_tester.dart 473:18  expect
+  test/domain/finished_backup_test.dart 90:9          main.<fn>
+  
+00:00 +7 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_backup_test.dart: a schema 1 backup defaults the flag, and honours an explicit value
+00:00 +8 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: ItemDraft.isFinished round-trips through a draft and the built item
+00:00 +9 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/finished_flag_test.dart: ItemDraft.isFinished round-trips through a draft and the built item
+00:00 +10 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects a file over the byte cap before parsing
+00:00 +11 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects a file over the byte cap before parsing
+00:00 +12 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects a file over the byte cap before parsing
+00:00 +13 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects a loose or unreadable schema version
+00:00 +14 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects non-canonical exportedAt and item timestamps
+00:00 +15 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects malformed source blocks instead of dropping them
+00:00 +16 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects per-image and combined image byte caps
+00:00 +17 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: snapshot caps rejects item and asset count caps
+00:00 +18 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/snapshot_hardening_test.dart: strict payload checks rejects duplicate item and asset identities
+00:00 +19 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +20 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +21 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +22 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +23 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +24 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +25 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +26 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +27 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +28 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +29 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +30 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +31 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +32 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a new library stores false and keeps true across close and reopen
+00:00 +33 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a populated schema 1 library upgrades in place
+00:00 +34 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: a future schema version is refused and the file is left alone
+error DatabaseSchemaException: This library was written by a newer version of Lyberry (schema 99). Update the app instead of replacing the file. during open, closing...
+00:00 +35 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/finished_sqlite_test.dart: (tearDownAll)
+00:00 +35 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/sqlite_repository_test.dart: (setUpAll)
+00:00 +35 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/sqlite_repository_test.dart: persists full metadata and photo bytes across close and reopen
+00:01 +36 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +37 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +38 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +39 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +40 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +41 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +42 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +43 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +44 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +45 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +46 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +47 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +47 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/sqlite_repository_test.dart: a file that is not a library fails loudly and is left in place
+error SqfliteFfiException(sqlite_error: 26, , SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version}) DatabaseException(SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version) sql 'PRAGMA user_version' {details: {database: {path: /var/folders/lk/4w48wb_n7t31sj6pr64lptzm0000gn/T/lyberry_repositoryv2EUQF/broken.db, id: 16, readOnly: false, singleInstance: true}}} during open, closing...
+00:01 +48 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +49 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +50 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +51 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:01 +52 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a new book can be marked finished, saved and seen on detail
+00:03 +53 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: cancelling the editor keeps the stored flag
+00:03 +54 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: only books and films show the control
+00:04 +55 -2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a hidden flag survives a medium change and comes back
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following assertion was thrown running a test:
+The finder "Found 0 widgets with key [<'00000000-0000-4000-8000-000000000001'>]: []" (used in a call
+to "tap()") could not find any matching widgets.
+
+When the exception was thrown, this was the stack:
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2090:7)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.tap (package:flutter_test/src/controller.dart:1075:7)
+#3      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart:187:18)
+<asynchronous suspension>
+#4      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#5      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+The test description was:
+  a hidden flag survives a medium change and comes back
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:05 +55 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a hidden flag survives a medium change and comes back [E]
+  Test failed. See exception logs above.
+  The test description was: a hidden flag survives a medium change and comes back
+  
+00:05 +55 -3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a metadata lookup keeps the finished flag
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: at least one matching candidate
+  Actual: _TextWidgetFinder:<Found 0 widgets with text "Dune (provider)": []>
+   Which: means none were found but some were expected
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart:235:5)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart line 235
+The test description was:
+  a metadata lookup keeps the finished flag
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:05 +55 -4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a metadata lookup keeps the finished flag [E]
+  Test failed. See exception logs above.
+  The test description was: a metadata lookup keeps the finished flag
+  
+00:05 +55 -4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: a finished book at 320px with 1.6x text stays usable
+00:06 +56 -4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/finished_field_test.dart: (tearDownAll)
+00:06 +56 -4: Some tests failed.

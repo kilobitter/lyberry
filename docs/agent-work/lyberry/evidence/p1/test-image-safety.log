@@ -1,0 +1,36 @@
+Resolving dependencies...
+Downloading packages...
+  clock 1.1.2 (1.1.3 available)
+  image_picker_android 0.8.13+17 (0.8.13+23 available)
+  matcher 0.12.19 (0.12.20 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.17.0 (1.19.0 available)
+  platform 3.1.6 (3.2.0 available)
+  sqflite 2.4.2+1 (2.4.4 available)
+  sqflite_android 2.4.2+3 (2.4.4 available)
+  sqflite_common 2.5.8 (2.5.13 available)
+  sqflite_common_ffi 2.3.7+1 (2.4.3 available)
+  sqflite_darwin 2.4.2 (2.4.4 available)
+  sqflite_platform_interface 2.4.0 (2.4.2 available)
+  sqlite3 2.9.4 (3.6.0 available)
+  stack_trace 1.12.1 (1.12.2 available)
+  synchronized 3.4.0+1 (3.4.2 available)
+  test_api 0.7.10 (0.7.14 available)
+  vector_math 2.2.0 (2.4.3 available)
+Got dependencies!
+17 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart
+00:00 +0: header-first image safety rejects a PNG pixel bomb from its header, not from a raster
+00:00 +1: header-first image safety rejects a truncated PNG whose header claims huge dimensions
+00:00 +2: header-first image safety rejects a JPEG pixel bomb from its frame header
+00:00 +3: header-first image safety applies the pixel bound to a valid image before decoding
+00:00 +4: header-first image safety rejects animated PNG and animated WebP
+00:00 +5: header-first image safety rejects animation hidden behind many ancillary chunks
+00:00 +6: header-first image safety refuses a chunk pile instead of assuming it is static
+00:00 +7: header-first image safety rejects a conflicting duplicate IHDR before any decode
+00:00 +8: header-first image safety rejects a WebP canvas that contradicts its bitstream
+00:00 +9: webp fixture accepts a real WebP file and reads its header dimensions
+00:00 +10: webp fixture builds a valid, verifiable asset from the WebP fixture
+00:00 +11: asset verification accepts a genuine asset and rejects metadata that lies
+00:00 +12: All tests passed!

@@ -1,0 +1,83 @@
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/upcmdb_client_test.dart: looks a UPC up on the UPC route and keeps the code in the path
+00:00 +1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: sends an allowlisted request and returns the answer
+00:00 +7: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +8: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +9: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +10: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +11: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +12: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +13: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +14: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +15: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +16: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +17: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +18: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +19: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps a documented record onto an editable movie candidate
+00:00 +20: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +21: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +22: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +23: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +24: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +25: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: does not follow redirects and never replays the key
+00:00 +26: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps DVD, Blu-ray, 4K and unknown formats without inventing one
+00:00 +27: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_lookup_service_test.dart: maps DVD, Blu-ray, 4K and unknown formats without inventing one
+00:00 +28: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +29: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +30: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +31: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +32: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +33: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +34: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +35: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +36: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +37: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/movies/movies_transport_test.dart: honours the whole-request deadline
+00:00 +38: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +39: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +40: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +41: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +42: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +43: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +44: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +45: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +46: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +47: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +48: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +49: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +50: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +51: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +52: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +53: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +54: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +55: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +56: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +57: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +58: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +59: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +60: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +61: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +62: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +63: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +64: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +65: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +66: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:00 +67: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie title search sends the typed title and optional year
+00:01 +68: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the movie action appears only for movie or unknown codes
+00:02 +69: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the action is offered next to unwanted matches too
+00:02 +70: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a missing key explains setup and sends no request
+00:02 +71: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the optional year must be a plausible four-digit year
+00:02 +72: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: repeated failures keep every message and a retry
+00:02 +73: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a disposed title search ignores its late answer
+00:03 +74: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: the movie search screen fits 320px at 1.6x text
+00:03 +75: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: movie credential changes invalidate cached movie state
+00:03 +76: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a movie storage failure is surfaced without leaking a value
+00:03 +77: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a late success for edited fields is dropped
+00:03 +78: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a late error for edited fields is dropped
+00:03 +79: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: a second submit while the first is running is ignored
+00:03 +80: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/movie_lookup_flow_test.dart: (tearDownAll)
+00:03 +80: All tests passed!

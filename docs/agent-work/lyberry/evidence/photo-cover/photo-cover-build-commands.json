@@ -1,0 +1,19 @@
+[
+  {
+    "name": "photo-cover-android-build",
+    "command": [
+      "./gradlew",
+      "assembleDebug",
+      "--no-daemon",
+      "--no-watch-fs",
+      "--console=plain",
+      "-Ptarget-platform=android-arm,android-arm64,android-x64",
+      "-Ptarget=lib/main.dart",
+      "-Pbase-application-name=android.app.Application",
+      "-Pdart-obfuscation=false",
+      "-Ptrack-widget-creation=true",
+      "-Ptree-shake-icons=false"
+    ],
+    "exit_code": 0
+  }
+]

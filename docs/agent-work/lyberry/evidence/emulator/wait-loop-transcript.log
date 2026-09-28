@@ -1,0 +1,30 @@
+Bounded wait recorded during the single headless attempt (transcript of the loop
+output; state queried with `adb -s emulator-5580 get-state` every 5 s):
+
+t=5s state=[error: device 'emulator-5580' not found]
+t=10s state=[error: device 'emulator-5580' not found]
+t=15s state=[error: device 'emulator-5580' not found]
+t=20s state=[error: device 'emulator-5580' not found]
+t=25s state=[error: device 'emulator-5580' not found]
+t=30s state=[error: device 'emulator-5580' not found]
+t=35s state=[error: device 'emulator-5580' not found]
+t=40s state=[error: device 'emulator-5580' not found]
+t=45s state=[error: device 'emulator-5580' not found]
+t=50s state=[error: device 'emulator-5580' not found]
+t=55s state=[error: device 'emulator-5580' not found]
+t=60s state=[error: device 'emulator-5580' not found]
+t=65s state=[error: device 'emulator-5580' not found]
+t=70s state=[error: device 'emulator-5580' not found]
+t=75s state=[error: device 'emulator-5580' not found]
+t=80s state=[error: device 'emulator-5580' not found]
+t=85s state=[error: device 'emulator-5580' not found]
+t=90s state=[error: device 'emulator-5580' not found]
+t=95s state=[error: device 'emulator-5580' not found]
+t=100s state=[error: device 'emulator-5580' not found]
+t=105s state=[error: device 'emulator-5580' not found]
+t=110s state=[error: device 'emulator-5580' not found]
+t=115s state=[error: device 'emulator-5580' not found]
+t=120s state=[error: device 'emulator-5580' not found]
+FINAL_STATE=error: device 'emulator-5580' not found
+STARTED pid=63470
+pid 63470 exited   (checked with `kill -0 63470` at the end of the window)

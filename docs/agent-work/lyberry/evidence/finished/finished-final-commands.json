@@ -1,0 +1,39 @@
+[
+  {
+    "name": "finished-analyze",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "--no-version-check",
+      "analyze",
+      "--no-pub"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "finished-format-check",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/dart",
+      "--suppress-analytics",
+      "format",
+      "--output=none",
+      "--set-exit-if-changed",
+      "lib",
+      "test"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "finished-full-suite",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "--no-version-check",
+      "test",
+      "--no-pub",
+      "--reporter",
+      "expanded"
+    ],
+    "exit_code": 0
+  }
+]

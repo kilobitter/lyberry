@@ -1,0 +1,101 @@
+Resolving dependencies...
+Downloading packages...
+  clock 1.1.2 (1.1.3 available)
+  code_assets 1.2.1 (2.1.0 available)
+  cross_file 0.3.5+5 (0.4.0 available)
+  hooks 2.0.2 (2.2.0 available)
+  image_picker_android 0.8.13+17 (0.8.13+23 available)
+  image_picker_ios 0.8.13+7 (0.8.13+8 available)
+  matcher 0.12.19 (0.12.20 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.17.0 (1.19.0 available)
+  objective_c 9.5.0 (9.6.0 available)
+  platform 3.1.6 (3.2.0 available)
+  record_use 0.6.0 (1.1.1 available)
+  sqflite 2.4.2+1 (2.4.4 available)
+  sqflite_android 2.4.2+3 (2.4.4 available)
+  sqflite_common 2.5.8 (2.5.13 available)
+  sqflite_common_ffi 2.3.7+1 (2.4.3 available)
+  sqflite_darwin 2.4.2 (2.4.4 available)
+  sqflite_platform_interface 2.4.0 (2.4.2 available)
+  sqlite3 2.9.4 (3.6.0 available)
+  stack_trace 1.12.1 (1.12.2 available)
+  synchronized 3.4.0+1 (3.4.2 available)
+  test_api 0.7.10 (0.7.14 available)
+  url_launcher_android 6.3.30 (6.3.33 available)
+  vector_math 2.2.0 (2.4.3 available)
+Got dependencies!
+24 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/platform_filter_test.dart
+00:00 +0: (setUpAll)
+00:00 +0: platform options come from games only, deduped, sorted, blanks skipped
+00:00 +1: platform options are empty outside the Games tab
+00:00 +2: platform options prefer mixed case and a readable fallback for duplicates
+00:00 +2 -1: platform options prefer mixed case and a readable fallback for duplicates [E]
+  Expected: ['PlayStation 4']
+    Actual: ['PLAYSTATION 4']
+     Which: at location [0] is 'PLAYSTATION 4' instead of 'PlayStation 4'
+  
+  package:matcher                                     expect
+  package:flutter_test/src/widget_tester.dart 473:18  expect
+  test/ui/platform_filter_test.dart 137:9             main.<fn>.<fn>
+  
+00:00 +2 -1: platform predicate combines with search and All removes only the platform
+00:00 +3 -1: platform predicate a blank or unknown platform resolves to All
+00:00 +4 -1: platform predicate leaving Games and clearing filters reset the selection
+00:00 +5 -1: platform predicate deleting the last entry on the selected platform falls back
+00:00 +6 -1: platform predicate a casing-only option change keeps the exact refreshed value
+00:00 +6 -2: platform predicate a casing-only option change keeps the exact refreshed value [E]
+  Expected: 'playstation 4'
+    Actual: 'PlayStation 4'
+     Which: is different.
+            Expected: playstatio ...
+              Actual: PlayStatio ...
+                      ^
+             Differ at offset 0
+  
+  package:matcher                                     expect
+  package:flutter_test/src/widget_tester.dart 473:18  expect
+  test/ui/platform_filter_test.dart 259:7             main.<fn>.<fn>
+  
+00:00 +6 -2: platform predicate a stale reload cannot overwrite a newer selection
+00:00 +7 -2: home dropdown appears only for Games and filters the grid
+00:01 +8 -2: home dropdown keeps a valid exact selection when the spelling changes
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: null
+  Actual: _AssertionError:<'package:flutter/src/material/dropdown.dart': Failed assertion: line 1025
+pos 10: 'items == null ||
+                       items.isEmpty ||
+                       value == null ||
+                       items.where((DropdownMenuItem<T> item) {
+                             return item.value == value;
+                           }).length ==
+                           1': There should be exactly one item with [DropdownButton]'s value:
+PlayStation 4.
+          Either zero or 2 or more [DropdownMenuItem]s were detected with the same value>
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure>.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/platform_filter_test.dart:349:7)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/platform_filter_test.dart line 349
+The test description was:
+  keeps a valid exact selection when the spelling changes
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:02 +8 -3: home dropdown keeps a valid exact selection when the spelling changes [E]
+  Test failed. See exception logs above.
+  The test description was: keeps a valid exact selection when the spelling changes
+  
+00:02 +8 -3: home dropdown is disabled when no game names a platform
+00:02 +9 -3: home dropdown a long platform name fits 320px at 1.6x text
+00:02 +10 -3: (tearDownAll)
+00:02 +10 -3: Some tests failed.

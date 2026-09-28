@@ -1,0 +1,60 @@
+Real app test on the root-launched emulator (adb CLI only; no code changes)
+2026-09-24, emulator-5554 (sdk_gphone16k_arm64, API 37, sys.boot_completed=1)
+
+device inventory
+  adb devices -l
+    emulator-5554   device product:sdk_gphone16k_arm64 model:sdk_gphone16k_arm64
+                    device:emu64a16k transport_id:555
+    emulator-5562   offline transport_id:561        (pre-existing, untouched)
+  adb -s emulator-5554 get-state            -> device
+  adb -s emulator-5554 shell getprop sys.boot_completed -> 1
+
+install (existing final APK, no rebuild)
+  adb -s emulator-5554 install -r -t deliverables/lyberry-0.2.0-debug.apk
+    Performing Streamed Install
+    Success                                    (exit 0)
+  adb -s emulator-5554 shell dumpsys package app.lyberry.lyberry
+    pkg=Package{b4fcadb app.lyberry.lyberry}
+    versionCode=2 minSdk=24 targetSdk=36
+    versionName=0.2.0
+    lastUpdateTime=2026-09-24 09:40:48
+  APK sha256: 34482a1185d183a9aa57b47c917eaec3b868977c984aa7403495670f7f370a19
+
+launch
+  adb -s emulator-5554 logcat -c
+  adb -s emulator-5554 shell am start -n app.lyberry.lyberry/.MainActivity
+    Starting: Intent { cmp=app.lyberry.lyberry/.MainActivity }
+    (exit 0)
+
+foreground / process (10 s after launch, and again 25 s after launch)
+  pidof app.lyberry.lyberry                 -> 5210 (same pid on the re-check)
+  dumpsys activity activities:
+    topResumedActivity=ActivityRecord{151976786 u0 app.lyberry.lyberry/.MainActivity t28}
+    ResumedActivity: ActivityRecord{151976786 u0 app.lyberry.lyberry/.MainActivity t28}
+  dumpsys window:
+    mCurrentFocus=Window{8f44d7c u0 app.lyberry.lyberry/app.lyberry.lyberry.MainActivity}
+    mFocusedApp=ActivityRecord{151976786 u0 app.lyberry.lyberry/.MainActivity t28}
+
+no crash
+  logcat: "Displayed app.lyberry.lyberry/.MainActivity for user 0: +6s430ms"
+  logcat: "Fully drawn app.lyberry.lyberry/.MainActivity: +6s430ms"
+  grep -cE "FATAL EXCEPTION|AndroidRuntime.*FATAL|ANR in app.lyberry" over 600
+    logcat lines (after the stability re-check) -> 0 matches
+
+screenshot
+  adb -s emulator-5554 exec-out screencap -p > lyberry-home.png
+    1080x2400 PNG, 132537 bytes, exit 0
+  Inspected: shows the Lyberry masthead, "Your collection / 0 items", search,
+  medium tabs, the "RECENTLY ADDED / 0 items" empty state with "Add a copy", and
+  the Library / Scan / Settings bar. First launch is empty, as designed.
+
+real-device finding (not fixed here: this task allowed no source changes)
+  The empty-state secondary action still reads "Scanning arrives in phase 2"
+  (lib/ui/screens/home_screen.dart:181). That is user-facing phase prose, which
+  the P2 brief asked to remove from finished flows; the Scan screen itself is
+  real, so this line is also misleading. Needs a small copy change next cycle.
+
+not tested
+  Camera scanning, gallery picking, native file dialogs and the scanner
+  permission flow were NOT exercised: no UI manipulation was performed beyond
+  launching the activity, and root is inspecting the Android Studio UI.

@@ -1,0 +1,12 @@
+[        ] Xcode not found. Run 'flutter doctor' for more information.
+[  +22 ms] [✓] Flutter (Channel stable, 3.41.6, on macOS 26.5.2 25F84 darwin-x64, locale en-BE) [214ms]
+[        ] Xcode not found. Run 'flutter doctor' for more information.
+[+1169 ms] [✓] Android toolchain - develop for Android devices (Android SDK version 36.1.0) [2.4s]
+[        ] [!] Xcode - develop for iOS and macOS [5.2s]
+[        ]     ✗ Xcode installation is incomplete; a full installation is necessary for iOS and macOS development.
+[        ]       Or install Xcode via the App Store.
+[        ]         sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
+[        ]     • CocoaPods version 1.17.0
+[        ] [✗] Chrome - develop for the web (Cannot find Chrome executable at /Applications/Google Chrome.app/Contents/MacOS/Google Chrome) [42ms]
+[        ] [✓] Connected device (1 available) [167ms]
+[        ] [✓] Network resources [576ms]

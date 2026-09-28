@@ -1,0 +1,16 @@
+Initialized native services in: /Users/ghijs/.gradle/native
+Initialized jansi services in: /Users/ghijs/.gradle/native
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/8.14/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Starting process 'Gradle build daemon'. Working directory: /Users/ghijs/.gradle/daemon/8.14 Command: /Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home/bin/java --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED --add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.xml/javax.xml.namespace=ALL-UNNAMED -XX:MaxMetaspaceSize=4G -XX:ReservedCodeCacheSize=512m -XX:+HeapDumpOnOutOfMemoryError -Xmx8G -Dfile.encoding=UTF-8 -Duser.country=BE -Duser.language=en -Duser.variant -cp /Users/ghijs/.gradle/wrapper/dists/gradle-8.14-all/c2qonpi39x1mddn7hk5gh9iqj/gradle-8.14/lib/gradle-daemon-main-8.14.jar -javaagent:/Users/ghijs/.gradle/wrapper/dists/gradle-8.14-all/c2qonpi39x1mddn7hk5gh9iqj/gradle-8.14/lib/agents/gradle-instrumentation-agent-8.14.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 8.14
+Successfully started process 'Gradle build daemon'
+An attempt to start the daemon took 0.648 secs.
+The client will now receive all logging from the daemon (pid: 99668). The daemon log file: /Users/ghijs/.gradle/daemon/8.14/daemon-99668.out.log
+Daemon will be stopped at the end of the build 
+Using 8 worker leases.
+Received JVM installation metadata from '/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home': {JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home, JAVA_VERSION=22.0.1, JAVA_VENDOR=Oracle Corporation, RUNTIME_NAME=Java(TM) SE Runtime Environment, RUNTIME_VERSION=22.0.1+8-16, VM_NAME=Java HotSpot(TM) 64-Bit Server VM, VM_VERSION=22.0.1+8-16, VM_VENDOR=Oracle Corporation, OS_ARCH=aarch64}
+Watching the file system is configured to be enabled if available
+Now considering [/Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/android] as hierarchies to watch
+File system watching is active
+Starting Build
+Now considering [/Users/ghijs/development/flutter/packages/flutter_tools/gradle, /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/android] as hierarchies to watch
+Watched directory hierarchies: []

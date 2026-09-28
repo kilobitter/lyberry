@@ -1,0 +1,9 @@
+test/services/games/games_transport_test.dart -> 00:00 +9: All tests passed!
+test/services/games/games_request_gate_test.dart -> 00:00 +3: All tests passed!
+test/services/games/scan_dex_client_test.dart -> 00:00 +6: All tests passed!
+test/services/games/twitch_token_client_test.dart -> 00:00 +11: All tests passed!
+test/services/games/igdb_client_test.dart -> 00:00 +11: All tests passed!
+test/services/games/games_lookup_service_test.dart -> 00:00 +20: All tests passed!
+test/services/metadata_service_cache_test.dart -> 00:00 +2: All tests passed!
+test/ui/game_lookup_flow_test.dart -> 00:04 +12: All tests passed!
+test/golden/games_render_test.dart -> 00:02 +5: All tests passed!

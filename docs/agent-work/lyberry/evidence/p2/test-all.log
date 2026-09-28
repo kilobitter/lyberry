@@ -1,0 +1,249 @@
+Resolving dependencies...
+Downloading packages...
+  clock 1.1.2 (1.1.3 available)
+  image_picker_android 0.8.13+17 (0.8.13+23 available)
+  image_picker_ios 0.8.13+7 (0.8.13+8 available)
+  matcher 0.12.19 (0.12.20 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.17.0 (1.19.0 available)
+  platform 3.1.6 (3.2.0 available)
+  sqflite 2.4.2+1 (2.4.4 available)
+  sqflite_android 2.4.2+3 (2.4.4 available)
+  sqflite_common 2.5.8 (2.5.13 available)
+  sqflite_common_ffi 2.3.7+1 (2.4.3 available)
+  sqflite_darwin 2.4.2 (2.4.4 available)
+  sqflite_platform_interface 2.4.0 (2.4.2 available)
+  sqlite3 2.9.4 (3.6.0 available)
+  stack_trace 1.12.1 (1.12.2 available)
+  synchronized 3.4.0+1 (3.4.2 available)
+  test_api 0.7.10 (0.7.14 available)
+  vector_math 2.2.0 (2.4.3 available)
+Got dependencies!
+18 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: (setUpAll)
+00:00 +0: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:01 +1: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:01 +2: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:01 +3: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:02 +4: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:02 +5: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:02 +6: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:02 +7: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:02 +8: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: manual code entry shows candidates and prefills the editor
+00:02 +9: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:02 +10: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:02 +11: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:03 +12: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:03 +13: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:03 +13: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: rapid manual lookups start only one lookup
+
+Warning: A call to tap() with finder "Found 1 widget with key [<'scan-manual-lookup'>]: [
+  FilledButton-[<'scan-manual-lookup'>](dirty, dependencies: [IconTheme, InheritedCupertinoTheme, MediaQuery, _InheritedTheme, _LocalizationsScope-[GlobalKey#845eb], _ScrollableScope], state: _ButtonStyleState#94def),
+]" derived an Offset (Offset(195.0, 600.0)) that would not hit test on the specified widget.
+Maybe the widget is actually off-screen, or another widget is obscuring it, or the widget cannot receive pointer events.
+The finder corresponds to this RenderBox: RenderSemanticsAnnotations#2748c relayoutBoundary=up5 NEEDS-PAINT
+The hit test result at that offset is: HitTestResult(RenderPointerListener#80ae3@Offset(195.0, 600.0), RenderSemanticsAnnotations#8db26@Offset(195.0, 600.0), RenderSemanticsAnnotations#b5fd4@Offset(195.0, 600.0), RenderSemanticsAnnotations#e97d3@Offset(195.0, 600.0), RenderSemanticsAnnotations#9709c@Offset(195.0, 600.0), RenderTapRegionSurface#af936@Offset(195.0, 600.0), RenderSemanticsAnnotations#3d54a@Offset(195.0, 600.0), RenderSemanticsAnnotations#5af43@Offset(195.0, 600.0), HitTestEntry<HitTestTarget>#1cef5(_ReusableRenderView#abc6d), HitTestEntry<HitTestTarget>#05370(<AutomatedTestWidgetsFlutterBinding>))
+#0      WidgetController._getElementPoint (package:flutter_test/src/controller.dart:2158:25)
+#1      WidgetController.getCenter (package:flutter_test/src/controller.dart:1942:12)
+#2      WidgetController.tap (package:flutter_test/src/controller.dart:1075:7)
+#3      main.<anonymous closure> (file:///Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart:243:18)
+<asynchronous suspension>
+#4      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#5      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1682:5)
+<asynchronous suspension>
+#6      StackZoneSpecification._registerCallback.<anonymous closure> (package:stack_trace/src/stack_zone_specification.dart:114:42)
+<asynchronous suspension>
+To silence this warning, pass "warnIfMissed: false" to "tap()".
+To make this warning fatal, set WidgetController.hitTestWarningShouldBeFatal to true.
+
+00:03 +14: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: detail view at 390x844
+00:03 +15: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:03 +16: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail shows rating, review and notes and can delete
+00:04 +17: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:04 +18: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:04 +19: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:04 +20: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:04 +21: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:04 +22: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: editor at 390x844
+00:04 +23: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: edit updates the stored copy
+00:04 +24: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: edit updates the stored copy
+00:04 +25: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:04 +26: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: home grid at 320x568 with 1.6x text
+00:05 +27: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: add another copy clears personal fields and keeps the original
+00:05 +28: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +29: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +30: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +31: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +32: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +33: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +34: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +35: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +36: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +37: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +38: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +39: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +40: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +41: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +41: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/sqlite_repository_test.dart: a file that is not a library fails loudly and is left in place
+error SqfliteFfiException(sqlite_error: 26, , SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version}) DatabaseException(SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version) sql 'PRAGMA user_version' {details: {database: {path: /var/folders/lk/4w48wb_n7t31sj6pr64lptzm0000gn/T/lyberry_repositorygN7aUt/broken.db, id: 16, readOnly: false, singleInstance: true}}} during open, closing...
+00:05 +42: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +43: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +44: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a slow cover cannot replace a newer choice
+00:05 +45: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:05 +46: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:05 +47: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:05 +48: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/render_evidence_test.dart: rated editor at 320x568 with 1.6x text
+00:05 +49: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: picked photos and a cover are stored with the copy
+00:06 +50: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/p2_flow_test.dart: a removed cover is not restored by a slow download
+00:06 +51: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +52: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +53: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +54: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +55: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +56: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +57: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +58: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +59: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +60: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +61: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +62: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +63: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +64: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +65: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the editor honours the 20 photo cap
+00:06 +66: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/backup_isolate_test.dart: export and import round-trip through the default isolate path
+00:06 +67: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: a library that cannot open shows a recoverable error and retries
+00:06 +68: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: a failed save is reported instead of swallowed
+00:06 +69: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:06 +70: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:06 +71: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:06 +72: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:06 +73: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:06 +74: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:06 +75: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:06 +76: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:06 +77: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:06 +78: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: narrow phone at 1.6x text scale has no overflow
+00:06 +79: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: webp fixture accepts a real WebP file and reads its header dimensions
+00:07 +80: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail and scan screens fit a narrow large-text phone
+00:07 +81: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail and scan screens fit a narrow large-text phone
+00:07 +82: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail and scan screens fit a narrow large-text phone
+00:07 +83: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail and scan screens fit a narrow large-text phone
+00:07 +84: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail and scan screens fit a narrow large-text phone
+00:07 +85: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail and scan screens fit a narrow large-text phone
+00:07 +86: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail and scan screens fit a narrow large-text phone
+00:07 +87: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail and scan screens fit a narrow large-text phone
+00:07 +88: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: detail and scan screens fit a narrow large-text phone
+00:07 +89: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/image_safety_test.dart: webp fixture builds a valid, verifiable asset from the WebP fixture
+00:07 +90: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/immutability_test.dart: MediaAsset immutability copies the caller bytes and exposes a read-only view
+00:07 +91: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/domain/immutability_test.dart: MediaAsset immutability copies the caller bytes and exposes a read-only view
+00:07 +92: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:07 +93: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:07 +94: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: recovered photos are validated, deduped and attached
+00:07 +95: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: picking the same photo twice is refused with a notice
+00:07 +96: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +97: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +98: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +99: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +100: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +101: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +102: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +103: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +104: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +105: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +106: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +107: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +108: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +109: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +110: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +111: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +112: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +113: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +114: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +115: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +116: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +117: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +118: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +119: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +120: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +121: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +122: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +123: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +124: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: the photo remove control keeps a 48dp target
+00:07 +125: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:08 +126: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/transport_test.dart: enforces one overall deadline across a trickling body
+00:08 +127: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: a delayed save does not pop a route the user navigated to
+00:08 +128: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: a delayed save does not pop a route the user navigated to
+00:08 +129: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: a delayed save does not pop a route the user navigated to
+00:08 +130: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: a delayed save does not pop a route the user navigated to
+00:08 +131: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: a rated editor fits a narrow large-text phone
+00:08 +132: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/ui/library_flow_test.dart: (tearDownAll)
+00:08 +132: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: Open Library adapter prefers the edition year over the work first-publish year
+00:08 +133: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +134: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +135: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +136: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +137: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +138: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +139: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +140: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +141: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +142: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +143: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +144: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +145: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +146: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +147: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +148: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +149: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/backup_service_test.dart: export writes a portable payload with counts and images
+00:08 +150: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +151: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +152: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +153: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +154: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +155: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +156: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +157: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +158: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +159: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +160: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +161: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +162: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +163: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider rate limiting spaces calls and honours a server cooldown
+00:08 +164: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling keeps the edition candidate when the search request fails
+00:08 +165: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling never presents an Open Library author id as a name
+00:08 +166: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling uses the UPC description when the provider supplies one
+00:08 +167: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling malformed shapes are warnings or failures, not empty results
+00:08 +168: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/providers_test.dart: provider shape handling equivalent identifier forms match exactly
+00:09 +169: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_ingest_test.dart: image ingest builds a content-addressed PNG asset
+00:09 +170: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_ingest_test.dart: image ingest accepts JPEG bytes
+00:09 +171: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_ingest_test.dart: image ingest rejects payloads over the byte limit before decoding
+00:09 +172: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_ingest_test.dart: image ingest rejects images over the pixel limit
+00:09 +173: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_ingest_test.dart: image ingest rejects non-image and unsupported containers
+00:09 +174: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/image_ingest_test.dart: image ingest rejects an empty payload
+00:09 +175: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: routing an ISBN tries books first and only falls back when needed
+00:09 +176: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/scan_coordinator_test.dart: scan coordinator debounces repeated frames of the same barcode
+00:09 +177: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/scan_coordinator_test.dart: scan coordinator debounces repeated frames of the same barcode
+00:09 +178: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/scan_coordinator_test.dart: scan coordinator debounces repeated frames of the same barcode
+00:09 +179: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/scan_coordinator_test.dart: scan coordinator debounces repeated frames of the same barcode
+00:09 +180: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/scan_coordinator_test.dart: scan coordinator debounces repeated frames of the same barcode
+00:09 +181: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: partial results and retry a partial lookup is not cached, so retry reaches the failed provider
+00:09 +182: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: partial results and retry a partial lookup is not cached, so retry reaches the failed provider
+00:09 +183: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/scan_coordinator_test.dart: scan coordinator ignores codes that are not valid identifiers
+00:09 +184: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: partial results and retry a cooling provider answers immediately without hiding other results
+00:09 +185: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: partial results and retry a cooling provider answers immediately without hiding other results
+00:09 +186: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/scan_coordinator_test.dart: scan coordinator a failing lookup does not wedge the coordinator
+00:09 +187: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/scan_coordinator_test.dart: scan coordinator a failing lookup does not wedge the coordinator
+00:09 +188: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: rate limiting at the request boundary Open Library spaces its edition and search requests
+00:09 +189: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: rate limiting at the request boundary Open Library spaces its edition and search requests
+00:09 +190: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: rate limiting at the request boundary Open Library spaces its edition and search requests
+00:09 +191: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/photo_source_test.dart: returns recovered files
+00:09 +192: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: rate limiting at the request boundary a long spacing turns into a cooldown instead of a long wait
+00:09 +193: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: rate limiting at the request boundary two concurrent guarded calls do not both pass immediately
+00:09 +194: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: Retry-After parsing parses delta seconds, HTTP dates and rejects junk
+00:09 +195: /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/services/routing_and_limits_test.dart: Retry-After parsing a past HTTP date clamps to zero
+00:09 +196: All tests passed!

@@ -1,0 +1,6 @@
+Lyberry live provider smoke (2026-09-24 00:06:57.285267Z)
+Codes: 9780306406157 (book), 0724384654726 (CD), 5051892202657 (Blu-ray)
+Only public sample codes are sent; no library data.
+openlibrary (9780306406157): network after 1124ms - Failed host lookup: 'openlibrary.org'
+musicbrainz (0724384654726): OK in 165ms - 1 candidate(s), first: "Elektro Disco" [MusicBrainz, exact, year=1998]
+upcitemdb (5051892202657): OK in 431ms - 1 candidate(s), first: "Microsoft Xbox 360-batman - The Telltale Series (uk Import) Game" [UPCitemdb, exact, year=null]

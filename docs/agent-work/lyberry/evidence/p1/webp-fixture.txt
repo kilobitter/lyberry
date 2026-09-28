@@ -1,0 +1,3 @@
+WebP fixture: test/fixtures/sample.webp
+source: https://www.gstatic.com/webp/gallery/1.sm.webp (official Google WebP gallery, VP8 lossy 320x214)
+eb0b7786cc8f0852e974d91e81b7863cd78413008098ce903deeeda849707512  test/fixtures/sample.webp

@@ -1,0 +1,5 @@
+List of devices attached
+emulator-5562          offline transport_id:914
+
+
+No online Android device available. Install/launch/library-preservation smoke was not performed for 0.6.0. No user-device library was modified.

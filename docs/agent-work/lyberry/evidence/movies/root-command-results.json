@@ -1,0 +1,24 @@
+[
+  {
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "analyze",
+      "--no-pub"
+    ],
+    "exit_code": 1,
+    "log": "docs/agent-work/lyberry/evidence/movies/root-analyze.log"
+  },
+  {
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "test",
+      "--no-pub",
+      "test/services/movies",
+      "test/ui/movie_lookup_flow_test.dart"
+    ],
+    "exit_code": 0,
+    "log": "docs/agent-work/lyberry/evidence/movies/root-focused.log"
+  }
+]

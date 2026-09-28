@@ -1,0 +1,7 @@
+{
+  "test_copy_removed": true,
+  "existing_copies_unchanged": true,
+  "existing_assets_preserved": true,
+  "remaining_copies": 1,
+  "unreferenced_test_assets_retained_by_normal_delete": 2
+}

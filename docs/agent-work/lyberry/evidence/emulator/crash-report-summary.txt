@@ -1,0 +1,39 @@
+Crash reports on this host that relate to the emulator attempts
+(~/Library/Logs/DiagnosticReports), extracted with a small JSON reader over the
+.ips files:
+
+=== qemu-system-aarch64-headless-2026-09-24-093335.ips  (THIS ATTEMPT)
+  time: 2026-09-24 09:33:35 +0200
+  pid: 63470            (matches the launched emulator parent process)
+  parent: zsh           (started by the agent shell, not the flutter tool)
+  exception: EXC_BAD_INSTRUCTION / SIGILL
+  codes: 0x0000000000000001, 0x00000000d53b0029
+  termination: "Illegal instruction: 4" by exc handler
+  faulting thread: 0 (com.apple.main-thread)
+  top frames: qemu-system-aarch64-headless+4598068 -> dyld+314928 ->
+              dyld+360180 -> dyld+583776 -> dyld+570260 -> dyld+576572
+
+  Interpretation: 0xd53b0029 is the ARM64 encoding of `MRS x9, CTR_EL0`, a CPU
+  feature-register read. The crash happens inside qemu's own early startup
+  (called from dyld, before any guest code runs) on the main thread.
+
+=== qemu-system-aarch64-headless-2026-09-24-011856.ips  (earlier attempt)
+  time: 2026-09-24 01:18:56 +0200, pid 22032, parent: zsh
+  exception: EXC_BAD_INSTRUCTION / SIGILL, same codes 0x1, 0xd53b0029
+  same faulting sequence, i.e. byte-for-byte the same early-startup crash.
+
+=== qemu-system-aarch64-2026-09-24-014025.ips  (windowed attempt via flutter)
+  time: 2026-09-24 01:40:25 +0200, pid 28496, parent: dartvm
+  exception: EXC_CRASH / SIGABRT, "Abort trap: 6"
+  top frames: libsystem_kernel -> libsystem_pthread -> libsystem_c ->
+              libQt6CoreAndroidEmu.6.5.3.dylib -> dyld
+  i.e. the graphical (Qt) emulator aborted in its own UI startup path.
+
+The plain `emulator -help` and `emulator -accel-check -crash-report-mode
+disabled` invocations also print the Crashpad line before any of their own
+output:
+  bootstrap_check_in org.chromium.crashpad.child_port_handshake...:
+  Permission denied (1100)
+`-crash-report-mode disabled` suppresses the subsequent fatal Crashpad abort
+(the process reaches "Found systemPath ..."), but the qemu child still dies as
+above.

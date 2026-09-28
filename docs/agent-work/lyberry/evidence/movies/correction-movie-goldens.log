@@ -1,0 +1,12 @@
+Command exited with code 255: fetch --tags
+Standard error: error: cannot open '.git/FETCH_HEAD': Operation not permitted
+
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/golden/movies_render_test.dart
+00:00 +0: (setUpAll)
+00:00 +0: movie title search at 390x844
+00:00 +1: movie title search results at 390x844
+00:01 +2: movie title search at 320x568 with 1.6x text
+00:01 +3: movie title search without a key at 390x844
+00:01 +4: movie credentials settings at 390x844
+00:01 +5: (tearDownAll)
+00:01 +5: All tests passed!

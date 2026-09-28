@@ -1,0 +1,46 @@
+Resolving dependencies...
+Downloading packages...
+  clock 1.1.2 (1.1.3 available)
+  image_picker_android 0.8.13+17 (0.8.13+23 available)
+  matcher 0.12.19 (0.12.20 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.17.0 (1.19.0 available)
+  platform 3.1.6 (3.2.0 available)
+  sqflite 2.4.2+1 (2.4.4 available)
+  sqflite_android 2.4.2+3 (2.4.4 available)
+  sqflite_common 2.5.8 (2.5.13 available)
+  sqflite_common_ffi 2.3.7+1 (2.4.3 available)
+  sqflite_darwin 2.4.2 (2.4.4 available)
+  sqflite_platform_interface 2.4.0 (2.4.2 available)
+  sqlite3 2.9.4 (3.6.0 available)
+  stack_trace 1.12.1 (1.12.2 available)
+  synchronized 3.4.0+1 (3.4.2 available)
+  test_api 0.7.10 (0.7.14 available)
+  vector_math 2.2.0 (2.4.3 available)
+Got dependencies!
+17 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+00:00 +0: loading /Users/ghijs/Documents/Codex/2026-09-23/new-chat/outputs/lyberry/test/data/sqlite_repository_test.dart
+00:00 +0: (setUpAll)
+00:00 +0: persists full metadata and photo bytes across close and reopen
+00:00 +1: keeps two owned copies that share a barcode
+00:00 +2: createCopy keeps metadata, clears personal data and leaves the source
+00:00 +3: searches titles, creators and barcodes and filters by medium
+00:00 +4: percent and underscore in a query are matched literally
+00:00 +5: delete removes only the targeted copy
+00:00 +6: an item referencing a missing image is rejected without a partial write
+00:00 +7: update replaces the row and keeps the identity and creation time
+00:00 +8: update of a missing item fails loudly
+00:00 +9: export then merge preserves ids, assets and separate copies
+00:00 +10: a local item missing from the snapshot stays untouched
+00:00 +11: merge rolls back every row when one incoming item is invalid
+00:00 +12: a file that is not a library fails loudly and is left in place
+error SqfliteFfiException(sqlite_error: 26, , SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version}) DatabaseException(SqliteException(26): while selecting from statement, file is not a database, file is not a database (code 26)
+  Causing statement: PRAGMA user_version) sql 'PRAGMA user_version' {details: {database: {path: /var/folders/lk/4w48wb_n7t31sj6pr64lptzm0000gn/T/lyberry_repositoryYlCU9f/broken.db, id: 16, readOnly: false, singleInstance: true}}} during open, closing...
+00:00 +13: a forged asset id is rejected without touching the library
+00:00 +14: asset metadata that disagrees with its bytes is rejected
+00:00 +15: merge counts inserted assets, not row ids, and stays idempotent
+00:00 +16: merge rolls back when an incoming asset is forged
+00:00 +17: (tearDownAll)
+00:00 +17: All tests passed!

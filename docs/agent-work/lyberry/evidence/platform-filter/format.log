@@ -1,0 +1,20 @@
+Formatted 134 files (0 changed) in 0.36 seconds.
+PathAccessException: Cannot open file, path = '/Users/ghijs/.dart-tool/dart-flutter-telemetry-session.json' (OS Error: Operation not permitted, errno = 1)
+#0      _Link.throwIfError (dart:io/link.dart:358)
+#1      _File.openSync (dart:io/file_impl.dart:572)
+#2      _File.writeAsBytesSync (dart:io/file_impl.dart:744)
+#3      _File.writeAsStringSync (dart:io/file_impl.dart:772)
+#4      ForwardingFile.writeAsStringSync (package:file/src/forwarding/forwarding_file.dart:151)
+#5      writeSessionContents (package:unified_analytics/src/utils.dart:304)
+#6      UserProperty.getSessionId (package:unified_analytics/src/user_property.dart:68)
+#7      UserProperty._toMap (package:unified_analytics/src/user_property.dart:147)
+#8      UserProperty.preparePayload (package:unified_analytics/src/user_property.dart:88)
+#9      generateRequestBody (package:unified_analytics/src/utils.dart:92)
+#10     AnalyticsImpl.send (package:unified_analytics/src/analytics.dart:612)
+#11     DartdevRunner.runCommand (package:dartdev/dartdev.dart:271)
+<asynchronous suspension>
+#12     runDartdev (package:dartdev/dartdev.dart:51)
+<asynchronous suspension>
+#13     main (file:///Volumes/Work/s/w/ir/x/w/sdk/pkg/dartdev/bin/dartdev.dart:13)
+<asynchronous suspension>
+

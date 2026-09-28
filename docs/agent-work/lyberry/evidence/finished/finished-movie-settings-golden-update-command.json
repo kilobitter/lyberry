@@ -1,0 +1,16 @@
+{
+  "command": [
+    "/Users/ghijs/development/flutter/bin/flutter",
+    "--suppress-analytics",
+    "--no-version-check",
+    "test",
+    "--no-pub",
+    "--update-goldens",
+    "--reporter",
+    "expanded",
+    "test/golden/movies_render_test.dart",
+    "--plain-name",
+    "movie credentials settings at 390x844"
+  ],
+  "exit_code": 0
+}

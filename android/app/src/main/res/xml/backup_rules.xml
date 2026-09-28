@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Lyberry 0.3.0 backup rules (Android 11 and older, via android:fullBackupContent).
+
+  API keys live in the FlutterSecureStorage shared preferences file, encrypted
+  by the Android Keystore. The Keystore material itself never leaves the device,
+  so a restored preferences file would be useless anyway; it is excluded from
+  cloud backup and device transfer on purpose. The library itself lives in the
+  SQLite database, which keeps the platform's backup behaviour.
+-->
+<full-backup-content>
+    <exclude domain="sharedpref" path="."/>
+</full-backup-content>

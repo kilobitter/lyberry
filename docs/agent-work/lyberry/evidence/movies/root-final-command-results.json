@@ -1,0 +1,57 @@
+[
+  {
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "test",
+      "--no-pub",
+      "--update-goldens",
+      "test/golden/movies_render_test.dart"
+    ],
+    "exit_code": 0,
+    "log": "docs/agent-work/lyberry/evidence/movies/root-movie-goldens-update.log"
+  },
+  {
+    "command": [
+      "/Users/ghijs/development/flutter/bin/dart",
+      "--suppress-analytics",
+      "format",
+      "lib",
+      "test"
+    ],
+    "exit_code": 0,
+    "log": "docs/agent-work/lyberry/evidence/movies/root-format.log"
+  },
+  {
+    "command": [
+      "/Users/ghijs/development/flutter/bin/dart",
+      "--suppress-analytics",
+      "format",
+      "--set-exit-if-changed",
+      "lib",
+      "test"
+    ],
+    "exit_code": 0,
+    "log": "docs/agent-work/lyberry/evidence/movies/root-format-check.log"
+  },
+  {
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "analyze",
+      "--no-pub"
+    ],
+    "exit_code": 0,
+    "log": "docs/agent-work/lyberry/evidence/movies/root-analyze-final.log"
+  },
+  {
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "test",
+      "--no-pub"
+    ],
+    "exit_code": 1,
+    "log": "docs/agent-work/lyberry/evidence/movies/root-full-suite.log"
+  }
+]

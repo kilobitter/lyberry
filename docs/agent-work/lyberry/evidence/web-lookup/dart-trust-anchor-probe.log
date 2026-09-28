@@ -1,0 +1,5 @@
+Running build hooks...Running build hooks...public example.com with system roots:
+  OK peer=/CN=example.com
+local server with a trusted test CA in an injected context:
+  FAIL OS Error: 
+	CERTIFICATE_VERIFY_FAILED: application verification failure(handshake.cc:298)

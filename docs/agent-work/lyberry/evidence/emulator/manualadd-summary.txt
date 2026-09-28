@@ -1,0 +1,57 @@
+# Live emulator verification - Lyberry 0.2.0 debug (bounded bundle)
+date: 2026-09-24 09:55:28 CEST
+
+## device
+List of devices attached
+emulator-5554          device product:sdk_gphone16k_arm64 model:sdk_gphone16k_arm64 device:emu64a16k transport_id:555
+emulator-5562          offline transport_id:650
+
+
+## installed package
+    versionCode=2 minSdk=24 targetSdk=36
+    versionName=0.2.0
+    lastUpdateTime=2026-09-24 09:48:36
+      firstInstallTime=2026-09-24 09:40:48
+
+## running process / focus
+pid=9622
+  mCurrentFocus=Window{f5d2dda u0 app.lyberry.lyberry/app.lyberry.lyberry.MainActivity}
+
+## home screen semantics after manual add + cold restart (docs/agent-work/lyberry/evidence/emulator/ui-after-restart-semantics.xml)
+  desc='1 item'
+  desc='1 item'
+  desc='Emulator Smoke Test Book, Flash QA | Book\nEmulator Smoke Test Book cover\nEmulator Smoke Test Book\nFlash QA | Book\nRated 4.5 out of 5'
+
+## empty-state action label (docs/agent-work/lyberry/evidence/emulator/ui-home-empty-semantics.xml)
+  found content-desc "Scan a barcode" at [373,1680][707,1806]
+
+## scan screen semantics with camera permission denied (docs/agent-work/lyberry/evidence/emulator/ui-scan-semantics.xml)
+  desc='Camera access is off\nType the ISBN or barcode below instead.'
+
+## sqlite state pulled from device (docs/agent-work/lyberry/evidence/emulator/pulled-lyberry.db)
+1
+                id = 8f1fbff4-4787-4515-b3ca-20bf0c64718a
+            medium = book
+             title = Emulator Smoke Test Book
+           creator = Flash QA
+         publisher = 
+       description = 
+          platform = 
+              year = 2026
+           barcode = 
+            rating = 4.5
+            review = 
+             notes = 
+    cover_asset_id = 
+   photo_asset_ids = []
+source_provider_id = 
+source_external_id = 
+        source_url = 
+        created_at = 2026-09-24T07:53:42.270773Z
+        updated_at = 2026-09-24T07:53:42.270773Z
+
+## crash check after cold restart
+  fatal_or_anr_lines=0
+
+## apk
+149f500ea213da9b43bb92d4260a7f7d58081e90e70315f624e869c8f653dfd5  deliverables/lyberry-0.2.0-debug.apk

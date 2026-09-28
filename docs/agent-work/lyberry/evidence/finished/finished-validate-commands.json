@@ -1,0 +1,21 @@
+[
+  {
+    "name": "finished-focused",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "--no-version-check",
+      "test",
+      "--no-pub",
+      "--reporter",
+      "expanded",
+      "test/domain/finished_flag_test.dart",
+      "test/domain/finished_backup_test.dart",
+      "test/domain/snapshot_hardening_test.dart",
+      "test/data/finished_sqlite_test.dart",
+      "test/data/sqlite_repository_test.dart",
+      "test/ui/finished_field_test.dart"
+    ],
+    "exit_code": 1
+  }
+]

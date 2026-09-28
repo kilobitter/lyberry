@@ -1,0 +1,55 @@
+[
+  {
+    "name": "correction-focused",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "--no-version-check",
+      "test",
+      "--no-pub",
+      "--reporter",
+      "expanded",
+      "test/services/movies",
+      "test/ui/movie_lookup_flow_test.dart",
+      "test/services/routing_and_limits_test.dart"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "correction-analyze",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "--no-version-check",
+      "analyze",
+      "--no-pub"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "correction-format-check",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/dart",
+      "--suppress-analytics",
+      "format",
+      "--output=none",
+      "--set-exit-if-changed",
+      "lib",
+      "test"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "correction-full-suite",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "--no-version-check",
+      "test",
+      "--no-pub",
+      "--reporter",
+      "expanded"
+    ],
+    "exit_code": 0
+  }
+]

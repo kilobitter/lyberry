@@ -1,0 +1,58 @@
+[
+  {
+    "name": "correction-format",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/dart",
+      "--suppress-analytics",
+      "format",
+      "lib",
+      "test"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "correction-movie-goldens",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "test",
+      "--no-pub",
+      "--update-goldens",
+      "--reporter",
+      "expanded",
+      "test/golden/movies_render_test.dart"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "correction-settings-golden",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "test",
+      "--no-pub",
+      "--update-goldens",
+      "--reporter",
+      "expanded",
+      "test/golden/games_render_test.dart",
+      "--plain-name",
+      "games credentials settings at 390x844"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "correction-focused",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "test",
+      "--no-pub",
+      "--reporter",
+      "expanded",
+      "test/services/movies",
+      "test/ui/movie_lookup_flow_test.dart",
+      "test/services/routing_and_limits_test.dart"
+    ],
+    "exit_code": 1
+  }
+]

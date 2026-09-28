@@ -1,0 +1,40 @@
+Environment diagnostics captured 2026-09-24 09:33-09:36 (all read-only):
+
+=== sandbox write tests (the emulator must write lock/state files here) ===
+  touch /Users/ghijs/.android/avd/Pixel_8a.avd/.codex_wtest  -> AVD_WRITE_DENIED
+  touch /Users/ghijs/.android/avd/.codex_wtest               -> AVD_ROOT_WRITE_DENIED
+  touch /Users/ghijs/.android/.codex_wtest                   -> ANDROID_WRITE_DENIED
+
+=== host capability probes ===
+  sysctl hw.optional.arm64  -> sysctl: sysctl fmt -1 1024 1: Operation not permitted
+  sysctl kern.hv_support    -> sysctl: sysctl fmt -1 1024 1: Operation not permitted
+  sysctl hw.ncpu            -> sysctl: sysctl fmt -1 1024 1: Operation not permitted
+
+=== emulator hypervisor check (with crash reporting disabled) ===
+  /Users/ghijs/Library/Android/sdk/emulator/emulator -accel-check \
+      -crash-report-mode disabled
+  output:
+    accel:
+    0
+    Hypervisor.Framework OS X Version 26.5
+    accel
+    INFO | Crashreporting disabled, not reporting crashes.
+  exit status: 0
+
+=== qemu binaries present ===
+  -rwxr-xr-x  55308960  qemu-system-aarch64
+  -rwxr-xr-x  45556112  qemu-system-aarch64-headless
+
+=== emulator AVd/xADB state before and after ===
+  before: adb devices -l -> emulator-5562  offline transport_id:515
+  after : adb devices -l -> emulator-5562  offline transport_id:537
+  (the offline entry is a stale registration; nothing was killed or reset by
+  the agent - `adb start-server` only (re)started the adb server, which can
+  renumber/re-register that stale entry.)
+
+=== AVD state files (unchanged by this attempt) ===
+  multiinstance.lock        mtime 2026-09-24 01:46 (earlier session)
+  snapshot.trace            mtime 2026-09-24 01:46
+  userdata-qemu.img.qcow2   mtime 2026-09-24 01:47
+  => the new instance did not acquire the AVD lock or write new state, which is
+  consistent with the denied writes above.

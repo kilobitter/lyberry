@@ -1,0 +1,20 @@
+[
+  {
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "analyze"
+    ],
+    "exit_code": 255,
+    "log": "docs/agent-work/lyberry/evidence/movies/root-analyze-initial.log"
+  },
+  {
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "test",
+      "test/services/movies",
+      "test/ui/movie_lookup_flow_test.dart"
+    ],
+    "exit_code": 255,
+    "log": "docs/agent-work/lyberry/evidence/movies/root-focused-initial.log"
+  }
+]

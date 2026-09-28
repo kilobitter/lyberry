@@ -1,0 +1,17 @@
+[
+  {
+    "name": "photo-cover-goldens-update",
+    "command": [
+      "/Users/ghijs/development/flutter/bin/flutter",
+      "--suppress-analytics",
+      "--no-version-check",
+      "test",
+      "--no-pub",
+      "--update-goldens",
+      "--reporter",
+      "expanded",
+      "test/golden/photo_cover_render_test.dart"
+    ],
+    "exit_code": 0
+  }
+]
